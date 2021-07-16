@@ -11,7 +11,6 @@ Interlock is a first-of-its-kind DeSec (Decentralized Security, Analytics & Inte
 %%{init: { 'theme': 'forest' } }%%
 graph LR
     A[Browse the internet] --> B{Choose data to share}
-    B --> C{Decision}
     B -->|Share security data| C[Earn INTER token]
     B -->|Stay private| D[Stay protected from online scams]
 ```
