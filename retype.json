@@ -1,4 +1,5 @@
 {
+    "base": ".",
     "branding": {
         "title": "Interlock",
         "label": "Alpha",
