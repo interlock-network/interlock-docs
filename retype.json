@@ -1,17 +1,55 @@
 {
-  "input": ".",
-  "output": ".retype",
-  "branding": {
-    "title": "Project Name",
-    "label": "Docs"
-  },
-  "links": [
-    {
-      "text": "Getting Started",
-      "link": "https://retype.com/guides/getting-started/"
+    "input": ".",
+    "output": ".retype",
+    "cname": "interlock.network",
+
+    "branding": {
+        "title": "Interlock",
+        "label": "Alpha",
+        "logo": "/static/logo.png",
+        "logoDark": "/static/logo-dark.png"
+     },
+
+    "meta": {
+        "title": " | Interlock - Decentralize Trust"
+    },
+
+    "edit": {
+        "repo": "https://github.com/interlock-network/interlock-whitepaper"
+    },
+
+    "links": [
+        {
+            "text": "Home",
+            "link": "/README.md"
+        },
+        {
+            "text": "GitHub",
+            "link": "https://github.com/interlock-network/interlock-whitepaper",
+            "target": "blank"
+        },
+        {
+            "text": "Issues",
+            "link": "https://github.com/interlock-network/interlock-whitepaper/issues",
+            "target": "blank"
+        },
+        {
+            "text": "PDF",
+            "link": "https://github.com/interlock-network/resources/raw/cbc92cfa16921e0bec65eaa5910f14b23e857c1f/whitepaper/whitepaper2.pdf",
+            "target": "blank"
+        }
+    ],
+
+    "footer": {
+        "copyright": "© Copyright {{ year }}. [Apozy, Inc.](https://www.apozy.com/) All rights reserved.",
+        "links": [
+            {
+                "text": "About",
+                "link": "about.md"
+            }
+        ]
+    },
+
+    "integrations": {
     }
-  ],
-  "footer": {
-    "copyright": "&copy; Copyright {{ year }}. All rights reserved."
-  }
 }
