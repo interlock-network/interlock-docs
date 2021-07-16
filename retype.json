@@ -1,5 +1,6 @@
 {
-    "base": ".",
+    "input": ".",
+    "output": ".retype",
     "branding": {
         "title": "Interlock",
         "label": "Alpha",
