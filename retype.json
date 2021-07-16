@@ -1,8 +1,4 @@
 {
-    "input": ".",
-    "output": ".retype",
-    "cname": "interlock.network",
-
     "branding": {
         "title": "Interlock",
         "label": "Alpha",
@@ -48,8 +44,5 @@
                 "link": "about.md"
             }
         ]
-    },
-
-    "integrations": {
     }
 }
