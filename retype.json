@@ -5,7 +5,7 @@
 
     "branding": {
         "title": "Interlock",
-        "label": "Alpha",
+        "label": "Pre-alpha",
         "logo": "/static/logo.png",
         "logoDark": "/static/logo-dark.png"
      },
