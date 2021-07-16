@@ -46,7 +46,7 @@
         "links": [
             {
                 "text": "About",
-                "link": "about.md"
+                "link": "README.md"
             }
         ]
     }
