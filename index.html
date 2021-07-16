@@ -8,19 +8,19 @@
     <!-- Primary Meta Tags -->
     <title>About | Interlock - Decentralize Trust</title>
     <meta name="title" content="About | Interlock - Decentralize Trust">
-    <meta name="description" content="Join us on Discord" />
+    <meta name="description" content="Interlock is a first-of-its-kind DeSec (Decentralized Security, Analytics & Intelligence) ecosystem." />
 
     <!-- Open Graph / Facebook -->
     <meta property="og:type" content="website">
     <meta property="og:url" content="/interlock-whitepaper/">
     <meta property="og:title" content="About | Interlock - Decentralize Trust">
-    <meta property="og:description" content="Join us on Discord">
+    <meta property="og:description" content="Interlock is a first-of-its-kind DeSec (Decentralized Security, Analytics & Intelligence) ecosystem.">
 
     <!-- Twitter -->
     <meta property="twitter:card" content="summary_large_image">
     <meta property="twitter:url" content="/interlock-whitepaper/">
     <meta property="twitter:title" content="About | Interlock - Decentralize Trust">
-    <meta property="twitter:description" content="Join us on Discord">
+    <meta property="twitter:description" content="Interlock is a first-of-its-kind DeSec (Decentralized Security, Analytics & Intelligence) ecosystem.">
     
     <script>(function () { var el = document.documentElement, m = localStorage.getItem("/interlock-whitepaper/doc_theme"), wm = window.matchMedia; if (m === "dark" || (!m && wm && wm("(prefers-color-scheme: dark)").matches)) { el.classList.add("dark") } else { el.classList.remove("dark") } })();</script>
 
@@ -29,6 +29,7 @@
 
     <script type="text/javascript" src="/interlock-whitepaper/resources/js/config.js" defer></script>
     <script type="text/javascript" src="/interlock-whitepaper/resources/js/retype.js" defer></script>
+    <script id="mermaid-js" type="text/javascript" src="/interlock-whitepaper/resources/js/mermaid.js" defer></script>
 </head>
     <body>
         <div id="docs-app" class="relative text-base antialiased text-gray-700 bg-white font-body dark:bg-dark-850 dark:text-dark-300">
@@ -202,6 +203,16 @@
         <span>About</span>
     </h1>
 </doc-anchor-target>
+<p>Interlock is a first-of-its-kind DeSec (Decentralized Security, Analytics &amp; Intelligence) ecosystem.</p>
+<div class="overflow-hidden mb-6 py-4 dark:px-5 dark:bg-white rounded-md"><pre class="mermaid w-full">%%{init: { 'theme': 'forest' } }%%
+graph LR
+    A[Browse the internet] --&gt; B{Choose data to share}
+    B --&gt; C{Decision}
+    B --&gt;|Share security data| C[Earn INTER token]
+    B --&gt;|Stay private| D[Stay protected from online scams]</pre></div>
+<p>Interlock is an ecosystem of Security and Analytics tools where people earn INTER<br />
+tokens for contributing security and analytics data they control.</p>
+<p>We are calling the space DeSec, the first of its kind decentralized security and intelligence. The first application in the ecosystem, as an example, is Airlock an anti-phishing and threat sharing platform that is a browser extension you can install and use; however, Airlock does not yet support blockchain and Inter token earning, that is still a work-in-progress.</p>
 <doc-anchor-target id="useful-links">
     <h2>
         <doc-anchor-trigger class="header-anchor-trigger" to="#useful-links">#</doc-anchor-trigger>
@@ -244,7 +255,7 @@ the <a href="https://github.com/interlock-network/interlock-whitepaper/issues">I
             </div>
 
             <div class="flex flex-wrap items-center justify-between mt-14">
-    <a class="my-2.5 inline-flex items-center text-sm whitespace-nowrap text-blue-500 dark:text-blue-400 hover:text-blue-700 hover:underline" href="https://github.com/interlock-network/interlock-whitepaper/blob/main/README.md" target="_blank" rel="noopener">
+    <a class="my-2.5 inline-flex items-center text-sm whitespace-nowrap text-blue-500 dark:text-blue-400 hover:text-blue-700 hover:underline" href="https://github.com/interlock-network/interlock-whitepaper/blob/master/README.md" target="_blank" rel="noopener">
         <svg class="mr-1.5" xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 24 24" fill="currentColor" overflow="visible"><path d="M20 12c-.55 0-1 .45-1 1v7c0 .55-.45 1-1 1H4c-.55 0-1-.45-1-1V6c0-.55.45-1 1-1h7c.55 0 1-.45 1-1s-.45-1-1-1H4C2.35 3 1 4.35 1 6v14c0 1.65 1.35 3 3 3h14c1.65 0 3-1.35 3-3v-7c0-.55-.45-1-1-1z" /><path d="M22.21 1.79c-1.18-1.18-3.24-1.18-4.41 0l-9.5 9.5c-.13.13-.22.29-.26.46l-1 4c-.08.34.01.7.26.95.18.2.44.3.7.3.08 0 .16-.01.24-.03l4-1c.18-.04.34-.13.46-.26l9.5-9.5c1.22-1.22 1.22-3.2.01-4.42zm-1.42 3l-9.3 9.3-2.11.53.53-2.11 9.3-9.3c.42-.42 1.16-.42 1.59 0 .43.43.43 1.15-.01 1.58z" /><path fill="none" d="M0 0h24v24H0z" /></svg>
         <span>Edit this page</span>
     </a>
@@ -311,6 +322,6 @@ the <a href="https://github.com/interlock-network/interlock-whitepaper/issues">I
 
         <div id="docs-overlay-target"></div>
 
-        <script>window.__DOCS__ = { "title": "Home", icon: "file", hasPrism: false, hasMermaid: false }</script>
+        <script>window.__DOCS__ = { "title": "Home", icon: "file", hasPrism: false, hasMermaid: true }</script>
     </body>
 </html>
