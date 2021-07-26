@@ -9,7 +9,7 @@ abstract: |
   those gatekeepers.
 author:
 - Interlock Team
-date: 2021-7-21
+date: 2021-7-26
 title: Whitepaper
 ---
 
@@ -50,13 +50,13 @@ please read on.
 The writers of this paper, dear reader, are old enough to remember the
 following: napster, gnutella, bit-torrent, Usenet, slashdot, RSS Feeds,
 Tor, Google before it became evil, and Open Source before it became
-cool. We remember an internet where nobody knew that you were a dog
-&mdash;  and, more importantly, nobody cared. We remember when being
+cool.  We remember an internet where nobody knew that you were a dog
+&mdash; and, more importantly, nobody cared. We remember when being
 social on the internet meant that you had a blog, read(and shared files
 on) USENET, and participated in Slashdot discussions and flame-wars as
 an 'Anonymous Coward'. We remeber that being informed meant that you
 used Google Reader &mdash;  RIP &mdash;  to read RSS feeds which were
-absolutely everywhere. And if you *really* wanted to stick it to The
+absolutely everywhere.  And if you *really* wanted to stick it to The
 Man, you installed Linux on your second-hand beige-box and Firefox on
 your folks' Windows computer &mdash;  we still have vivid memories and
 strong feelings about MSFT, and quite a bit of residual PTSD and mental
@@ -66,7 +66,7 @@ Netflix, YouTube, and Spotify instead of BitTorrent. Also USENET,
 Slashdot, and friends are all ghost-towns &mdash;  while their nearest
 equivalents have been overrun by trolls, cat-pictures, memes,
 advertisers, and cybercriminals. Oh, and Microsoft is an increasingly
-popular and increasingly open-source company &mdash;  which is as
+popular and increasingly open-source company &mdash; which is as
 inconceivable as Ghengis Khan becoming an exemplary Red Cross volunteer.
 
 Clearly, there has been a pendulum swing from a decentralized and
@@ -137,7 +137,7 @@ If the end of the previous section has you feeling like you have been
 conned, like you are &mdash;  sooner or later &mdash;  the eventual
 victim of an unsustainable and tenuous pyramid scheme, well, that was
 our intent. To be clear, we are not trying to scare you with ghost
-stories. We *wish* these were just ghost stories &mdash;  the
+stories.  We *wish* these were just ghost stories &mdash;  the
 exaggerations of a handful of nerds, hackers, and cypherpunks trying to
 shock you into listening. But the pyramid is built on a shaky foundation
 and the dangers are real.
@@ -149,7 +149,7 @@ that have a growing presence on the internet. We have a multitude of
 delightful statistics that back up this claim. The areas of cybercrime,
 fraud, and identity-theft are so ripe and pregnant with opportunities
 that even nation-states are eager to get in on it &mdash;  and they are
-not even trying to conceal their involvment.  Yes, they give *zero*
+not even trying to conceal their involvment. Yes, they give *zero*
 fucks, because they are confident that the majority of the populace is
 too distracted and too impoverished to actually &mdash;  in the words of
 Morpheus &mdash;  *wake up*.
@@ -169,7 +169,7 @@ their ultimate goal, currency, crypto or otherwise.
 And that is just the most obvious form of theft &mdash;  material theft.
 Once business and politics and religion enter the equation, lines and
 categories start to get blurry very fast. For example, can *truth* be
-stolen? If so, does that make a flat-earther a criminal?  What about the
+stolen? If so, does that make a flat-earther a criminal? What about the
 corporate marketing department that uses flawed benchmarking
 methodologies to convince you that their product is superior to the
 competition? What about alternative or traditional medicine books? What
@@ -196,7 +196,7 @@ to be exploited. The fromer seeks to attack and corrupt the state of
 your bank account, while the latter seeks to attack and corrupt your
 state of mind. You will find it easy, even effortless, to be angry with
 the former, but you may find it difficult to be angry with the latter
-&mdash;  you cannot be angry with the tobacco company for selling you
+&mdash; you cannot be angry with the tobacco company for selling you
 exactly what you asked for.
 
 
@@ -207,41 +207,41 @@ written on it, you would see 'Exchangeable for Gold'. After 1971, it
 would only say 'In God We Trust'. We used to believe in the dollar
 because we used to believe in gold &mdash;  now we believe in the dollar
 because we believe in the dollar. This is what some historians would
-call a revolution, others would call it a *paradigm shift*.  Paradigm
-shifts, and for that matter paradigms themselves, are &mdash; and please
-do not mistake this for belittlement, quite the opposite in fact &mdash;
-entirely *imaginary*. You cannot measure or touch a paradigm. A paradigm
-does not emit heat or have mass. Yet paradigms have been the organizing
-principle of society since humanity learned how to speak and write
-things down. A paradigm is a shared hallucination.
+call a revolution, others would call it a *paradigm shift*. Paradigm
+shifts, and for that matter paradigms themselves, are &mdash;  and
+please do not mistake this for belittlement, quite the opposite in fact
+&mdash; entirely *imaginary*. You cannot measure or touch a paradigm. A
+paradigm does not emit heat or have mass. Yet paradigms have been the
+organizing principle of society since humanity learned how to speak and
+write things down. A paradigm is a shared hallucination.
 
 Every paradigm contains the seeds of its own destruction. The bible was
 the first book that was mass-printed &mdash;  shortly after that the
 catholic church lost half of its believers to the various protestant
 denominations. The feudal and heriditary paradigms of Europe were eroded
-and overthrown by the steady growth of capitalism.  The industrial
+and overthrown by the steady growth of capitalism. The industrial
 capitalist paradigm had, after the Great Depression, given birth to both
 fascism and communism. And the surviving contenders of the Second World
-War, created the Cold War (i.e.  bipolar) paradigm. This paradigm
+War, created the Cold War (i.e. bipolar) paradigm. This paradigm
 collapsed into one of globalisation and informationalism. New gods for
 old.
 
 Trust, just like a paradigm, is powered by *belief*. You cross the
 street with minimal anxiety because you trust the drivers to be sober
-enough to obey the traffic laws(also a good example of a paradigm).  You
+enough to obey the traffic laws(also a good example of a paradigm). You
 use the same two passwords on every site because you trust that the
 programmers that made the site have a minimal level of technical
 competence and a minimal regard for your security and privacy. Some
 Runescape-playing twelve-year-old kid drops all their hard-earned loot
 in front of another player and presses `Alt-F4` because that other
 player told them it was a glitch that would duplicate all of the items
-in their inventory &mdash;  that kid *trusted* someone who was
+in their inventory &mdash; that kid *trusted* someone who was
 *untrustworthy*, and learned a *painful* but *important* lesson about
 *trust*. The internet is basically like that Runescape example. The
 entire system depends on trust to get anything done, but there are too
 many people and you cannot trust them blindly. What to do? Well, we did
 what we have always done, we created institutions (i.e. social networks
-and banks) and placed our *trust* and our *faith* in *them*.  It sounds
+and banks) and placed our *trust* and our *faith* in *them*. It sounds
 perfectly reasonable, no? Sure. But such institutions are powered by
 people, and the people &mdash;  just like criminals and liars &mdash;
 have to respond to market-pressures. We used to *trust* our
@@ -265,14 +265,14 @@ surplus) from the previous power-holders (i.e. the mass media, the
 industry, the publishers, etc). Think about it, more people watched the
 Fortnite tournament than actual sporting events. In fact, viewership of
 the *Olympics* has started declining towards the end of the last decade
-&mdash;  after a half century of *growing* viewership.  Book stores are
+&mdash;  after a half century of *growing* viewership. Book stores are
 no longer mainstream, and the internet's pre-eminent book store has
 evolved into a titanic giant that sells *everything* and delivers it to
 your residence within 2 days &mdash;  and they also collect rents for
 roughly *one third* of all computation and storage that is provisioned
 on a Cloud. A ride-sharing company has displaced local taxi-cab
 companies *in the entire world* &mdash;  not merely in a city or a state
-or a nation. Video rental stores probably do not exist, but the
+or a nation.  Video rental stores probably do not exist, but the
 internet's pre-eminent video rental store has emerged as a formidable
 cultural force spending tens of billions of dollars per year producing
 original and highly regarded, or at least highly viewed, films and
@@ -328,7 +328,7 @@ so in ways that are *opaque*. We do not know *why* certain tweets appear
 in our feeds and others do not &mdash;  and even if we did, there is
 nothing we can do *customize* our feed(aside from following/unfollowing
 various accounts). We can see a Reddit user's karma-score as well as the
-score of their individual posts &mdash; which is slightly less opaque
+score of their individual posts &mdash;  which is slightly less opaque
 than Hacker News's ranking system &mdash;  but we cannot see *who*
 up-voted or down-voted that user's posts. In fact, we have no way of
 knowing if that karma score has not been accidentally inflated by a
@@ -363,9 +363,9 @@ Neoclassical Utopia aflame, the Keynesian school arose and argued that a
 Utopia could not be maintained without a Leviathan &mdash;  they argued
 that the individual was certainly important, but not nearly as important
 as the *structure* of the economy. These two views correspond to
-microeconomics (i.e. reasoning that individuals ruthlessly purseuing
+microeconomics (i.e.  reasoning that individuals ruthlessly purseuing
 their own self-interest will create the most desirable outcomes for all
-of humanity) and macroeconomics (i.e.  reasoning that *tracking*
+of humanity) and macroeconomics (i.e. reasoning that *tracking*
 macroeconomic indicators like GDP, unemployment, inflation, and
 interest-rates and *tuning* those macroeconomic variables will create
 the most desirable outcomes for all of humanity). Put differently, one
@@ -380,19 +380,19 @@ The Marxians are primarily concerned with *the means of production*
 &mdash;  specifically, what they are, who is the class that owns them,
 who is the class that operates them, what are their outputs, what is
 their economic surplus, and who captures what proportion of that
-surplus. They marvel at the economic efficiency and dynamism unlocked by
-the transition from feudalism to capitalism, but they believe that any
-arrangement in which the class that operates the means of production but
-does not own or control those means is fundementally unjust, and does
-not fulfil the(false) promises of Humanism(the philosophy undergirding
-both Neoclassical and Keynesian social orders). They also believe that
-individuals and economic-structures are always shaping each-other via a
-never-ending *dialectics* &mdash; in effect, they are *simultaneously*
-cause *and* effect. And that is pretty much all of the Marxian school
-*that is relevant to this paper* &mdash;  there is a lot of other stuff
-(i.e. central planning as a suitable alternative to the market) that is
-simply not compatible with a globalized marketplace, nor is it
-compatible with a trend towards hyper-decentralization.
+surplus.  They marvel at the economic efficiency and dynamism unlocked
+by the transition from feudalism to capitalism, but they believe that
+any arrangement in which the class that operates the means of production
+but does not own or control those means is fundementally unjust, and
+does not fulfil the(false) promises of Humanism(the philosophy
+undergirding both Neoclassical and Keynesian social orders). They also
+believe that individuals and economic-structures are always shaping
+each-other via a never-ending *dialectics* &mdash;  in effect, they are
+*simultaneously* cause *and* effect. And that is pretty much all of the
+Marxian school *that is relevant to this paper* &mdash;  there is a lot
+of other stuff (i.e. central planning as a suitable alternative to the
+market) that is simply not compatible with a globalized marketplace, nor
+is it compatible with a trend towards hyper-decentralization.
 
 We basically agree with all of these theories, and want to use the three
 perspectives to construct a globally decentralized network that will
@@ -406,7 +406,7 @@ a little bit like trying to eliminate the police or trying to eliminate
 schools. Obviously policing and schooling are very important and nobody
 would ever consider decentralizing them, let alone eliminating them. So
 should ask ourselves, what kind of a people have no need for the police?
-What kind of people have no need for schools?  The answer, dear reader,
+What kind of people have no need for schools? The answer, dear reader,
 is people that are *self-policing* and *self-schooling*. Obviously, such
 people are very rare, otherwise we would not need schools and police
 departments. However, a computer that is not under the control of any
@@ -449,12 +449,12 @@ proportion to how much vote-tokens all of these users have vouched. If
 the other user gets downvotes then the voucher loses a proportional
 amount of vote-tokens &mdash;  so one should not vouch blindly. Vouching
 can be time-limited, and the vouchee has to explicitly accept the vouch.
-Lastly users can *share*.  Sharing essentially lets a user post an
+Lastly users can *share*. Sharing essentially lets a user post an
 arbitrary byte-string to the blockchain &mdash;  the network charges a
 **significant** per-byte fee for sharing. The reasoning is that we want
 to incentivize users to post *links and URLs* to content on other more
 mainstream platforms, instead of *actual* content which we consider
-outside of our scope.  This essentially allows accounts to act as
+outside of our scope. This essentially allows accounts to act as
 *curation feeds*.
 
 As for the actual *scoring*, we decentralize this by pushing it to the
@@ -467,7 +467,7 @@ custom way. For example users can play around with *biased* page-ranks
 (i.e. what would happen if we removed Account XYZ from the blockchain
 history, or what would happen if we treat these 5 accounts as a single
 shared account). The possibilities are endless. What would a feed look
-like if Account X was *my* account?  Which accounts have voted for my
+like if Account X was *my* account? Which accounts have voted for my
 account(s)? Which accounts have a similar voting pattern to mine?
 
 Each account is associated with a public cryptographic key. Users can
@@ -523,7 +523,7 @@ blockchain, and the page-rank algorithm can do its magic.
 
 Security is a difficult problem &mdash;  it has *always* been a
 difficult problem. Throwing blockchain at the problem won't
-automatically fix it. If websites were signed using a Interlock Network
+automatically fix it.  If websites were signed using a Interlock Network
 account-signature many phishing attacks &mdash;  the most common and
 most successful kind of attack &mdash;  would be a lot less feasible.
 However, Interlock Network does not yet exist &mdash;  and even if it
@@ -541,13 +541,13 @@ extension thinks is fraudulent or untrustworthy, the extension will
 prevent any user input to the page and issue a warning in the form of a
 large red banner. The extension has already seen use in some large
 companies that you have definitely heard of &mdash;  and for most of its
-life it has been out of the reach of non-corporate users.  Our plan is
-to make this extension available to *everyone* but to modify it to work
+life it has been out of the reach of non-corporate users. Our plan is to
+make this extension available to *everyone* but to modify it to work
 with Interlock Network. When the user installs the extension they can
 open an account on the Interlock Network, link it to the extension, and
 we will deposite some amount of Inter Tokens into their account. As they
 use the extension they will get a variable-time and variable-quantity
-reward for using it. They can also get additional Inter Tokens if they
+reward for using it.  They can also get additional Inter Tokens if they
 verify that a link dangerous &mdash;  though this is opt-in as it would
 require us to request that verification from a random subset of users
 that are not too tightly connected on the Interlock Network. The
@@ -586,36 +586,32 @@ stay in compliance with the KYC regulations.
 ### Interlock Token
 
 To back our smart-contracts and our token we have chosen the **Solana**
-blockchain technology as our platform. This platform has addressed many
-of the outstanding problems found in similar popular blockchains like
-Ethereum (i.e. transaction-speed energy-efficiency
-infinite-smart-contract-loops etc). That said, we are always on the
-lookout for new and improved technologies that can help us achieve our
-goals. We are especially aware of the compromise that proof-of-stake
-solutions have made with regards to decentralization. We hope to see
-&mdash;  and use &mdash;  newer blockchains that are even more
-peer-to-peer than the current batch. With regards to that last point,
-proof-of-space-time seems like a promising development and we hope to
-see more of those kinds of developments in the future &mdash;  the whole
-point, after all, is to prevent or least mitigate the centralization of
-power and authority into the hands of those who can throw enormous sums
-of money at a problem (i.e. governments mega-corporations and even some
-classes of criminals and syndicates).
+blockchain technology as our transaction-processing platform-component
+and **Ethereum** as the platform-component on which we mint the actual
+tokens. Solana has addressed many of the outstanding problems found in
+similar popular blockchains like Ethereum (i.e. transaction-speed
+energy-efficiency infinite-smart-contract-loops etc). In fact, the
+Interlock Network is simply not feasible on any blockchain that does not
+have cheap transactions. We had hoped that we would be able to use
+Ethereum since it has an enormous ecosystem and is very popular, but its
+transactions are thousands of times more expensive then Solana's. We do
+however recognize the value of Ethereum's ERC-20 standard and the
+ability to use existing wallets and to transact with other people on
+Ethereum &mdash;  so we are minting the coins on Ethereum but connecting
+them to Solana using the Wormhole bridge between these two blockchains.
+Ideally, we would use a single popular blockchain like Ethereum but the
+physics and economics of these technologies makes that impossible,
+presently.  However, if the newer versions of Ethereum increase the TPS
+and decrease their transaction-costs we could see ourselves porting our
+code over to these future version of Ethereum &mdash;  assuming that
+Solana does not supplant Ethereum in the meantime.
 
-To be honest, we are still not 100 percent certain that Solana is going
-to be able to implement all of the features that we desire for the
-Interlock Network to have. Worst case, we will have to implement our own
-blockchain from scratch &mdash;  we are still evaluating options. At
-minimum we will use Solana as a test-bed for the basic idea and move on
-from there.
-
-We have also taken a look at the Elrond and Algorand blockchains, and we
-were pretty impressed. At the moment, neither of these can really match
-Solana's raw transaction rate, and they are also not as composable as
-Solana. However, we do not expect this situation to last forever &mdash;
-so we will be keeping an eye on these other two chains because they are
-seeing increasing adoption from large financial(and governmental)
-entities that are not Silicon Valley VC's.
+To be honest, we are still not 100 percent certain that out
+Solana-Ethereum hybrid is going to be able to implement all of the
+features that we desire for the Interlock Network to have. Worst case,
+we will have to implement our own blockchain from scratch &mdash;  we
+are still evaluating options. At minimum we will use Solana-Ethereum as
+a test-bed for the basic idea and move on from there.
 
 
 ### Economics Redux
@@ -629,7 +625,7 @@ Interlock Network gains wide adoption it would probably be of
 significant interest to all kinds of economists and sociologists.
 Furthermore we have tried to the design the incentives encourage
 pro-social use of the blockchain &mdash;  but of course if any
-economists(or non-economists) want to chime in then please go ahead.  As
+economists(or non-economists) want to chime in then please go ahead. As
 for the marxians, they can take pleasure in the fact that (a) the user's
 privacy, relationships, and attention (i.e. the means of production for
 the information age) are owned by the collective and not by people whose
@@ -637,16 +633,16 @@ names rhyme with Stark Truckerberg or Track Horsey and (b) the user has
 the final say over which accounts are more attention-worthy than others.
 
 
-### Interlock Token Solana Architecture
+### Interlock Token Solana-Ethereum Architecture
 
-We have given you a short overview and justification of which blockchain
-will be used as a test-bed for the Interlock Network, now we will give
-some concrete details about how this will be implemented on top of
-Solana. So far, we have spoken of the Interlock Network as if it was a
-proper stand-alone blockchain, so that we can get the *idea* of a P2P
-reputation network across to you. However, there are some significant
-implementation details that diverge from our *idealized description* of
-the Interlock Network, in the previous sections.
+We have given you a short overview and justification of which
+blockchains will be used as a test-bed for the Interlock Network, now we
+will give some concrete details about how this will be implemented on
+top of Solana-Ethereum. So far, we have spoken of the Interlock Network
+as if it was a proper stand-alone blockchain, so that we can get the
+*idea* of a P2P reputation network across to you. However, there are
+some significant implementation details that diverge from our *idealized
+description* of the Interlock Network, in the previous sections.
 
 Pretty much all software that runs on a blockchain is going to be much
 slower &mdash;  and more expensive &mdash;  than traditional software
@@ -656,7 +652,7 @@ about 10-USD to execute a *million* transactions. The *bad* news is that
 per-account storage is severely limited and severely expensive. On
 Solana each account can only store a maximum 10MB of data &mdash;  which
 is not enough for our history-based reputation scoring &mdash;  and each
-MB costs 3.56 SOL to store per year &mdash; which comes out to
+MB costs 3.56 SOL to store per year &mdash;  which comes out to
 10MB-years costing 1200-USD at the current SOL-USD exchange ratio(1 SOL
 is worth 33 to 34 USD). Storing data directly on the Solana blockchain
 is not feasible. Other blockchains do allow storing of *more* data than
@@ -670,21 +666,21 @@ that involve our Interlock Network smart-contracts. These notifications
 &mdash;  which are basically transaction logs &mdash;  will be stored in
 the Postgres-based timeseries database called TimescaleDB. We will make
 this DB publically readable &mdash;  but rate-limited, for economic
-reasons.  Full archives of the DB will be made available weekly via
+reasons. Full archives of the DB will be made available weekly via
 BitTorrent(or something with similar or better properties &mdash;  we
 are keeping an eye of Storj and related technologies) so that users of
 Interlock Network can query this data locally, with minimal latency, and
-with minimal API fees. It is our goal to make this data &mdash; these
+with minimal API fees. It is our goal to make this data &mdash;  these
 transaction logs &mdash;  the property of the *entire internet* and not
 just a single company. We should also note that *anybody* can snoop on
 the JSON RPC API that Solana exposes and build their own data-base
 &mdash;  so there is no danger of Interlock drawing up the bridge and
 charging exorbitant fees on a whim. The reason that we offer an API and
 a BitTorrent archive is that the Solana API has a limited retention
-period. Our understanding is that retention can be configured on a
+period.  Our understanding is that retention can be configured on a
 per-validator basis &mdash;  so some validators might have more or less
 transanction-history than others. The only way for Interlock to have the
-full history is to run our own validator &mdash; which certainly sounds
+full history is to run our own validator &mdash;  which certainly sounds
 like fun &mdash;  but that would be overkill because we only care about
 a tiny subset of the millions of transactions that happen on the Solana
 blockchain. By providing a public API and distributing an archive we are
@@ -706,11 +702,11 @@ since they just manipulate balances and store no data. Implementing
 storage-fees on Solana. When the share-program is invoked, it is done
 via a transaction, which contains opaque 8-bit instruction-data. This
 instruction data is *thrown away* by the share-program as soon as it
-gets it &mdash; however, WebSocket listeners will *snatch* all the
+gets it &mdash;  however, WebSocket listeners will *snatch* all the
 metadata about the transaction including the 8-bit instruction-data, *so
-it is not lost*.  If the data is longer than *560 bytes* our *share
+it is not lost*. If the data is longer than *560 bytes* our *share
 program* will emit an error and our listeners will *ignore* the
-transaction &mdash;  560 bytes is enough to encode meaningful meta-data
+transaction &mdash; 560 bytes is enough to encode meaningful meta-data
 about content (i.e. a link along with perhaps a checksum of some kind).
 The *share* smart-contract will charge a one-time per-byte fee to
 incentivize users to keep their shared content as short as possible
@@ -765,8 +761,8 @@ time of writing &mdash;  shares per year, the Interlock Network accounts
 would be generating 101 TB of data per year. That is a *lot* of data to
 store, index, mirror, and distribute &mdash;  we want to make every byte
 count, specifically so that ordinary users can feasibly do their own
-mirroring and querying.  This state of affairs does give users with more
-Inter Tokens (i.e.  because of more received upvotes or because they
+mirroring and querying. This state of affairs does give users with more
+Inter Tokens (i.e. because of more received upvotes or because they
 purchased more) a bit of a social edge. We are not entirely sure if that
 is a good thing or bad thing. We have considered various policies, such
 as distributing the share-costs across the entire network as a
@@ -790,19 +786,20 @@ signal-to-noise ratio &mdash;  which is exactly what we are after.
 
 To facilitate investment in the project we are going to pursue a DAICO
 model. The idea behind the model is that investors can invest a specific
-amount of SOL into an investment-fund account for the Interlock project.
-This account has a monthly limit on withdrawals and any withdrawals
-beyond that limit would have to be voted on by the investors. A fixed
-number of SOL can be invested (i.e. the target number) and investors
-cannot exceed a maximum-proportion(which is **five percent** of the
-target number). Investors have voting-power which is proportional to the
-amount that they have invested. Each new round of investment will be a
-new DAICO involving a different investment-account and the same &mdash;
-or slightly tweaked &mdash; smart-contract to manage those funds. The
+amount of SOL or ETH(they can choose to invest on either Ethereum or
+Solana) into an investment-fund account for the Interlock project. This
+account has a monthly limit on withdrawals and any withdrawals beyond
+that limit would have to be voted on by the investors. A fixed number of
+SOL/ETH can be invested (i.e. the target number) and investors cannot
+exceed a maximum-proportion(which is **five percent** of the target
+number). Investors have voting-power which is proportional to the amount
+that they have invested. Each new round of investment will be a new
+DAICO involving a different investment-account and the same &mdash;  or
+slightly tweaked &mdash;  smart-contract to manage those funds. The
 presence of multiple and unlimited rounds is to give new investors an
 opportunity to participate fairly and equitably in the project. The
 presence of proportion-limits is to ensure (a) a minimum number of
-investors (i.e.  20) and (b) that no single investor has unilateral veto
+investors (i.e. 20) and (b) that no single investor has unilateral veto
 power during a vote. Investors will also receive ownership over accounts
 with a proportional amount of Voting Inter Tokens as well a normal Inter
 Tokens. Each investor will also receive upvotes from upvotes from the
@@ -828,7 +825,7 @@ Regarding technical contribution we will follow an RFD/RFC model where
 project design documents are proposed and discussed on various community
 channels (i.e. github, discord, and others). If the project and
 community get large enough we will likely adopt a governance model akin
-to Rust's. We diverge from the traditional RFC process in that we (a)
+to Rust's.  We diverge from the traditional RFC process in that we (a)
 adopt proposals by voting via smart-contract and (b) developers can show
 their support and affinity for each-other and their ideas by using the
 upvote/downvote mechanism that is already in place. We do not require
@@ -837,8 +834,8 @@ same account. Keeping with the theme of privacy and anonymity a
 developer can have as many accounts as they want and the
 project/community would have no way of knowing &mdash;  which is
 *already* the situation in the real world (i.e. one can make as many
-github accounts as they want). Voting is consensus-driven &mdash;
-proposals require unanimous approval. Unanimous consensus is meant to
+github accounts as they want).  Voting is consensus-driven &mdash;
+proposals require unanimous approval.  Unanimous consensus is meant to
 eliminate the competitive nature of voting &mdash;  all disagreements
 should be resolved at the *discussion* phase before a proposal comes to
 a vote. We believe that there are very few *true* and *unresolvable*
@@ -849,7 +846,7 @@ Each technical contributor must explicitly refresh their NFT every 30
 days otherwise it gets burned. The idea is that if a contributor drops
 off the grid, their absence will not cause the system to lock-up. The
 Interlock Team can always issue new NFT's to contributors returning from
-a hiatus. The Interlock Team can also burn the NFT's of anybody who has
+a hiatus.  The Interlock Team can also burn the NFT's of anybody who has
 not contributed any code in the previous 300 days &mdash;  we have not
 found a way to enforce this via smart-contract so the process is, at the
 moment, manual.
