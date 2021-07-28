@@ -22,6 +22,7 @@ We are calling the space DeSec, the first of its kind decentralized security and
 
 ## Useful links
 * [Join us on Discord](https://discord.gg/wPAp9n5d)
+* [Join us on Reddit](https://www.reddit.com/r/interlocknetwork)
 * [Download Browser Extension](https://chrome.google.com/webstore/detail/nohack-by-apozy/akgjbibhebefdjbebhpmknohhojhppeb?hl=en)
 * [Airlock Security Platform](https://airlock.security)
 
