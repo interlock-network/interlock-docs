@@ -3,6 +3,7 @@
 <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width,initial-scale=1" />
+    <meta name="turbo-root" content="/interlock-whitepaper">
     <meta name="turbo-cache-control" content="no-cache">
 
     <!-- Primary Meta Tags -->
@@ -25,10 +26,10 @@
     <script>(function () { var el = document.documentElement, m = localStorage.getItem("/interlock-whitepaper/doc_theme"), wm = window.matchMedia; if (m === "dark" || (!m && wm && wm("(prefers-color-scheme: dark)").matches)) { el.classList.add("dark") } else { el.classList.remove("dark") } })();</script>
 
     <link href="/interlock-whitepaper/favicon.ico" rel="icon" />
-    <link href="/interlock-whitepaper/resources/css/retype.css" rel="stylesheet" />
+    <link href="/interlock-whitepaper/resources/css/retype.css?v=1.8.681418987710" rel="stylesheet" data-turbo-track="reload" />
 
-    <script type="text/javascript" src="/interlock-whitepaper/resources/js/config.js" defer></script>
-    <script type="text/javascript" src="/interlock-whitepaper/resources/js/retype.js" defer></script>
+    <script type="text/javascript" src="/interlock-whitepaper/resources/js/config.js?v=1.8.681418987710" defer data-turbo-track="reload"></script>
+    <script type="text/javascript" src="/interlock-whitepaper/resources/js/retype.js?v=1.8" defer data-turbo-track="reload"></script>
 </head>
     <body>
         <div id="docs-app" class="relative text-base antialiased text-gray-700 bg-white font-body dark:bg-dark-850 dark:text-dark-300">
@@ -202,17 +203,31 @@
         <span>Whitepaper</span>
     </h1>
 </doc-anchor-target>
+<div class="-mt-3 mb-12 flex flex-wrap text-sm text-gray-400 dark:text-dark-350">
+    <div class="flex items-center">
+        <div>By</div>
+        <div class="ml-2 flex items-center">
+          <div class="flex-shrink-0 w-8 h-8 overflow-hidden rounded-full">
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 34 34" overflow="visible"><path fill="#616161" d="M0 0h34v34H0z"/><path fill="#fff" d="M20.2 18.6h-6.4c-2.21 0-4 1.79-4 4v1.6c0 .44.36.8.8.8.44 0 .8-.36.8-.8v-1.6c0-1.32 1.08-2.4 2.4-2.4h6.4c1.32 0 2.4 1.08 2.4 2.4v1.6c0 .44.36.8.8.8.44 0 .8-.36.8-.8v-1.6c0-2.21-1.79-4-4-4zM17 17c2.21 0 4-1.79 4-4s-1.79-4-4-4-4 1.79-4 4 1.79 4 4 4zm0-6.4c1.32 0 2.4 1.08 2.4 2.4s-1.08 2.4-2.4 2.4-2.4-1.08-2.4-2.4 1.08-2.4 2.4-2.4z"/></svg>
+          </div>
+          <div class="ml-1 whitespace-nowrap text-gray-500 dark:text-dark-350">Interlock Team</div>
+        </div>
+    </div>
+    <div class="mx-2 flex items-center">&#9679;</div>
+    <div class="flex items-center flex-shrink-0">Published&nbsp;<span>2021-07-26</span></div>
+</div>
+
 <doc-anchor-target id="abstract">
     <h2>
         <doc-anchor-trigger class="header-anchor-trigger" to="#abstract">#</doc-anchor-trigger>
         <span>Abstract</span>
     </h2>
 </doc-anchor-target>
-<p>The web requires <em>trust</em> between participants to reach its fullest<br />
-potential. However, we have centralized the trust-rating function to a<br />
-handful of gatekeepers, who themselves have questionable credibility and<br />
-competence. We propose a solution that uses blockchain and other<br />
-technologies to increase security, privacy, and trust and bypasses those<br />
+<p>The web requires <em>trust</em> between participants to reach its fullest
+potential. However, we have centralized the trust-rating function to a
+handful of gatekeepers, who themselves have questionable credibility and
+competence. We propose a solution that uses blockchain and other
+technologies to increase security, privacy, and trust and bypasses those
 gatekeepers.</p>
 <doc-anchor-target id="introduction">
     <h2>
@@ -220,19 +235,19 @@ gatekeepers.</p>
         <span>Introduction</span>
     </h2>
 </doc-anchor-target>
-<p>The thing about these kinds of papers —  whitepapers —  is<br />
-that they are supposed to be confident, authoritative, and seductive.<br />
-Why, we hear you ask? Because stringing together words that create an<br />
-impression of authoritative and seductive confidence is what often<br />
-convinces people buy whatever it is you are selling. Everybody wants to<br />
-invest in the impossible-to-miss certain-to-win solution to some problem<br />
-that the market has. We have gone through a lot of whitepapers written<br />
-with the confidence and certainty of a devout missionary seeking<br />
+<p>The thing about these kinds of papers —  whitepapers —  is
+that they are supposed to be confident, authoritative, and seductive.
+Why, we hear you ask? Because stringing together words that create an
+impression of authoritative and seductive confidence is what often
+convinces people buy whatever it is you are selling. Everybody wants to
+invest in the impossible-to-miss certain-to-win solution to some problem
+that the market has. We have gone through a lot of whitepapers written
+with the confidence and certainty of a devout missionary seeking
 converts and, of course, donors. We are not going to do that to you.</p>
-<p>Make no mistake, we <em>are</em> trying to <em>convince</em> you of the merits of our<br />
-vision and idea —  we just have no interest in <em>hypnotizing</em> you<br />
-into agreeing with us. If you believe that the Web is not living up to<br />
-its founding promises —  and you want to change this —  then<br />
+<p>Make no mistake, we <em>are</em> trying to <em>convince</em> you of the merits of our
+vision and idea —  we just have no interest in <em>hypnotizing</em> you
+into agreeing with us. If you believe that the Web is not living up to
+its founding promises —  and you want to change this —  then
 please read on.</p>
 <doc-anchor-target id="the-problem">
     <h2>
@@ -246,78 +261,78 @@ please read on.</p>
         <span>History</span>
     </h3>
 </doc-anchor-target>
-<p>The writers of this paper, dear reader, are old enough to remember the<br />
-following: napster, gnutella, bit-torrent, Usenet, slashdot, RSS Feeds,<br />
-Tor, Google before it became evil, and Open Source before it became<br />
-cool.  We remember an internet where nobody knew that you were a dog<br />
-— and, more importantly, nobody cared. We remember when being<br />
-social on the internet meant that you had a blog, read(and shared files<br />
-on) USENET, and participated in Slashdot discussions and flame-wars as<br />
-an &#x27;Anonymous Coward&#x27;. We remeber that being informed meant that you<br />
-used Google Reader —  RIP —  to read RSS feeds which were<br />
-absolutely everywhere.  And if you <em>really</em> wanted to stick it to The<br />
-Man, you installed Linux on your second-hand beige-box and Firefox on<br />
-your folks&#x27; Windows computer —  we still have vivid memories and<br />
-strong feelings about MSFT, and quite a bit of residual PTSD and mental<br />
-scar-tissue. But, somewhere along the way, the internet took a turn. Now<br />
-people use Facebook instead of USENET, Twitter instead of RSS, and<br />
-Netflix, YouTube, and Spotify instead of BitTorrent. Also USENET,<br />
-Slashdot, and friends are all ghost-towns —  while their nearest<br />
-equivalents have been overrun by trolls, cat-pictures, memes,<br />
-advertisers, and cybercriminals. Oh, and Microsoft is an increasingly<br />
-popular and increasingly open-source company — which is as<br />
+<p>The writers of this paper, dear reader, are old enough to remember the
+following: napster, gnutella, bit-torrent, Usenet, slashdot, RSS Feeds,
+Tor, Google before it became evil, and Open Source before it became
+cool.  We remember an internet where nobody knew that you were a dog
+— and, more importantly, nobody cared. We remember when being
+social on the internet meant that you had a blog, read(and shared files
+on) USENET, and participated in Slashdot discussions and flame-wars as
+an &#x27;Anonymous Coward&#x27;. We remeber that being informed meant that you
+used Google Reader —  RIP —  to read RSS feeds which were
+absolutely everywhere.  And if you <em>really</em> wanted to stick it to The
+Man, you installed Linux on your second-hand beige-box and Firefox on
+your folks&#x27; Windows computer —  we still have vivid memories and
+strong feelings about MSFT, and quite a bit of residual PTSD and mental
+scar-tissue. But, somewhere along the way, the internet took a turn. Now
+people use Facebook instead of USENET, Twitter instead of RSS, and
+Netflix, YouTube, and Spotify instead of BitTorrent. Also USENET,
+Slashdot, and friends are all ghost-towns —  while their nearest
+equivalents have been overrun by trolls, cat-pictures, memes,
+advertisers, and cybercriminals. Oh, and Microsoft is an increasingly
+popular and increasingly open-source company — which is as
 inconceivable as Ghengis Khan becoming an exemplary Red Cross volunteer.</p>
-<p>Clearly, there has been a pendulum swing from a decentralized and<br />
-democratic internet to one that is significantly more centralized and<br />
-autocratic. A significant driver of this centralization has been the<br />
-insight that the majority of people are busy enough that they will give<br />
-up control for convenience —  especially if that convenience has a<br />
-price-tag approaching <em>zero</em>. With the increase in convenience, things<br />
-like web-pages and blogs could be created by people who did not know how<br />
-to program or administer computers. And even if you did have this<br />
-skill-set, chances are you would apply it to a <em>virtual</em> computer in the<br />
-<em>cloud</em> rather than a physical one in your closet. This centralization<br />
-of computing was not sinister or evil —  far from it —  but<br />
-it was, rather paradoxically, a leap towards making the web accessible<br />
-and useful to more people than ever before. In other words,<br />
-centralization <em>did</em> democratize <em>participation</em> in the web, but it came<br />
-at the expense of freedom, control, and privacy. The web that you see<br />
-today, is the web that Google wants you to see when you use their<br />
-search, that Facebook, Twitter, and Instagram want you to see when you<br />
-scroll through &#x27;your&#x27; feed. And what they want you to see, is whatever<br />
-will make you re-share the content or click on an advertisement. You<br />
-are, in effect, plugged into The Matrix —  the entire cyberpunk<br />
-oevre is not merely dystopic fiction, it is part prophesy and part<br />
+<p>Clearly, there has been a pendulum swing from a decentralized and
+democratic internet to one that is significantly more centralized and
+autocratic. A significant driver of this centralization has been the
+insight that the majority of people are busy enough that they will give
+up control for convenience —  especially if that convenience has a
+price-tag approaching <em>zero</em>. With the increase in convenience, things
+like web-pages and blogs could be created by people who did not know how
+to program or administer computers. And even if you did have this
+skill-set, chances are you would apply it to a <em>virtual</em> computer in the
+<em>cloud</em> rather than a physical one in your closet. This centralization
+of computing was not sinister or evil —  far from it —  but
+it was, rather paradoxically, a leap towards making the web accessible
+and useful to more people than ever before. In other words,
+centralization <em>did</em> democratize <em>participation</em> in the web, but it came
+at the expense of freedom, control, and privacy. The web that you see
+today, is the web that Google wants you to see when you use their
+search, that Facebook, Twitter, and Instagram want you to see when you
+scroll through &#x27;your&#x27; feed. And what they want you to see, is whatever
+will make you re-share the content or click on an advertisement. You
+are, in effect, plugged into The Matrix —  the entire cyberpunk
+oevre is not merely dystopic fiction, it is part prophesy and part
 warning.</p>
-<p>Maybe you are thinking, that does not sound so bad —  maybe we<br />
-<em>have</em> to sacrifice freedom, control, and privacy to democratize<br />
-participation in the web. Maybe. Maybe not. Maybe that is <em>exactly</em> what<br />
-the feudal Serfs were thinking while they were working the fields of<br />
-their lords —  maybe we have to sacrifice control over our bodies,<br />
-our labor, and the (literal) fruits of that labor to democratize<br />
-participation in agriculture. After all, what is the alternative?<br />
+<p>Maybe you are thinking, that does not sound so bad —  maybe we
+<em>have</em> to sacrifice freedom, control, and privacy to democratize
+participation in the web. Maybe. Maybe not. Maybe that is <em>exactly</em> what
+the feudal Serfs were thinking while they were working the fields of
+their lords —  maybe we have to sacrifice control over our bodies,
+our labor, and the (literal) fruits of that labor to democratize
+participation in agriculture. After all, what is the alternative?
 Starvation?</p>
-<p>We sympathize, dear reader. We sympathize with you, because it is a<br />
-perfectly reasonable question to ask. Yes, being excluded and isolated<br />
-from the means of production of our era, is infinitely worse than having<br />
-our every action tracked, classified, and monetized. But unlike the<br />
-quarries, mines, farms, plantations, factories, and refineries of<br />
-previous eras —  which all required capital to establish and<br />
-maintain and upgrade —  the means of production of <em>our</em> era is,<br />
+<p>We sympathize, dear reader. We sympathize with you, because it is a
+perfectly reasonable question to ask. Yes, being excluded and isolated
+from the means of production of our era, is infinitely worse than having
+our every action tracked, classified, and monetized. But unlike the
+quarries, mines, farms, plantations, factories, and refineries of
+previous eras —  which all required capital to establish and
+maintain and upgrade —  the means of production of <em>our</em> era is,
 well, <strong>us</strong>.</p>
-<p>Do you post on reddit? <em>You</em> are creating the value, <em>they</em> are<br />
-capturing it. Do you make videos for YouTube? <em>You</em> are creating the<br />
-value, <em>they</em> are capturing it. Do you create content for OnlyFans?<br />
+<p>Do you post on reddit? <em>You</em> are creating the value, <em>they</em> are
+capturing it. Do you make videos for YouTube? <em>You</em> are creating the
+value, <em>they</em> are capturing it. Do you create content for OnlyFans?
 <em>You</em> are creating the value, <em>they</em> are capturing it.</p>
-<p><em>They</em> conceive of a world where they data-mine —  yes, the<br />
-exploitative nature of their business models is even reflected in their<br />
-<em>jargon</em> —  everything we do, turn that data into money, and <em>we</em><br />
-get(basically imaginary) shares, retweets, mentions, likes,<br />
-so-called-friends, and so-called-followers. They have even removed<br />
-negative actions such as dislikes for fear that it will drive users<br />
-—  another revealing bit jargon —  away. Their mission is to<br />
-keep us happy and cheerful while we(happily and cheerfully) make them<br />
-money. You know who also does this? Farmers. What does that make <em>us</em>?<br />
+<p><em>They</em> conceive of a world where they data-mine —  yes, the
+exploitative nature of their business models is even reflected in their
+<em>jargon</em> —  everything we do, turn that data into money, and <em>we</em>
+get(basically imaginary) shares, retweets, mentions, likes,
+so-called-friends, and so-called-followers. They have even removed
+negative actions such as dislikes for fear that it will drive users
+—  another revealing bit jargon —  away. Their mission is to
+keep us happy and cheerful while we(happily and cheerfully) make them
+money. You know who also does this? Farmers. What does that make <em>us</em>?
 Livestock. Are you tired of being milked yet?</p>
 <doc-anchor-target id="it-gets-worse">
     <h3>
@@ -325,68 +340,68 @@ Livestock. Are you tired of being milked yet?</p>
         <span>It Gets Worse</span>
     </h3>
 </doc-anchor-target>
-<p>The previous section was a little bleak —  we will give you that.<br />
-But —  as you can probably surmise from this section&#x27;s title<br />
+<p>The previous section was a little bleak —  we will give you that.
+But —  as you can probably surmise from this section&#x27;s title
 —  this paper is going to get bleaker before it gets brighter.</p>
-<p>If the end of the previous section has you feeling like you have been<br />
-conned, like you are —  sooner or later —  the eventual<br />
-victim of an unsustainable and tenuous pyramid scheme, well, that was<br />
-our intent. To be clear, we are not trying to scare you with ghost<br />
-stories.  We <em>wish</em> these were just ghost stories —  the<br />
-exaggerations of a handful of nerds, hackers, and cypherpunks trying to<br />
-shock you into listening. But the pyramid is built on a shaky foundation<br />
+<p>If the end of the previous section has you feeling like you have been
+conned, like you are —  sooner or later —  the eventual
+victim of an unsustainable and tenuous pyramid scheme, well, that was
+our intent. To be clear, we are not trying to scare you with ghost
+stories.  We <em>wish</em> these were just ghost stories —  the
+exaggerations of a handful of nerds, hackers, and cypherpunks trying to
+shock you into listening. But the pyramid is built on a shaky foundation
 and the dangers are real.</p>
-<p>How could it get worse? Well, in addition to being exploited, and<br />
-metaphorically robbed, by the feudal lords of the internet, you are also<br />
-being exploited, and <em>literally</em> robbed, by the scammers and criminals<br />
-that have a growing presence on the internet. We have a multitude of<br />
-delightful statistics that back up this claim. The areas of cybercrime,<br />
-fraud, and identity-theft are so ripe and pregnant with opportunities<br />
-that even nation-states are eager to get in on it —  and they are<br />
-not even trying to conceal their involvment. Yes, they give <em>zero</em><br />
-fucks, because they are confident that the majority of the populace is<br />
-too distracted and too impoverished to actually —  in the words of<br />
+<p>How could it get worse? Well, in addition to being exploited, and
+metaphorically robbed, by the feudal lords of the internet, you are also
+being exploited, and <em>literally</em> robbed, by the scammers and criminals
+that have a growing presence on the internet. We have a multitude of
+delightful statistics that back up this claim. The areas of cybercrime,
+fraud, and identity-theft are so ripe and pregnant with opportunities
+that even nation-states are eager to get in on it —  and they are
+not even trying to conceal their involvment. Yes, they give <em>zero</em>
+fucks, because they are confident that the majority of the populace is
+too distracted and too impoverished to actually —  in the words of
 Morpheus —  <em>wake up</em>.</p>
-<p>The obvious question is, why are there so many scammers and<br />
-cybercriminals. What is there to steal? Is it worth the risk? What are<br />
-the risks? Well, the modern cybercriminal is not like a bank-robber or<br />
-hostage-taker. The bank-robber or hostage-taker uses coercion and<br />
-intimidation to steal money. The modern cybercriminal is more like the<br />
-mythical japanese creature <em>noppera-bo</em>. This creature is a faceless<br />
-ghost that steals the faces of humans. Cybercrime is about stealing<br />
-people&#x27;s faces and using them as masks —  it is about <em>deception</em><br />
-more than it is about coercion or violence. The faces in this metaphor<br />
-are usually authentication-credentials that may lead the criminal to<br />
+<p>The obvious question is, why are there so many scammers and
+cybercriminals. What is there to steal? Is it worth the risk? What are
+the risks? Well, the modern cybercriminal is not like a bank-robber or
+hostage-taker. The bank-robber or hostage-taker uses coercion and
+intimidation to steal money. The modern cybercriminal is more like the
+mythical japanese creature <em>noppera-bo</em>. This creature is a faceless
+ghost that steals the faces of humans. Cybercrime is about stealing
+people&#x27;s faces and using them as masks —  it is about <em>deception</em>
+more than it is about coercion or violence. The faces in this metaphor
+are usually authentication-credentials that may lead the criminal to
 their ultimate goal, currency, crypto or otherwise.</p>
-<p>And that is just the most obvious form of theft —  material theft.<br />
-Once business and politics and religion enter the equation, lines and<br />
-categories start to get blurry very fast. For example, can <em>truth</em> be<br />
-stolen? If so, does that make a flat-earther a criminal? What about the<br />
-corporate marketing department that uses flawed benchmarking<br />
-methodologies to convince you that their product is superior to the<br />
-competition? What about alternative or traditional medicine books? What<br />
-about the <em>hundreds</em> of pseudo-historical, pseudo-scientific, and<br />
-pseudo-sociological narratives that are weaved every election cycle to<br />
-convince people that their neighbors and fellow citizens are the cause<br />
-of their anguish —  rather than the massive institutions,<br />
-corporations, and beaurocracies that have every incentive to profit from<br />
-and perpetrate anguish and tragedy across continents and across<br />
-generations(you do not have to look further than McDonalds and<br />
+<p>And that is just the most obvious form of theft —  material theft.
+Once business and politics and religion enter the equation, lines and
+categories start to get blurry very fast. For example, can <em>truth</em> be
+stolen? If so, does that make a flat-earther a criminal? What about the
+corporate marketing department that uses flawed benchmarking
+methodologies to convince you that their product is superior to the
+competition? What about alternative or traditional medicine books? What
+about the <em>hundreds</em> of pseudo-historical, pseudo-scientific, and
+pseudo-sociological narratives that are weaved every election cycle to
+convince people that their neighbors and fellow citizens are the cause
+of their anguish —  rather than the massive institutions,
+corporations, and beaurocracies that have every incentive to profit from
+and perpetrate anguish and tragedy across continents and across
+generations(you do not have to look further than McDonalds and
 Phillip-Morris)?</p>
-<p>The point is, the truth is very important, but it can be hard to pin<br />
-down. Very few things can be considered absolute truths. The web —<br />
-under its current commercialized and oligarchic stewardship —<br />
-perpetuates, exacerbates, and profits from, vanity, greed, delusion,<br />
-ignorance, envy, hatred, and outrage. Instead, it should give users the<br />
-tools to better understand themselves, human nature, and our<br />
-connectedness to all things —  an ancient idea that is in fact<br />
+<p>The point is, the truth is very important, but it can be hard to pin
+down. Very few things can be considered absolute truths. The web —
+under its current commercialized and oligarchic stewardship —
+perpetuates, exacerbates, and profits from, vanity, greed, delusion,
+ignorance, envy, hatred, and outrage. Instead, it should give users the
+tools to better understand themselves, human nature, and our
+connectedness to all things —  an ancient idea that is in fact
 more relevant to the modern world than it ever was to the ancient world.</p>
-<p>Criminals and tech corporations both see the internet-user as something<br />
-to be exploited. The fromer seeks to attack and corrupt the state of<br />
-your bank account, while the latter seeks to attack and corrupt your<br />
-state of mind. You will find it easy, even effortless, to be angry with<br />
-the former, but you may find it difficult to be angry with the latter<br />
-— you cannot be angry with the tobacco company for selling you<br />
+<p>Criminals and tech corporations both see the internet-user as something
+to be exploited. The fromer seeks to attack and corrupt the state of
+your bank account, while the latter seeks to attack and corrupt your
+state of mind. You will find it easy, even effortless, to be angry with
+the former, but you may find it difficult to be angry with the latter
+— you cannot be angry with the tobacco company for selling you
 exactly what you asked for.</p>
 <doc-anchor-target id="identity-trust-belief">
     <h3>
@@ -394,52 +409,52 @@ exactly what you asked for.</p>
         <span>Identity, Trust, Belief</span>
     </h3>
 </doc-anchor-target>
-<p>Before 1971, if you held a dollar in your hand and examined what was<br />
-written on it, you would see &#x27;Exchangeable for Gold&#x27;. After 1971, it<br />
-would only say &#x27;In God We Trust&#x27;. We used to believe in the dollar<br />
-because we used to believe in gold —  now we believe in the dollar<br />
-because we believe in the dollar. This is what some historians would<br />
-call a revolution, others would call it a <em>paradigm shift</em>. Paradigm<br />
-shifts, and for that matter paradigms themselves, are —  and<br />
-please do not mistake this for belittlement, quite the opposite in fact<br />
-— entirely <em>imaginary</em>. You cannot measure or touch a paradigm. A<br />
-paradigm does not emit heat or have mass. Yet paradigms have been the<br />
-organizing principle of society since humanity learned how to speak and<br />
+<p>Before 1971, if you held a dollar in your hand and examined what was
+written on it, you would see &#x27;Exchangeable for Gold&#x27;. After 1971, it
+would only say &#x27;In God We Trust&#x27;. We used to believe in the dollar
+because we used to believe in gold —  now we believe in the dollar
+because we believe in the dollar. This is what some historians would
+call a revolution, others would call it a <em>paradigm shift</em>. Paradigm
+shifts, and for that matter paradigms themselves, are —  and
+please do not mistake this for belittlement, quite the opposite in fact
+— entirely <em>imaginary</em>. You cannot measure or touch a paradigm. A
+paradigm does not emit heat or have mass. Yet paradigms have been the
+organizing principle of society since humanity learned how to speak and
 write things down. A paradigm is a shared hallucination.</p>
-<p>Every paradigm contains the seeds of its own destruction. The bible was<br />
-the first book that was mass-printed —  shortly after that the<br />
-catholic church lost half of its believers to the various protestant<br />
-denominations. The feudal and heriditary paradigms of Europe were eroded<br />
-and overthrown by the steady growth of capitalism. The industrial<br />
-capitalist paradigm had, after the Great Depression, given birth to both<br />
-fascism and communism. And the surviving contenders of the Second World<br />
-War, created the Cold War (i.e. bipolar) paradigm. This paradigm<br />
-collapsed into one of globalisation and informationalism. New gods for<br />
+<p>Every paradigm contains the seeds of its own destruction. The bible was
+the first book that was mass-printed —  shortly after that the
+catholic church lost half of its believers to the various protestant
+denominations. The feudal and heriditary paradigms of Europe were eroded
+and overthrown by the steady growth of capitalism. The industrial
+capitalist paradigm had, after the Great Depression, given birth to both
+fascism and communism. And the surviving contenders of the Second World
+War, created the Cold War (i.e. bipolar) paradigm. This paradigm
+collapsed into one of globalisation and informationalism. New gods for
 old.</p>
-<p>Trust, just like a paradigm, is powered by <em>belief</em>. You cross the<br />
-street with minimal anxiety because you trust the drivers to be sober<br />
-enough to obey the traffic laws(also a good example of a paradigm). You<br />
-use the same two passwords on every site because you trust that the<br />
-programmers that made the site have a minimal level of technical<br />
-competence and a minimal regard for your security and privacy. Some<br />
-Runescape-playing twelve-year-old kid drops all their hard-earned loot<br />
-in front of another player and presses <code v-pre>Alt-F4</code> because that other<br />
-player told them it was a glitch that would duplicate all of the items<br />
-in their inventory — that kid <em>trusted</em> someone who was<br />
-<em>untrustworthy</em>, and learned a <em>painful</em> but <em>important</em> lesson about<br />
-<em>trust</em>. The internet is basically like that Runescape example. The<br />
-entire system depends on trust to get anything done, but there are too<br />
-many people and you cannot trust them blindly. What to do? Well, we did<br />
-what we have always done, we created institutions (i.e. social networks<br />
-and banks) and placed our <em>trust</em> and our <em>faith</em> in <em>them</em>. It sounds<br />
-perfectly reasonable, no? Sure. But such institutions are powered by<br />
-people, and the people —  just like criminals and liars —<br />
-have to respond to market-pressures. We used to <em>trust</em> our<br />
-credit-rating-agencies to tell us which financial entities were<br />
-<em>creditworthy</em> —  and then we had an economic <em>meltdown</em> in 2008<br />
-that destroyed the <em>trustworthiness</em> of those institutions themselves.<br />
-Centralizing trust in a handful of institutions will work in a pinch but<br />
-it could eventually, and without warning, fail —  every paradigm<br />
+<p>Trust, just like a paradigm, is powered by <em>belief</em>. You cross the
+street with minimal anxiety because you trust the drivers to be sober
+enough to obey the traffic laws(also a good example of a paradigm). You
+use the same two passwords on every site because you trust that the
+programmers that made the site have a minimal level of technical
+competence and a minimal regard for your security and privacy. Some
+Runescape-playing twelve-year-old kid drops all their hard-earned loot
+in front of another player and presses <code v-pre>Alt-F4</code> because that other
+player told them it was a glitch that would duplicate all of the items
+in their inventory — that kid <em>trusted</em> someone who was
+<em>untrustworthy</em>, and learned a <em>painful</em> but <em>important</em> lesson about
+<em>trust</em>. The internet is basically like that Runescape example. The
+entire system depends on trust to get anything done, but there are too
+many people and you cannot trust them blindly. What to do? Well, we did
+what we have always done, we created institutions (i.e. social networks
+and banks) and placed our <em>trust</em> and our <em>faith</em> in <em>them</em>. It sounds
+perfectly reasonable, no? Sure. But such institutions are powered by
+people, and the people —  just like criminals and liars —
+have to respond to market-pressures. We used to <em>trust</em> our
+credit-rating-agencies to tell us which financial entities were
+<em>creditworthy</em> —  and then we had an economic <em>meltdown</em> in 2008
+that destroyed the <em>trustworthiness</em> of those institutions themselves.
+Centralizing trust in a handful of institutions will work in a pinch but
+it could eventually, and without warning, fail —  every paradigm
 contains the seeds of its own destruction.</p>
 <doc-anchor-target id="the-internets-paradigm">
     <h2>
@@ -453,38 +468,38 @@ contains the seeds of its own destruction.</p>
         <span>Status Quo</span>
     </h3>
 </doc-anchor-target>
-<p>The internet, and especially the Web, are either the result or cause<br />
-—  hard to tell really —  of a paradigm shift. The mass<br />
-on-lining of humanity has shifted the power (i.e. the value or economic<br />
-surplus) from the previous power-holders (i.e. the mass media, the<br />
-industry, the publishers, etc). Think about it, more people watched the<br />
-Fortnite tournament than actual sporting events. In fact, viewership of<br />
-the <em>Olympics</em> has started declining towards the end of the last decade<br />
-—  after a half century of <em>growing</em> viewership. Book stores are<br />
-no longer mainstream, and the internet&#x27;s pre-eminent book store has<br />
-evolved into a titanic giant that sells <em>everything</em> and delivers it to<br />
-your residence within 2 days —  and they also collect rents for<br />
-roughly <em>one third</em> of all computation and storage that is provisioned<br />
-on a Cloud. A ride-sharing company has displaced local taxi-cab<br />
-companies <em>in the entire world</em> —  not merely in a city or a state<br />
-or a nation.  Video rental stores probably do not exist, but the<br />
-internet&#x27;s pre-eminent video rental store has emerged as a formidable<br />
-cultural force spending tens of billions of dollars per year producing<br />
-original and highly regarded, or at least highly viewed, films and<br />
+<p>The internet, and especially the Web, are either the result or cause
+—  hard to tell really —  of a paradigm shift. The mass
+on-lining of humanity has shifted the power (i.e. the value or economic
+surplus) from the previous power-holders (i.e. the mass media, the
+industry, the publishers, etc). Think about it, more people watched the
+Fortnite tournament than actual sporting events. In fact, viewership of
+the <em>Olympics</em> has started declining towards the end of the last decade
+—  after a half century of <em>growing</em> viewership. Book stores are
+no longer mainstream, and the internet&#x27;s pre-eminent book store has
+evolved into a titanic giant that sells <em>everything</em> and delivers it to
+your residence within 2 days —  and they also collect rents for
+roughly <em>one third</em> of all computation and storage that is provisioned
+on a Cloud. A ride-sharing company has displaced local taxi-cab
+companies <em>in the entire world</em> —  not merely in a city or a state
+or a nation.  Video rental stores probably do not exist, but the
+internet&#x27;s pre-eminent video rental store has emerged as a formidable
+cultural force spending tens of billions of dollars per year producing
+original and highly regarded, or at least highly viewed, films and
 television series.</p>
-<p>This is how paradigm shifts work. The above companies tried to build<br />
-modest businesses in not-too-contested corner of the market place. The<br />
-paradigm starts shifting in their favor and they find themselves<br />
-capturing more surplus than they know what to do with. They slowly wake<br />
-up to the realization that they are at the top of the pyramid —<br />
-not by any strategic brilliance of their own, but rather, because the<br />
-pyramid shifted and contorted itself and they happened to be at the<br />
-right coordinates at the right time. Western Europe provides an<br />
-interesting case study —  the place was a backwater far away from<br />
-any action until some adventerous sailors and navigators found sea<br />
-routes to Asia(that let them by-pass the Eastern Mediteranean<br />
-middle-men) and to the Americas(which would eventually house the worlds<br />
-most successful and likely last ever hegemon —  as always, every<br />
+<p>This is how paradigm shifts work. The above companies tried to build
+modest businesses in not-too-contested corner of the market place. The
+paradigm starts shifting in their favor and they find themselves
+capturing more surplus than they know what to do with. They slowly wake
+up to the realization that they are at the top of the pyramid —
+not by any strategic brilliance of their own, but rather, because the
+pyramid shifted and contorted itself and they happened to be at the
+right coordinates at the right time. Western Europe provides an
+interesting case study —  the place was a backwater far away from
+any action until some adventerous sailors and navigators found sea
+routes to Asia(that let them by-pass the Eastern Mediteranean
+middle-men) and to the Americas(which would eventually house the worlds
+most successful and likely last ever hegemon —  as always, every
 paradigm contains the seeds of its own destruction,).</p>
 <doc-anchor-target id="new-paradigm">
     <h3>
@@ -492,50 +507,50 @@ paradigm contains the seeds of its own destruction,).</p>
         <span>New Paradigm</span>
     </h3>
 </doc-anchor-target>
-<p>Different people have different ideas about what the next paradigm of<br />
-the web is. Web2.0 got us half-way to where we want to be. Its pioneers,<br />
-however, could not resist the incentives to maximize the proportion of<br />
-the economic surplus that they capture —  even though these Web2.0<br />
-business are essentially <em>built by the users</em>. And Web3.0? Depends on<br />
-who you ask. Right now the mainstream thinks that Web3.0 is the<br />
-<em>semantic web</em> —  a decades-old idea that has always struggled to<br />
-gain traction. Meanwhile, an increasing number of people believe that<br />
-Web3.0 will center around <em>blockchain technologies</em> —  but they<br />
+<p>Different people have different ideas about what the next paradigm of
+the web is. Web2.0 got us half-way to where we want to be. Its pioneers,
+however, could not resist the incentives to maximize the proportion of
+the economic surplus that they capture —  even though these Web2.0
+business are essentially <em>built by the users</em>. And Web3.0? Depends on
+who you ask. Right now the mainstream thinks that Web3.0 is the
+<em>semantic web</em> —  a decades-old idea that has always struggled to
+gain traction. Meanwhile, an increasing number of people believe that
+Web3.0 will center around <em>blockchain technologies</em> —  but they
 call it <strong>web3</strong>(we will call it Web3.0 from now on in this paper).</p>
-<p>We believe that the new paradigm for the internet/web is<br />
-hyper-decentralization. The web is decentralizing the media and the news<br />
-and the publishing industry. The web is decentralizing geography —<br />
-two people a million miles away can interact with each other over<br />
-video-chat or VR. The web is decentralizing finance —  even stuffy<br />
-old banks want to get in on the DeFi bandwagon. The web is<br />
-decentralizing the nation-state —  people often times have more in<br />
-common with globally dispersed like-minded individuals than their fellow<br />
-neighbors and citizens. The web is decentralizing employment —<br />
-the number of people working in the gig-economy and the creator-economy<br />
-is increasing(unfortunately this is another example of users creating a<br />
+<p>We believe that the new paradigm for the internet/web is
+hyper-decentralization. The web is decentralizing the media and the news
+and the publishing industry. The web is decentralizing geography —
+two people a million miles away can interact with each other over
+video-chat or VR. The web is decentralizing finance —  even stuffy
+old banks want to get in on the DeFi bandwagon. The web is
+decentralizing the nation-state —  people often times have more in
+common with globally dispersed like-minded individuals than their fellow
+neighbors and citizens. The web is decentralizing employment —
+the number of people working in the gig-economy and the creator-economy
+is increasing(unfortunately this is another example of users creating a
 surplus that is captured by online equivalent of a few feudal lords).</p>
-<p>We believe that this accelerating trend of hyper-decentralization will<br />
-also decentralize the parts of the web that have to do with <em>trust</em>.<br />
-Right now, the intermediary institutions (i.e. Facebook, Twitter,<br />
-Reddit, HN, and so on) that ascribe credibility and trustworthiness do<br />
-so in ways that are <em>opaque</em>. We do not know <em>why</em> certain tweets appear<br />
-in our feeds and others do not —  and even if we did, there is<br />
-nothing we can do <em>customize</em> our feed(aside from following/unfollowing<br />
-various accounts). We can see a Reddit user&#x27;s karma-score as well as the<br />
-score of their individual posts —  which is slightly less opaque<br />
-than Hacker News&#x27;s ranking system —  but we cannot see <em>who</em><br />
-up-voted or down-voted that user&#x27;s posts. In fact, we have no way of<br />
-knowing if that karma score has not been accidentally inflated by a<br />
-random bit-flip on Reddit&#x27;s servers —  let alone if it has been<br />
-manipulated by an insider or inflated by a voting ring. Similar logic<br />
-applies to Twitter and Hacker News. Hacker News has surprisingly<br />
-insightful discussions, in spite of its concealment of vote-metadata for<br />
-posts, but it is still suseptible to insider manipulation and voting<br />
-rings. Finally, there is the question of whether a single raw integer<br />
-—  whether it represents total karma or total followers or total<br />
-likes or total retweets —  can <em>actually</em> capture the<br />
-trustworthiness, truthfulness, and popularity of an account and the<br />
-content associated with it. Can you determine if someone is going to be<br />
+<p>We believe that this accelerating trend of hyper-decentralization will
+also decentralize the parts of the web that have to do with <em>trust</em>.
+Right now, the intermediary institutions (i.e. Facebook, Twitter,
+Reddit, HN, and so on) that ascribe credibility and trustworthiness do
+so in ways that are <em>opaque</em>. We do not know <em>why</em> certain tweets appear
+in our feeds and others do not —  and even if we did, there is
+nothing we can do <em>customize</em> our feed(aside from following/unfollowing
+various accounts). We can see a Reddit user&#x27;s karma-score as well as the
+score of their individual posts —  which is slightly less opaque
+than Hacker News&#x27;s ranking system —  but we cannot see <em>who</em>
+up-voted or down-voted that user&#x27;s posts. In fact, we have no way of
+knowing if that karma score has not been accidentally inflated by a
+random bit-flip on Reddit&#x27;s servers —  let alone if it has been
+manipulated by an insider or inflated by a voting ring. Similar logic
+applies to Twitter and Hacker News. Hacker News has surprisingly
+insightful discussions, in spite of its concealment of vote-metadata for
+posts, but it is still suseptible to insider manipulation and voting
+rings. Finally, there is the question of whether a single raw integer
+—  whether it represents total karma or total followers or total
+likes or total retweets —  can <em>actually</em> capture the
+trustworthiness, truthfulness, and popularity of an account and the
+content associated with it. Can you determine if someone is going to be
 a good and helpful friend or collaborator by the size of their wallet?</p>
 <doc-anchor-target id="economics">
     <h2>
@@ -549,50 +564,50 @@ a good and helpful friend or collaborator by the size of their wallet?</p>
         <span>Intro: Three Strains of Economic Thought</span>
     </h3>
 </doc-anchor-target>
-<p>Before we continue with our proposed solution, we should probably take a<br />
-brief detour into economics-land and express how our proposal fits into<br />
-the main frameworks of economics. From the late 1700s up to the<br />
-present-day three economic schools of thought have shaped societies<br />
-around the world —  namely, the Neoclassical, the Keynesian, and<br />
-the Marxian. The Neoclassical school focused on individual freedom and<br />
-individual incentives, and rejected any form of state-intervention in<br />
-the economy —  in other words they assumed that Utopia was<br />
-achievable without Leviathan. After the Great Depression set the<br />
-Neoclassical Utopia aflame, the Keynesian school arose and argued that a<br />
-Utopia could not be maintained without a Leviathan —  they argued<br />
-that the individual was certainly important, but not nearly as important<br />
-as the <em>structure</em> of the economy. These two views correspond to<br />
-microeconomics (i.e.  reasoning that individuals ruthlessly purseuing<br />
-their own self-interest will create the most desirable outcomes for all<br />
-of humanity) and macroeconomics (i.e. reasoning that <em>tracking</em><br />
-macroeconomic indicators like GDP, unemployment, inflation, and<br />
-interest-rates and <em>tuning</em> those macroeconomic variables will create<br />
-the most desirable outcomes for all of humanity). Put differently, one<br />
-school thinks that individual behavior and actions <em>cause</em> the economy,<br />
-while the other school thinks that the economy <em>causes</em> individual<br />
-actions and behavior. To be clear, we are not taking sides, both points<br />
-of view are correct they just disagree about the <em>relative</em> value of one<br />
-component in relation to the others. And now onto the Marxian school<br />
+<p>Before we continue with our proposed solution, we should probably take a
+brief detour into economics-land and express how our proposal fits into
+the main frameworks of economics. From the late 1700s up to the
+present-day three economic schools of thought have shaped societies
+around the world —  namely, the Neoclassical, the Keynesian, and
+the Marxian. The Neoclassical school focused on individual freedom and
+individual incentives, and rejected any form of state-intervention in
+the economy —  in other words they assumed that Utopia was
+achievable without Leviathan. After the Great Depression set the
+Neoclassical Utopia aflame, the Keynesian school arose and argued that a
+Utopia could not be maintained without a Leviathan —  they argued
+that the individual was certainly important, but not nearly as important
+as the <em>structure</em> of the economy. These two views correspond to
+microeconomics (i.e.  reasoning that individuals ruthlessly purseuing
+their own self-interest will create the most desirable outcomes for all
+of humanity) and macroeconomics (i.e. reasoning that <em>tracking</em>
+macroeconomic indicators like GDP, unemployment, inflation, and
+interest-rates and <em>tuning</em> those macroeconomic variables will create
+the most desirable outcomes for all of humanity). Put differently, one
+school thinks that individual behavior and actions <em>cause</em> the economy,
+while the other school thinks that the economy <em>causes</em> individual
+actions and behavior. To be clear, we are not taking sides, both points
+of view are correct they just disagree about the <em>relative</em> value of one
+component in relation to the others. And now onto the Marxian school
 which requires its own paragraph.</p>
-<p>The Marxians are primarily concerned with <em>the means of production</em><br />
-—  specifically, what they are, who is the class that owns them,<br />
-who is the class that operates them, what are their outputs, what is<br />
-their economic surplus, and who captures what proportion of that<br />
-surplus.  They marvel at the economic efficiency and dynamism unlocked<br />
-by the transition from feudalism to capitalism, but they believe that<br />
-any arrangement in which the class that operates the means of production<br />
-but does not own or control those means is fundementally unjust, and<br />
-does not fulfil the(false) promises of Humanism(the philosophy<br />
-undergirding both Neoclassical and Keynesian social orders). They also<br />
-believe that individuals and economic-structures are always shaping<br />
-each-other via a never-ending <em>dialectics</em> —  in effect, they are<br />
-<em>simultaneously</em> cause <em>and</em> effect. And that is pretty much all of the<br />
-Marxian school <em>that is relevant to this paper</em> —  there is a lot<br />
-of other stuff (i.e. central planning as a suitable alternative to the<br />
-market) that is simply not compatible with a globalized marketplace, nor<br />
+<p>The Marxians are primarily concerned with <em>the means of production</em>
+—  specifically, what they are, who is the class that owns them,
+who is the class that operates them, what are their outputs, what is
+their economic surplus, and who captures what proportion of that
+surplus.  They marvel at the economic efficiency and dynamism unlocked
+by the transition from feudalism to capitalism, but they believe that
+any arrangement in which the class that operates the means of production
+but does not own or control those means is fundementally unjust, and
+does not fulfil the(false) promises of Humanism(the philosophy
+undergirding both Neoclassical and Keynesian social orders). They also
+believe that individuals and economic-structures are always shaping
+each-other via a never-ending <em>dialectics</em> —  in effect, they are
+<em>simultaneously</em> cause <em>and</em> effect. And that is pretty much all of the
+Marxian school <em>that is relevant to this paper</em> —  there is a lot
+of other stuff (i.e. central planning as a suitable alternative to the
+market) that is simply not compatible with a globalized marketplace, nor
 is it compatible with a trend towards hyper-decentralization.</p>
-<p>We basically agree with all of these theories, and want to use the three<br />
-perspectives to construct a globally decentralized network that will<br />
+<p>We basically agree with all of these theories, and want to use the three
+perspectives to construct a globally decentralized network that will
 give users freedom, control, privacy, and security.</p>
 <doc-anchor-target id="reputation-and-trust">
     <h3>
@@ -600,91 +615,91 @@ give users freedom, control, privacy, and security.</p>
         <span>Reputation and Trust</span>
     </h3>
 </doc-anchor-target>
-<p>Trying to eliminate the intermediary institutions that ascribe trust is<br />
-a little bit like trying to eliminate the police or trying to eliminate<br />
-schools. Obviously policing and schooling are very important and nobody<br />
-would ever consider decentralizing them, let alone eliminating them. So<br />
-should ask ourselves, what kind of a people have no need for the police?<br />
-What kind of people have no need for schools? The answer, dear reader,<br />
-is people that are <em>self-policing</em> and <em>self-schooling</em>. Obviously, such<br />
-people are very rare, otherwise we would not need schools and police<br />
-departments. However, a computer that is not under the control of any<br />
-single individual can in fact be used to implement this kind of flawless<br />
-self-regulation. If we go back to that earlier Runescape example from<br />
-Section 4, the game could have been programmed to disallow such acts of<br />
-deception —  whether this makes the game better is another matter<br />
+<p>Trying to eliminate the intermediary institutions that ascribe trust is
+a little bit like trying to eliminate the police or trying to eliminate
+schools. Obviously policing and schooling are very important and nobody
+would ever consider decentralizing them, let alone eliminating them. So
+should ask ourselves, what kind of a people have no need for the police?
+What kind of people have no need for schools? The answer, dear reader,
+is people that are <em>self-policing</em> and <em>self-schooling</em>. Obviously, such
+people are very rare, otherwise we would not need schools and police
+departments. However, a computer that is not under the control of any
+single individual can in fact be used to implement this kind of flawless
+self-regulation. If we go back to that earlier Runescape example from
+Section 4, the game could have been programmed to disallow such acts of
+deception —  whether this makes the game better is another matter
 entirely.</p>
-<p>What we wish to do is to use the decentralized, history preserving, and<br />
-transactional nature of the blockchain to implement an anonymous<br />
-trust-network. To be clear, we are <strong>not</strong> trying to replace existing<br />
-platforms like Reddit or Twitter —  this is <strong>not</strong> <em>XYZ But for<br />
-The Blockchain</em>. We do think that blockchain technology will see<br />
-adoption in content-creation and content-distribution, but we think that<br />
-those domains are related but separate from the domain of <em>trust and<br />
+<p>What we wish to do is to use the decentralized, history preserving, and
+transactional nature of the blockchain to implement an anonymous
+trust-network. To be clear, we are <strong>not</strong> trying to replace existing
+platforms like Reddit or Twitter —  this is <strong>not</strong> <em>XYZ But for
+The Blockchain</em>. We do think that blockchain technology will see
+adoption in content-creation and content-distribution, but we think that
+those domains are related but separate from the domain of <em>trust and
 reputation</em>.</p>
-<p>Our network associates users with accounts on the blockchain, similar to<br />
-how a licence plate is associated with a vehicle —  though<br />
-<em>unlike</em> a license plate we do not associate the <em>identity</em> of the user<br />
-with the account. Each account has a certain number of <code v-pre>Inter Tokens</code><br />
-associated with it. These coins are <strong>not</strong> a measure of karma or<br />
-trustworthiness —  rather, they are merely a way to amplify (i.e.<br />
-upvote) or dampen (i.e. downvote) other accounts. The network does not<br />
-<em>score</em> anything —  it merely records the upvotes and downvotes,<br />
-which account they came from, and how many Vote Tokens(more on this<br />
-later) have been spent on each upvote or downvote. The idea is that,<br />
-voting is not free. When a upvotes they are depositing a percentage of<br />
-those votes into the target account —  when downvoting, no votes<br />
-get deducted from the target account but the downvote-transaction does<br />
-get recorded on the blockchain(we do not want users with an overwhelming<br />
-amount of vote-tokens to be able to bankrupt accounts that they<br />
-dislike). Users can also <em>vouch</em> for other accounts. Vouching is a<br />
-special kind of upvote —  it allows a user to risk a certain<br />
-amount of their vote-tokens to give another user visibility. If the<br />
-other user gets upvotes then the upvotes are recorded on the blockchain,<br />
-but the vote-tokens are shared between the voucher(s) and the vouchee in<br />
-proportion to how much vote-tokens all of these users have vouched. If<br />
-the other user gets downvotes then the voucher loses a proportional<br />
-amount of vote-tokens —  so one should not vouch blindly. Vouching<br />
-can be time-limited, and the vouchee has to explicitly accept the vouch.<br />
-Lastly users can <em>share</em>. Sharing essentially lets a user post an<br />
-arbitrary byte-string to the blockchain —  the network charges a<br />
-<strong>significant</strong> per-byte fee for sharing. The reasoning is that we want<br />
-to incentivize users to post <em>links and URLs</em> to content on other more<br />
-mainstream platforms, instead of <em>actual</em> content which we consider<br />
-outside of our scope. This essentially allows accounts to act as<br />
+<p>Our network associates users with accounts on the blockchain, similar to
+how a licence plate is associated with a vehicle —  though
+<em>unlike</em> a license plate we do not associate the <em>identity</em> of the user
+with the account. Each account has a certain number of <code v-pre>Inter Tokens</code>
+associated with it. These coins are <strong>not</strong> a measure of karma or
+trustworthiness —  rather, they are merely a way to amplify (i.e.
+upvote) or dampen (i.e. downvote) other accounts. The network does not
+<em>score</em> anything —  it merely records the upvotes and downvotes,
+which account they came from, and how many Vote Tokens(more on this
+later) have been spent on each upvote or downvote. The idea is that,
+voting is not free. When a upvotes they are depositing a percentage of
+those votes into the target account —  when downvoting, no votes
+get deducted from the target account but the downvote-transaction does
+get recorded on the blockchain(we do not want users with an overwhelming
+amount of vote-tokens to be able to bankrupt accounts that they
+dislike). Users can also <em>vouch</em> for other accounts. Vouching is a
+special kind of upvote —  it allows a user to risk a certain
+amount of their vote-tokens to give another user visibility. If the
+other user gets upvotes then the upvotes are recorded on the blockchain,
+but the vote-tokens are shared between the voucher(s) and the vouchee in
+proportion to how much vote-tokens all of these users have vouched. If
+the other user gets downvotes then the voucher loses a proportional
+amount of vote-tokens —  so one should not vouch blindly. Vouching
+can be time-limited, and the vouchee has to explicitly accept the vouch.
+Lastly users can <em>share</em>. Sharing essentially lets a user post an
+arbitrary byte-string to the blockchain —  the network charges a
+<strong>significant</strong> per-byte fee for sharing. The reasoning is that we want
+to incentivize users to post <em>links and URLs</em> to content on other more
+mainstream platforms, instead of <em>actual</em> content which we consider
+outside of our scope. This essentially allows accounts to act as
 <em>curation feeds</em>.</p>
-<p>As for the actual <em>scoring</em>, we decentralize this by pushing it to the<br />
-<em>edges</em> of the network. The idea is that users can run a scoring program<br />
-that will walk the blockchain and build a graph of accounts as connected<br />
-by upvotes, downvotes, and vouches —  in effect applying a kind of<br />
-page-rank algorithm to account. The reason we outsource this to the<br />
-client is that it allows people to build things like feeds in a totally<br />
-custom way. For example users can play around with <em>biased</em> page-ranks<br />
-(i.e. what would happen if we removed Account XYZ from the blockchain<br />
-history, or what would happen if we treat these 5 accounts as a single<br />
-shared account). The possibilities are endless. What would a feed look<br />
-like if Account X was <em>my</em> account? Which accounts have voted for my<br />
+<p>As for the actual <em>scoring</em>, we decentralize this by pushing it to the
+<em>edges</em> of the network. The idea is that users can run a scoring program
+that will walk the blockchain and build a graph of accounts as connected
+by upvotes, downvotes, and vouches —  in effect applying a kind of
+page-rank algorithm to account. The reason we outsource this to the
+client is that it allows people to build things like feeds in a totally
+custom way. For example users can play around with <em>biased</em> page-ranks
+(i.e. what would happen if we removed Account XYZ from the blockchain
+history, or what would happen if we treat these 5 accounts as a single
+shared account). The possibilities are endless. What would a feed look
+like if Account X was <em>my</em> account? Which accounts have voted for my
 account(s)? Which accounts have a similar voting pattern to mine?</p>
-<p>Each account is associated with a public cryptographic key. Users can<br />
-sign things that they post on the web (i.e. to reddit or to their own<br />
-blog), so that users of the Interlock Network can know that the content<br />
+<p>Each account is associated with a public cryptographic key. Users can
+sign things that they post on the web (i.e. to reddit or to their own
+blog), so that users of the Interlock Network can know that the content
 was posted by somebody that they trust.</p>
-<p>If the Interlock Network sees wider adoption, website admins can include<br />
-a custom HTTP header that includes a signed Interlock Network account<br />
-number —  if a user has installed a Interlock-Network-aware<br />
-browser-extension they can automatically inspect that account&#x27;s history<br />
-and various rankings, interactions, and scores. Years ago, Paul Graham<br />
-said that he asked applicants to Y Combinator provide their Hacker News<br />
-account-name as an additional data-point for YC to consider when<br />
-evaluating the applicants and their proposals —  we believe that<br />
-the Interlock Network can be used in a similar capacity, <em>but across the<br />
-entire internet</em>. Everything from online stores to online gaming<br />
-communities can make use of the data stored in the Interlock Network to<br />
-ascertain the trustworthiness of the participants. Even in the domain of<br />
-startups, companies with a good reputation on the Interlock Network can<br />
-offer their employees Inter Tokens or upvotes in lieu of stock or<br />
+<p>If the Interlock Network sees wider adoption, website admins can include
+a custom HTTP header that includes a signed Interlock Network account
+number —  if a user has installed a Interlock-Network-aware
+browser-extension they can automatically inspect that account&#x27;s history
+and various rankings, interactions, and scores. Years ago, Paul Graham
+said that he asked applicants to Y Combinator provide their Hacker News
+account-name as an additional data-point for YC to consider when
+evaluating the applicants and their proposals —  we believe that
+the Interlock Network can be used in a similar capacity, <em>but across the
+entire internet</em>. Everything from online stores to online gaming
+communities can make use of the data stored in the Interlock Network to
+ascertain the trustworthiness of the participants. Even in the domain of
+startups, companies with a good reputation on the Interlock Network can
+offer their employees Inter Tokens or upvotes in lieu of stock or
 shares.</p>
-<p>If Web2.0 was about <em>websites</em> and <em>services</em>, we believe that Web3.0 is<br />
+<p>If Web2.0 was about <em>websites</em> and <em>services</em>, we believe that Web3.0 is
 about <em>people</em> and <em>content</em> and their <em>trustworthiness</em>.</p>
 <doc-anchor-target id="quid-pro-quo">
     <h3>
@@ -692,22 +707,22 @@ about <em>people</em> and <em>content</em> and their <em>trustworthiness</em>.</
         <span>Quid pro Quo</span>
     </h3>
 </doc-anchor-target>
-<p>An interesting application of the Interlock Network would be as a way to<br />
-implement a <em>favor exchange</em>. Think of it this way —  you want<br />
-someone to do you a favor (i.e. you want them to farm potato-cactuses on<br />
-Runescape) so you give them an NFT Inter Token and they do you a solid<br />
-favor. Now that the favor is complete, the favor-doer has an NFT token<br />
-that is directly linked to you that indicates that <em>you</em> owe <em>them</em> a<br />
-favor. Once you do them a favor, they will give you a corresponding NFT<br />
-token that will cancel out your original token. The cool thing about<br />
-this, is that it encourages the development of long-lived bilateral<br />
-relationships between accounts and people —  whereas the exchange<br />
-of money generally encourages us to treat other human beings as<br />
-vending-machines that do things for us because we we inserted money into<br />
-them. Clearly it is possible for the two users to never reach an<br />
-agreement on whether a favor was ever actually completed, in which case<br />
-the NFT can be reclaimed by the issuer —  whether or not this is<br />
-true is not nearly as important as it being permanently recorded on the<br />
+<p>An interesting application of the Interlock Network would be as a way to
+implement a <em>favor exchange</em>. Think of it this way —  you want
+someone to do you a favor (i.e. you want them to farm potato-cactuses on
+Runescape) so you give them an NFT Inter Token and they do you a solid
+favor. Now that the favor is complete, the favor-doer has an NFT token
+that is directly linked to you that indicates that <em>you</em> owe <em>them</em> a
+favor. Once you do them a favor, they will give you a corresponding NFT
+token that will cancel out your original token. The cool thing about
+this, is that it encourages the development of long-lived bilateral
+relationships between accounts and people —  whereas the exchange
+of money generally encourages us to treat other human beings as
+vending-machines that do things for us because we we inserted money into
+them. Clearly it is possible for the two users to never reach an
+agreement on whether a favor was ever actually completed, in which case
+the NFT can be reclaimed by the issuer —  whether or not this is
+true is not nearly as important as it being permanently recorded on the
 blockchain, and the page-rank algorithm can do its magic.</p>
 <doc-anchor-target id="why-security">
     <h2>
@@ -721,44 +736,44 @@ blockchain, and the page-rank algorithm can do its magic.</p>
         <span>Freedom, Choice, and Privacy</span>
     </h3>
 </doc-anchor-target>
-<p>Security is a difficult problem —  it has <em>always</em> been a<br />
-difficult problem. Throwing blockchain at the problem won&#x27;t<br />
-automatically fix it.  If websites were signed using a Interlock Network<br />
-account-signature many phishing attacks —  the most common and<br />
-most successful kind of attack —  would be a lot less feasible.<br />
-However, Interlock Network does not yet exist —  and even if it<br />
-did it would only protect the users that have an account on it from<br />
-websites that belong to <em>other</em> users that have an account on it. So<br />
-while the Interlock Network concept has enormous potential and could be<br />
-an extremely powerful security mechanism —  if widely used and<br />
+<p>Security is a difficult problem —  it has <em>always</em> been a
+difficult problem. Throwing blockchain at the problem won&#x27;t
+automatically fix it.  If websites were signed using a Interlock Network
+account-signature many phishing attacks —  the most common and
+most successful kind of attack —  would be a lot less feasible.
+However, Interlock Network does not yet exist —  and even if it
+did it would only protect the users that have an account on it from
+websites that belong to <em>other</em> users that have an account on it. So
+while the Interlock Network concept has enormous potential and could be
+an extremely powerful security mechanism —  if widely used and
 adopted —  it is not a good starting point.</p>
-<p>Our company, Interlock, has developed an extension —  a fork of<br />
-uBlock —  that, in addition to the usual ad-blocking functions,<br />
-can also detect whether a website is fraudulent based on very effective,<br />
-widely tested, heuristics. When a user opens a webpage that the<br />
-extension thinks is fraudulent or untrustworthy, the extension will<br />
-prevent any user input to the page and issue a warning in the form of a<br />
-large red banner. The extension has already seen use in some large<br />
-companies that you have definitely heard of —  and for most of its<br />
-life it has been out of the reach of non-corporate users. Our plan is to<br />
-make this extension available to <em>everyone</em> but to modify it to work<br />
-with Interlock Network. When the user installs the extension they can<br />
-open an account on the Interlock Network, link it to the extension, and<br />
-we will deposite some amount of Inter Tokens into their account. As they<br />
-use the extension they will get a variable-time and variable-quantity<br />
-reward for using it.  They can also get additional Inter Tokens if they<br />
-verify that a link dangerous —  though this is opt-in as it would<br />
-require us to request that verification from a random subset of users<br />
-that are not too tightly connected on the Interlock Network. The<br />
-extension will also be extended to allow sharing of links from the<br />
-browser on the Interlock Network. Users can also flag webpages as either<br />
-being malicious or <em>containing</em> malicious content (i.e. a comment on<br />
-reddit or a video on youtube). And finally the extension can also be<br />
+<p>Our company, Interlock, has developed an extension —  a fork of
+uBlock —  that, in addition to the usual ad-blocking functions,
+can also detect whether a website is fraudulent based on very effective,
+widely tested, heuristics. When a user opens a webpage that the
+extension thinks is fraudulent or untrustworthy, the extension will
+prevent any user input to the page and issue a warning in the form of a
+large red banner. The extension has already seen use in some large
+companies that you have definitely heard of —  and for most of its
+life it has been out of the reach of non-corporate users. Our plan is to
+make this extension available to <em>everyone</em> but to modify it to work
+with Interlock Network. When the user installs the extension they can
+open an account on the Interlock Network, link it to the extension, and
+we will deposite some amount of Inter Tokens into their account. As they
+use the extension they will get a variable-time and variable-quantity
+reward for using it.  They can also get additional Inter Tokens if they
+verify that a link dangerous —  though this is opt-in as it would
+require us to request that verification from a random subset of users
+that are not too tightly connected on the Interlock Network. The
+extension will also be extended to allow sharing of links from the
+browser on the Interlock Network. Users can also flag webpages as either
+being malicious or <em>containing</em> malicious content (i.e. a comment on
+reddit or a video on youtube). And finally the extension can also be
 used to explore the data stored in the Interlock Network.</p>
-<p>Naturally, we encourage the community to create alternative extensions.<br />
-For example an extension that mimics the old StumbleUpon extension would<br />
-be very cool to see. Also an extension that mimics the functionality of<br />
-Google Reader, but for Interlock Network shares rather than actual RSS<br />
+<p>Naturally, we encourage the community to create alternative extensions.
+For example an extension that mimics the old StumbleUpon extension would
+be very cool to see. Also an extension that mimics the functionality of
+Google Reader, but for Interlock Network shares rather than actual RSS
 feeds.</p>
 <doc-anchor-target id="kyc">
     <h2>
@@ -766,17 +781,17 @@ feeds.</p>
         <span>KYC</span>
     </h2>
 </doc-anchor-target>
-<p>The <strong>Know Your Customer</strong> laws are an interesting example of laws that<br />
-require establishing the trustworthiness of a customer. In principle it<br />
-is much the same concept as checking whether a website is legitimate or<br />
-fraudulent or whether an account on the Interlock Network is highly<br />
-regarded or shunned. Obviously, if all transactions happened on the<br />
-Interlock Network —  or on <em>any</em> blockchain —  KYC laws<br />
-would be trivial to implement. That is one of the nice side effects of<br />
-complete transparency. We can combine the data on the Interlock Network<br />
-with data —  <em>anonymized</em> of course —  that we gather from<br />
-the extension to help the relevant Web3.0 financial institutions (i.e.<br />
-namely crypto-exchanges and banks that want jump onto the DeFi train)<br />
+<p>The <strong>Know Your Customer</strong> laws are an interesting example of laws that
+require establishing the trustworthiness of a customer. In principle it
+is much the same concept as checking whether a website is legitimate or
+fraudulent or whether an account on the Interlock Network is highly
+regarded or shunned. Obviously, if all transactions happened on the
+Interlock Network —  or on <em>any</em> blockchain —  KYC laws
+would be trivial to implement. That is one of the nice side effects of
+complete transparency. We can combine the data on the Interlock Network
+with data —  <em>anonymized</em> of course —  that we gather from
+the extension to help the relevant Web3.0 financial institutions (i.e.
+namely crypto-exchanges and banks that want jump onto the DeFi train)
 stay in compliance with the KYC regulations.</p>
 <doc-anchor-target id="cryptonomics">
     <h2>
@@ -790,31 +805,31 @@ stay in compliance with the KYC regulations.</p>
         <span>Interlock Token</span>
     </h3>
 </doc-anchor-target>
-<p>To back our smart-contracts and our token we have chosen the <strong>Solana</strong><br />
-blockchain technology as our transaction-processing platform-component<br />
-and <strong>Ethereum</strong> as the platform-component on which we mint the actual<br />
-tokens. Solana has addressed many of the outstanding problems found in<br />
-similar popular blockchains like Ethereum (i.e. transaction-speed<br />
-energy-efficiency infinite-smart-contract-loops etc). In fact, the<br />
-Interlock Network is simply not feasible on any blockchain that does not<br />
-have cheap transactions. We had hoped that we would be able to use<br />
-Ethereum since it has an enormous ecosystem and is very popular, but its<br />
-transactions are thousands of times more expensive then Solana&#x27;s. We do<br />
-however recognize the value of Ethereum&#x27;s ERC-20 standard and the<br />
-ability to use existing wallets and to transact with other people on<br />
-Ethereum —  so we are minting the coins on Ethereum but connecting<br />
-them to Solana using the Wormhole bridge between these two blockchains.<br />
-Ideally, we would use a single popular blockchain like Ethereum but the<br />
-physics and economics of these technologies makes that impossible,<br />
-presently.  However, if the newer versions of Ethereum increase the TPS<br />
-and decrease their transaction-costs we could see ourselves porting our<br />
-code over to these future version of Ethereum —  assuming that<br />
+<p>To back our smart-contracts and our token we have chosen the <strong>Solana</strong>
+blockchain technology as our transaction-processing platform-component
+and <strong>Ethereum</strong> as the platform-component on which we mint the actual
+tokens. Solana has addressed many of the outstanding problems found in
+similar popular blockchains like Ethereum (i.e. transaction-speed
+energy-efficiency infinite-smart-contract-loops etc). In fact, the
+Interlock Network is simply not feasible on any blockchain that does not
+have cheap transactions. We had hoped that we would be able to use
+Ethereum since it has an enormous ecosystem and is very popular, but its
+transactions are thousands of times more expensive then Solana&#x27;s. We do
+however recognize the value of Ethereum&#x27;s ERC-20 standard and the
+ability to use existing wallets and to transact with other people on
+Ethereum —  so we are minting the coins on Ethereum but connecting
+them to Solana using the Wormhole bridge between these two blockchains.
+Ideally, we would use a single popular blockchain like Ethereum but the
+physics and economics of these technologies makes that impossible,
+presently.  However, if the newer versions of Ethereum increase the TPS
+and decrease their transaction-costs we could see ourselves porting our
+code over to these future version of Ethereum —  assuming that
 Solana does not supplant Ethereum in the meantime.</p>
-<p>To be honest, we are still not 100 percent certain that out<br />
-Solana-Ethereum hybrid is going to be able to implement all of the<br />
-features that we desire for the Interlock Network to have. Worst case,<br />
-we will have to implement our own blockchain from scratch —  we<br />
-are still evaluating options. At minimum we will use Solana-Ethereum as<br />
+<p>To be honest, we are still not 100 percent certain that out
+Solana-Ethereum hybrid is going to be able to implement all of the
+features that we desire for the Interlock Network to have. Worst case,
+we will have to implement our own blockchain from scratch —  we
+are still evaluating options. At minimum we will use Solana-Ethereum as
 a test-bed for the basic idea and move on from there.</p>
 <doc-anchor-target id="economics-redux">
     <h3>
@@ -822,20 +837,20 @@ a test-bed for the basic idea and move on from there.</p>
         <span>Economics Redux</span>
     </h3>
 </doc-anchor-target>
-<p>Just wanted to circle back to the three economic paradigms mentioned<br />
-earlier. The Interlock Network satifies both the<br />
-neoclassical-individualist and keynesian-structuralist perspectives<br />
-because we can infer a very precise <em>structure</em> from the recorded<br />
-transaction-history between <em>individuals</em> —  in fact if the<br />
-Interlock Network gains wide adoption it would probably be of<br />
-significant interest to all kinds of economists and sociologists.<br />
-Furthermore we have tried to the design the incentives encourage<br />
-pro-social use of the blockchain —  but of course if any<br />
-economists(or non-economists) want to chime in then please go ahead. As<br />
-for the marxians, they can take pleasure in the fact that (a) the user&#x27;s<br />
-privacy, relationships, and attention (i.e. the means of production for<br />
-the information age) are owned by the collective and not by people whose<br />
-names rhyme with Stark Truckerberg or Track Horsey and (b) the user has<br />
+<p>Just wanted to circle back to the three economic paradigms mentioned
+earlier. The Interlock Network satifies both the
+neoclassical-individualist and keynesian-structuralist perspectives
+because we can infer a very precise <em>structure</em> from the recorded
+transaction-history between <em>individuals</em> —  in fact if the
+Interlock Network gains wide adoption it would probably be of
+significant interest to all kinds of economists and sociologists.
+Furthermore we have tried to the design the incentives encourage
+pro-social use of the blockchain —  but of course if any
+economists(or non-economists) want to chime in then please go ahead. As
+for the marxians, they can take pleasure in the fact that (a) the user&#x27;s
+privacy, relationships, and attention (i.e. the means of production for
+the information age) are owned by the collective and not by people whose
+names rhyme with Stark Truckerberg or Track Horsey and (b) the user has
 the final say over which accounts are more attention-worthy than others.</p>
 <doc-anchor-target id="interlock-token-solana-ethereum-architecture">
     <h3>
@@ -843,82 +858,82 @@ the final say over which accounts are more attention-worthy than others.</p>
         <span>Interlock Token Solana-Ethereum Architecture</span>
     </h3>
 </doc-anchor-target>
-<p>We have given you a short overview and justification of which<br />
-blockchains will be used as a test-bed for the Interlock Network, now we<br />
-will give some concrete details about how this will be implemented on<br />
-top of Solana-Ethereum. So far, we have spoken of the Interlock Network<br />
-as if it was a proper stand-alone blockchain, so that we can get the<br />
-<em>idea</em> of a P2P reputation network across to you. However, there are<br />
-some significant implementation details that diverge from our <em>idealized<br />
+<p>We have given you a short overview and justification of which
+blockchains will be used as a test-bed for the Interlock Network, now we
+will give some concrete details about how this will be implemented on
+top of Solana-Ethereum. So far, we have spoken of the Interlock Network
+as if it was a proper stand-alone blockchain, so that we can get the
+<em>idea</em> of a P2P reputation network across to you. However, there are
+some significant implementation details that diverge from our <em>idealized
 description</em> of the Interlock Network, in the previous sections.</p>
-<p>Pretty much all software that runs on a blockchain is going to be much<br />
-slower —  and more expensive —  than traditional software<br />
-that runs on raw silicon(or even in a VM). We should start with the good<br />
-news —  transactions in Solana are extremely cheap, costing only<br />
-about 10-USD to execute a <em>million</em> transactions. The <em>bad</em> news is that<br />
-per-account storage is severely limited and severely expensive. On<br />
-Solana each account can only store a maximum 10MB of data —  which<br />
-is not enough for our history-based reputation scoring —  and each<br />
-MB costs 3.56 SOL to store per year —  which comes out to<br />
-10MB-years costing 1200-USD at the current SOL-USD exchange ratio(1 SOL<br />
-is worth 33 to 34 USD). Storing data directly on the Solana blockchain<br />
-is not feasible. Other blockchains do allow storing of <em>more</em> data than<br />
-Solana but storing this data still has pretty steep costs (i.e. writing<br />
+<p>Pretty much all software that runs on a blockchain is going to be much
+slower —  and more expensive —  than traditional software
+that runs on raw silicon(or even in a VM). We should start with the good
+news —  transactions in Solana are extremely cheap, costing only
+about 10-USD to execute a <em>million</em> transactions. The <em>bad</em> news is that
+per-account storage is severely limited and severely expensive. On
+Solana each account can only store a maximum 10MB of data —  which
+is not enough for our history-based reputation scoring —  and each
+MB costs 3.56 SOL to store per year —  which comes out to
+10MB-years costing 1200-USD at the current SOL-USD exchange ratio(1 SOL
+is worth 33 to 34 USD). Storing data directly on the Solana blockchain
+is not feasible. Other blockchains do allow storing of <em>more</em> data than
+Solana but storing this data still has pretty steep costs (i.e. writing
 1MB of data to Ethereum costs a staggering 76-USD one-time-fee).</p>
-<p>As a result of these economic realities, we will use Solana as a P2P<br />
-transaction processor —  but not as a storage engine. Instead, we<br />
-will use Solana&#x27;s WebSocket API to listen for transaction-notifications<br />
-that involve our Interlock Network smart-contracts. These notifications<br />
-—  which are basically transaction logs —  will be stored in<br />
-the Postgres-based timeseries database called TimescaleDB. We will make<br />
-this DB publically readable —  but rate-limited, for economic<br />
-reasons. Full archives of the DB will be made available weekly via<br />
-BitTorrent(or something with similar or better properties —  we<br />
-are keeping an eye of Storj and related technologies) so that users of<br />
-Interlock Network can query this data locally, with minimal latency, and<br />
-with minimal API fees. It is our goal to make this data —  these<br />
-transaction logs —  the property of the <em>entire internet</em> and not<br />
-just a single company. We should also note that <em>anybody</em> can snoop on<br />
-the JSON RPC API that Solana exposes and build their own data-base<br />
-—  so there is no danger of Interlock drawing up the bridge and<br />
-charging exorbitant fees on a whim. The reason that we offer an API and<br />
-a BitTorrent archive is that the Solana API has a limited retention<br />
-period.  Our understanding is that retention can be configured on a<br />
-per-validator basis —  so some validators might have more or less<br />
-transanction-history than others. The only way for Interlock to have the<br />
-full history is to run our own validator —  which certainly sounds<br />
-like fun —  but that would be overkill because we only care about<br />
-a tiny subset of the millions of transactions that happen on the Solana<br />
-blockchain. By providing a public API and distributing an archive we are<br />
-making it possible for people to see, and verify, the complete Interlock<br />
+<p>As a result of these economic realities, we will use Solana as a P2P
+transaction processor —  but not as a storage engine. Instead, we
+will use Solana&#x27;s WebSocket API to listen for transaction-notifications
+that involve our Interlock Network smart-contracts. These notifications
+—  which are basically transaction logs —  will be stored in
+the Postgres-based timeseries database called TimescaleDB. We will make
+this DB publically readable —  but rate-limited, for economic
+reasons. Full archives of the DB will be made available weekly via
+BitTorrent(or something with similar or better properties —  we
+are keeping an eye of Storj and related technologies) so that users of
+Interlock Network can query this data locally, with minimal latency, and
+with minimal API fees. It is our goal to make this data —  these
+transaction logs —  the property of the <em>entire internet</em> and not
+just a single company. We should also note that <em>anybody</em> can snoop on
+the JSON RPC API that Solana exposes and build their own data-base
+—  so there is no danger of Interlock drawing up the bridge and
+charging exorbitant fees on a whim. The reason that we offer an API and
+a BitTorrent archive is that the Solana API has a limited retention
+period.  Our understanding is that retention can be configured on a
+per-validator basis —  so some validators might have more or less
+transanction-history than others. The only way for Interlock to have the
+full history is to run our own validator —  which certainly sounds
+like fun —  but that would be overkill because we only care about
+a tiny subset of the millions of transactions that happen on the Solana
+blockchain. By providing a public API and distributing an archive we are
+making it possible for people to see, and verify, the complete Interlock
 Network history.</p>
-<p>As for the smart-contracts themselves, our plan is to implement a single<br />
-smart-contract <em>per verb</em>. As discussed previously, there are only a<br />
-handful of verbs —  <em>upvote</em>, <em>downvote</em>, <em>vouch</em>, <em>share</em>, and<br />
-<em>quid-pro-quo</em>. Each verb is basically its own smart-contract and takes<br />
-an account number as an argument. The account invoking the verb pays for<br />
-the cost of the transaction —  which is measured in thousandths of<br />
-a SOL —  as well as a tiny and negligible percentage to an<br />
-interlock-owned account —  this is to help fund the development of<br />
-the Interlock Network and other related interlock products. The verbs<br />
-upvote, downvote, and vouch are pretty straight forward to implement<br />
-since they just manipulate balances and store no data. Implementing<br />
-<em>share</em> however, is a bit more of a challenge because of the high<br />
-storage-fees on Solana. When the share-program is invoked, it is done<br />
-via a transaction, which contains opaque 8-bit instruction-data. This<br />
-instruction data is <em>thrown away</em> by the share-program as soon as it<br />
-gets it —  however, WebSocket listeners will <em>snatch</em> all the<br />
-metadata about the transaction including the 8-bit instruction-data, <em>so<br />
-it is not lost</em>. If the data is longer than <em>560 bytes</em> our <em>share<br />
-program</em> will emit an error and our listeners will <em>ignore</em> the<br />
-transaction — 560 bytes is enough to encode meaningful meta-data<br />
-about content (i.e. a link along with perhaps a checksum of some kind).<br />
-The <em>share</em> smart-contract will charge a one-time per-byte fee to<br />
-incentivize users to keep their shared content as short as possible<br />
+<p>As for the smart-contracts themselves, our plan is to implement a single
+smart-contract <em>per verb</em>. As discussed previously, there are only a
+handful of verbs —  <em>upvote</em>, <em>downvote</em>, <em>vouch</em>, <em>share</em>, and
+<em>quid-pro-quo</em>. Each verb is basically its own smart-contract and takes
+an account number as an argument. The account invoking the verb pays for
+the cost of the transaction —  which is measured in thousandths of
+a SOL —  as well as a tiny and negligible percentage to an
+interlock-owned account —  this is to help fund the development of
+the Interlock Network and other related interlock products. The verbs
+upvote, downvote, and vouch are pretty straight forward to implement
+since they just manipulate balances and store no data. Implementing
+<em>share</em> however, is a bit more of a challenge because of the high
+storage-fees on Solana. When the share-program is invoked, it is done
+via a transaction, which contains opaque 8-bit instruction-data. This
+instruction data is <em>thrown away</em> by the share-program as soon as it
+gets it —  however, WebSocket listeners will <em>snatch</em> all the
+metadata about the transaction including the 8-bit instruction-data, <em>so
+it is not lost</em>. If the data is longer than <em>560 bytes</em> our <em>share
+program</em> will emit an error and our listeners will <em>ignore</em> the
+transaction — 560 bytes is enough to encode meaningful meta-data
+about content (i.e. a link along with perhaps a checksum of some kind).
+The <em>share</em> smart-contract will charge a one-time per-byte fee to
+incentivize users to keep their shared content as short as possible
 —  and to disincentivize the spamming of our database.</p>
-<p>The <em>quit-pro-quo program</em> is very similar to the <em>upvote</em> program,<br />
-except it mints and deposits an account-specific NFT that cannot be<br />
-withdrawn or spent by the receiving account —  see the previous<br />
+<p>The <em>quit-pro-quo program</em> is very similar to the <em>upvote</em> program,
+except it mints and deposits an account-specific NFT that cannot be
+withdrawn or spent by the receiving account —  see the previous
 section, <em>quid pro quo</em>, for more details.</p>
 <doc-anchor-target id="tokenomics">
     <h2>
@@ -932,60 +947,60 @@ section, <em>quid pro quo</em>, for more details.</p>
         <span>Voting and Sharing</span>
     </h3>
 </doc-anchor-target>
-<p>Since we are already talking about Solana and architecture, it seems<br />
-natural to segue into the tokenomics of our Inter Token currency. Most<br />
-tokens and cryptocurrencies like to make guarantees about the maximum<br />
-supply of their tokens. We feel that having to choose between inflation<br />
-and deflation is a false dichotamy. We clearly want to make use of the<br />
-century of brainpower that went into monetary theory and the<br />
-more-than-half-century of brain-power that went into<br />
-game-theory(specifically the subfield of mechanism design) to create<br />
-both long-term and short-term incentives that will encourage pro-social<br />
+<p>Since we are already talking about Solana and architecture, it seems
+natural to segue into the tokenomics of our Inter Token currency. Most
+tokens and cryptocurrencies like to make guarantees about the maximum
+supply of their tokens. We feel that having to choose between inflation
+and deflation is a false dichotamy. We clearly want to make use of the
+century of brainpower that went into monetary theory and the
+more-than-half-century of brain-power that went into
+game-theory(specifically the subfield of mechanism design) to create
+both long-term and short-term incentives that will encourage pro-social
 behaviour and participation on the interlock network.</p>
-<p>We want people to vote, but we also want them to vote thoughtfully<br />
-—  to that end votes are emphatically <strong>not</strong> free. They cost<br />
-Inter Token. We also do not want people to hoard Inter Tokens, because<br />
-that means that they are not voting. This is why we actually have<br />
-different <em>flavors</em> of Inter Token. The vanilla Inter Token is like any<br />
-other token that can be bought and traded. But we also air-drop a<br />
-vote-only flavor of Inter Token these coins are only good for voting<br />
-—  except for the occaisional token-swap in which an account can<br />
-exchange their vote-only tokens for the actual Inter Token. A vote-token<br />
-is either spent or unspent —  if unspent it is not exchangable. In<br />
-other words, when a user votes they transfer their unspent token to the<br />
-account that they voted for, but their <em>own</em> account receives a <em>spent</em><br />
-token that cannot be used for anything —  except buying Inter<br />
-Token. This is very much like Japan&#x27;s policy of <em>Window Guidance</em><br />
-—  except we are guiding voting behaviour, instead corporate<br />
+<p>We want people to vote, but we also want them to vote thoughtfully
+—  to that end votes are emphatically <strong>not</strong> free. They cost
+Inter Token. We also do not want people to hoard Inter Tokens, because
+that means that they are not voting. This is why we actually have
+different <em>flavors</em> of Inter Token. The vanilla Inter Token is like any
+other token that can be bought and traded. But we also air-drop a
+vote-only flavor of Inter Token these coins are only good for voting
+—  except for the occaisional token-swap in which an account can
+exchange their vote-only tokens for the actual Inter Token. A vote-token
+is either spent or unspent —  if unspent it is not exchangable. In
+other words, when a user votes they transfer their unspent token to the
+account that they voted for, but their <em>own</em> account receives a <em>spent</em>
+token that cannot be used for anything —  except buying Inter
+Token. This is very much like Japan&#x27;s policy of <em>Window Guidance</em>
+—  except we are guiding voting behaviour, instead corporate
 behaviour.</p>
-<p>Voting activity is obviously done via its own tokens, but what about<br />
-sharing? We feel that sharing should be billed directly in Inter Token.<br />
-Unlike voting, where we do not wish people to hoard their votes, sharing<br />
-is a little different. We certainly want people to share, but we do not<br />
-want them to <em>spam</em> our DB with <em>noise</em>. For example, at 560 bytes and<br />
-200 billion —  the number of yearly tweets processed by twitter at<br />
-time of writing —  shares per year, the Interlock Network accounts<br />
-would be generating 101 TB of data per year. That is a <em>lot</em> of data to<br />
-store, index, mirror, and distribute —  we want to make every byte<br />
-count, specifically so that ordinary users can feasibly do their own<br />
-mirroring and querying. This state of affairs does give users with more<br />
-Inter Tokens (i.e. because of more received upvotes or because they<br />
-purchased more) a bit of a social edge. We are not entirely sure if that<br />
-is a good thing or bad thing. We have considered various policies, such<br />
-as distributing the share-costs across the entire network as a<br />
-<em>percentage</em>, or at least doubling the per-byte fee <em>with each new<br />
-share</em> —  on a per account-basis —  so that accounts can<br />
-share cheaply at least once a day, but they cannot firehose every random<br />
-brainwave onto the network. The former policy might incentivize<br />
-account-owners to engage in complex behaviors akin to tax-evasion and<br />
-capital-flight. The latter policy seems more sensible and equitable, but<br />
-this is one those things that will probably require extensive<br />
-experimentation, before we can accept it as a <em>good idea</em>. We suspect<br />
-that the economics of sharing will motivate people to post a handful of<br />
-links to things like their blogs, personal-websites, twitter-accounts,<br />
-github-accounts, and aggregators using those specialized platforms for<br />
-sharing, in order to avoid paying for something that the Web can provide<br />
-for free. This possible outcome suits us just fine, as it creates a high<br />
+<p>Voting activity is obviously done via its own tokens, but what about
+sharing? We feel that sharing should be billed directly in Inter Token.
+Unlike voting, where we do not wish people to hoard their votes, sharing
+is a little different. We certainly want people to share, but we do not
+want them to <em>spam</em> our DB with <em>noise</em>. For example, at 560 bytes and
+200 billion —  the number of yearly tweets processed by twitter at
+time of writing —  shares per year, the Interlock Network accounts
+would be generating 101 TB of data per year. That is a <em>lot</em> of data to
+store, index, mirror, and distribute —  we want to make every byte
+count, specifically so that ordinary users can feasibly do their own
+mirroring and querying. This state of affairs does give users with more
+Inter Tokens (i.e. because of more received upvotes or because they
+purchased more) a bit of a social edge. We are not entirely sure if that
+is a good thing or bad thing. We have considered various policies, such
+as distributing the share-costs across the entire network as a
+<em>percentage</em>, or at least doubling the per-byte fee <em>with each new
+share</em> —  on a per account-basis —  so that accounts can
+share cheaply at least once a day, but they cannot firehose every random
+brainwave onto the network. The former policy might incentivize
+account-owners to engage in complex behaviors akin to tax-evasion and
+capital-flight. The latter policy seems more sensible and equitable, but
+this is one those things that will probably require extensive
+experimentation, before we can accept it as a <em>good idea</em>. We suspect
+that the economics of sharing will motivate people to post a handful of
+links to things like their blogs, personal-websites, twitter-accounts,
+github-accounts, and aggregators using those specialized platforms for
+sharing, in order to avoid paying for something that the Web can provide
+for free. This possible outcome suits us just fine, as it creates a high
 signal-to-noise ratio —  which is exactly what we are after.</p>
 <doc-anchor-target id="investing-and-governance">
     <h3>
@@ -993,36 +1008,36 @@ signal-to-noise ratio —  which is exactly what we are after.</p>
         <span>Investing and Governance</span>
     </h3>
 </doc-anchor-target>
-<p>To facilitate investment in the project we are going to pursue a DAICO<br />
-model. The idea behind the model is that investors can invest a specific<br />
-amount of SOL or ETH(they can choose to invest on either Ethereum or<br />
-Solana) into an investment-fund account for the Interlock project. This<br />
-account has a monthly limit on withdrawals and any withdrawals beyond<br />
-that limit would have to be voted on by the investors. A fixed number of<br />
-SOL/ETH can be invested (i.e. the target number) and investors cannot<br />
-exceed a maximum-proportion(which is <strong>five percent</strong> of the target<br />
-number). Investors have voting-power which is proportional to the amount<br />
-that they have invested. Each new round of investment will be a new<br />
-DAICO involving a different investment-account and the same —  or<br />
-slightly tweaked —  smart-contract to manage those funds. The<br />
-presence of multiple and unlimited rounds is to give new investors an<br />
-opportunity to participate fairly and equitably in the project. The<br />
-presence of proportion-limits is to ensure (a) a minimum number of<br />
-investors (i.e. 20) and (b) that no single investor has unilateral veto<br />
-power during a vote. Investors will also receive ownership over accounts<br />
-with a proportional amount of Voting Inter Tokens as well a normal Inter<br />
-Tokens. Each investor will also receive upvotes from upvotes from the<br />
+<p>To facilitate investment in the project we are going to pursue a DAICO
+model. The idea behind the model is that investors can invest a specific
+amount of SOL or ETH(they can choose to invest on either Ethereum or
+Solana) into an investment-fund account for the Interlock project. This
+account has a monthly limit on withdrawals and any withdrawals beyond
+that limit would have to be voted on by the investors. A fixed number of
+SOL/ETH can be invested (i.e. the target number) and investors cannot
+exceed a maximum-proportion(which is <strong>five percent</strong> of the target
+number). Investors have voting-power which is proportional to the amount
+that they have invested. Each new round of investment will be a new
+DAICO involving a different investment-account and the same —  or
+slightly tweaked —  smart-contract to manage those funds. The
+presence of multiple and unlimited rounds is to give new investors an
+opportunity to participate fairly and equitably in the project. The
+presence of proportion-limits is to ensure (a) a minimum number of
+investors (i.e. 20) and (b) that no single investor has unilateral veto
+power during a vote. Investors will also receive ownership over accounts
+with a proportional amount of Voting Inter Tokens as well a normal Inter
+Tokens. Each investor will also receive upvotes from upvotes from the
 Interlock Team as a form of symbolic thanks.</p>
-<p>For this to work correctly, we will have to break away from our theme of<br />
-privacy and anonymity —  allowing anonymous investors would be the<br />
-same as allowing any investor to invest a proportion larger than 5<br />
-percent, which defeats the purpose. Additionally, allowing anonymous<br />
-investors might interfere with KYC laws. Though, we can probably<br />
-experiment with fully anonymous rounds for smaller investment targets<br />
+<p>For this to work correctly, we will have to break away from our theme of
+privacy and anonymity —  allowing anonymous investors would be the
+same as allowing any investor to invest a proportion larger than 5
+percent, which defeats the purpose. Additionally, allowing anonymous
+investors might interfere with KYC laws. Though, we can probably
+experiment with fully anonymous rounds for smaller investment targets
 (i.e. a few dozen thousand dollars).</p>
-<p>We are also interested in trying to raise fund on Solstarter when that<br />
-platform is ready —  but until they launch, we will have to go<br />
-with the DAICO model. <strong>We will update this section with details for how<br />
+<p>We are also interested in trying to raise fund on Solstarter when that
+platform is ready —  but until they launch, we will have to go
+with the DAICO model. <strong>We will update this section with details for how
 the inaugural DAICO round will be run soon</strong>.</p>
 <doc-anchor-target id="technical-contributions">
     <h2>
@@ -1030,33 +1045,33 @@ the inaugural DAICO round will be run soon</strong>.</p>
         <span>Technical Contributions</span>
     </h2>
 </doc-anchor-target>
-<p>Regarding technical contribution we will follow an RFD/RFC model where<br />
-project design documents are proposed and discussed on various community<br />
-channels (i.e. github, discord, and others). If the project and<br />
-community get large enough we will likely adopt a governance model akin<br />
-to Rust&#x27;s.  We diverge from the traditional RFC process in that we (a)<br />
-adopt proposals by voting via smart-contract and (b) developers can show<br />
-their support and affinity for each-other and their ideas by using the<br />
-upvote/downvote mechanism that is already in place. We do not require<br />
-separete personal and developer accounts, but we also do not require the<br />
-same account. Keeping with the theme of privacy and anonymity a<br />
-developer can have as many accounts as they want and the<br />
-project/community would have no way of knowing —  which is<br />
-<em>already</em> the situation in the real world (i.e. one can make as many<br />
-github accounts as they want).  Voting is consensus-driven —<br />
-proposals require unanimous approval.  Unanimous consensus is meant to<br />
-eliminate the competitive nature of voting —  all disagreements<br />
-should be resolved at the <em>discussion</em> phase before a proposal comes to<br />
-a vote. We believe that there are very few <em>true</em> and <em>unresolvable</em><br />
+<p>Regarding technical contribution we will follow an RFD/RFC model where
+project design documents are proposed and discussed on various community
+channels (i.e. github, discord, and others). If the project and
+community get large enough we will likely adopt a governance model akin
+to Rust&#x27;s.  We diverge from the traditional RFC process in that we (a)
+adopt proposals by voting via smart-contract and (b) developers can show
+their support and affinity for each-other and their ideas by using the
+upvote/downvote mechanism that is already in place. We do not require
+separete personal and developer accounts, but we also do not require the
+same account. Keeping with the theme of privacy and anonymity a
+developer can have as many accounts as they want and the
+project/community would have no way of knowing —  which is
+<em>already</em> the situation in the real world (i.e. one can make as many
+github accounts as they want).  Voting is consensus-driven —
+proposals require unanimous approval.  Unanimous consensus is meant to
+eliminate the competitive nature of voting —  all disagreements
+should be resolved at the <em>discussion</em> phase before a proposal comes to
+a vote. We believe that there are very few <em>true</em> and <em>unresolvable</em>
 contradictions in engineering. Proposals can be resubmitted for voting.</p>
-<p>Each technical contributor is given an NFT that allows them to vote.<br />
-Each technical contributor must explicitly refresh their NFT every 30<br />
-days otherwise it gets burned. The idea is that if a contributor drops<br />
-off the grid, their absence will not cause the system to lock-up. The<br />
-Interlock Team can always issue new NFT&#x27;s to contributors returning from<br />
-a hiatus.  The Interlock Team can also burn the NFT&#x27;s of anybody who has<br />
-not contributed any code in the previous 300 days —  we have not<br />
-found a way to enforce this via smart-contract so the process is, at the<br />
+<p>Each technical contributor is given an NFT that allows them to vote.
+Each technical contributor must explicitly refresh their NFT every 30
+days otherwise it gets burned. The idea is that if a contributor drops
+off the grid, their absence will not cause the system to lock-up. The
+Interlock Team can always issue new NFT&#x27;s to contributors returning from
+a hiatus.  The Interlock Team can also burn the NFT&#x27;s of anybody who has
+not contributed any code in the previous 300 days —  we have not
+found a way to enforce this via smart-contract so the process is, at the
 moment, manual.</p>
 <doc-anchor-target id="whats-next">
     <h2>
@@ -1070,7 +1085,7 @@ moment, manual.</p>
         <span>security industry and interlock</span>
     </h3>
 </doc-anchor-target>
-<p>We are currently migrating this content from the original whitepaper,<br />
+<p>We are currently migrating this content from the original whitepaper,
 check back later.</p>
 <doc-anchor-target id="ecosystem-and-frictions">
     <h3>
@@ -1078,7 +1093,7 @@ check back later.</p>
         <span>ecosystem and frictions</span>
     </h3>
 </doc-anchor-target>
-<p>We are currently migrating this content from the original whitepaper,<br />
+<p>We are currently migrating this content from the original whitepaper,
 check back later.</p>
 <doc-anchor-target id="phishing-statistics">
     <h3>
@@ -1086,7 +1101,7 @@ check back later.</p>
         <span>phishing statistics</span>
     </h3>
 </doc-anchor-target>
-<p>We are currently migrating this content from the original whitepaper,<br />
+<p>We are currently migrating this content from the original whitepaper,
 check back later.</p>
 
 
