@@ -26,10 +26,10 @@
     <script>(function () { var el = document.documentElement, m = localStorage.getItem("/interlock-whitepaper/doc_theme"), wm = window.matchMedia; if (m === "dark" || (!m && wm && wm("(prefers-color-scheme: dark)").matches)) { el.classList.add("dark") } else { el.classList.remove("dark") } })();</script>
 
     <link href="/interlock-whitepaper/favicon.ico" rel="icon" />
-    <link href="/interlock-whitepaper/resources/css/retype.css?v=1.8.681418987710" rel="stylesheet" data-turbo-track="reload" />
+    <link href="/interlock-whitepaper/resources/css/retype.css?v=1.8.2.682458773223" rel="stylesheet" data-turbo-track="reload" />
 
-    <script type="text/javascript" src="/interlock-whitepaper/resources/js/config.js?v=1.8.681418987710" defer data-turbo-track="reload"></script>
-    <script type="text/javascript" src="/interlock-whitepaper/resources/js/retype.js?v=1.8" defer data-turbo-track="reload"></script>
+    <script type="text/javascript" src="/interlock-whitepaper/resources/js/config.js?v=1.8.2.682458773223" defer data-turbo-track="reload"></script>
+    <script type="text/javascript" src="/interlock-whitepaper/resources/js/retype.js?v=1.8.2" defer data-turbo-track="reload"></script>
 </head>
     <body>
         <div id="docs-app" class="relative text-base antialiased text-gray-700 bg-white font-body dark:bg-dark-850 dark:text-dark-300">
@@ -235,6 +235,10 @@ engaged and clicking on advertisements. This state of affairs is a clear
 and Web. The next evolution of the Web — the blockchain-powered
 <strong>web3</strong> — can correct the course and re-democratize the web
 without sacrificing its accessibility.</p>
+<p>In a sentence, the Interlock technology-stack moves security to the edge
+of the network (i.e. the individual users) and collects anonymized data
+from the edge to improve the threat-detection capabilities of different
+parts of our stack.</p>
 <doc-anchor-target id="security">
     <h2>
         <doc-anchor-trigger class="header-anchor-trigger" to="#security">#</doc-anchor-trigger>
@@ -243,8 +247,8 @@ without sacrificing its accessibility.</p>
 </doc-anchor-target>
 <p>The mass onlining of people during the web2 era has created a
 target-rich environment for cyber-criminals, scammers, and
-high-tech-grifters. While people have to deal with exploitative online
-service providers and social networks — that seek to exploit their
+high-tech-grifters. While people have to deal with online service
+providers and social networks — that seek to exploit their
 attention — they also have to deal with rapacious, anonymous
 online criminals — that seek to exploit their bank-accounts and
 credit-cards. A huge part of the problem is that the wealthiest
@@ -254,17 +258,11 @@ advertising-revenue stream and disruptions to their
 personal-data-marketplaces — which are often frequented by
 criminals, and nation-state-actors.</p>
 <p>The insecurity of the internet-user — whether browsing from home,
-from work, or on-the-go — has reached pandemic proportions.</p>
-<ul>
-<li><strong>75 percent</strong> of orgs experience phishing attack every year</li>
-<li><strong>74 percent</strong> of the attacks are successful</li>
-<li><strong>34 percent</strong> of fraud involved collusions between company employees and scammer</li>
-<li><strong>24 percent</strong> involves employees as the source</li>
-<li><strong>3.86 million</strong> dollars is cost of a single breach</li>
-<li><strong>50 percent</strong> of recipients open phishing emails and click on the link</li>
-<li><strong>28 percent</strong> of phishing attacks are targeted</li>
-</ul>
-<p>Todo <strong>maybe make these stats graphical</strong>.</p>
+from work, or on-the-go — has reached pandemic proportions. For
+example, 75 percent of attacks are successful, and they have an an
+average cost of around <strong>4 million per attack</strong>. These attackers **are
+rapidly shifting their attention and resources to the <em>crypto currency
+ecosystem</em> **.</p>
 <doc-anchor-target id="improving-privacy-and-security-with-decentralization">
     <h2>
         <doc-anchor-trigger class="header-anchor-trigger" to="#improving-privacy-and-security-with-decentralization">#</doc-anchor-trigger>
@@ -277,42 +275,50 @@ online grifters that violate our security. Interlock believes that both
 privacy and security can be improved by moving <em>trust</em> away from the
 center of the network (i.e. Facebook, Google, etc) to the <em>edges</em> of the
 network (i.e. directly into people&#x27;s browsers and onto the blockchain).</p>
-<doc-anchor-target id="decentralizing-security-with-ethereum-solana-airlock">
+<doc-anchor-target id="decentralizing-security-with-ethereum-solana-interlock-extension">
     <h2>
-        <doc-anchor-trigger class="header-anchor-trigger" to="#decentralizing-security-with-ethereum-solana-airlock">#</doc-anchor-trigger>
-        <span>Decentralizing Security with Ethereum, Solana, Airlock</span>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#decentralizing-security-with-ethereum-solana-interlock-extension">#</doc-anchor-trigger>
+        <span>Decentralizing Security with Ethereum, Solana, Interlock Extension</span>
     </h2>
 </doc-anchor-target>
 <p>Security is a very difficult problem, and while much of the blame can be
 directed at the incentives of large tech corporations, some of it can
 also be directed at users feeling inconvenienced by security, for no
-observable benefit. Just as nobody wants to brush their teeth three
-times a day, nobody wants to jump through multiple security-hoops and
-fight with their security tools to enjoy the internet. Good and
+observable benefit. Just as (almost) nobody wants to brush their teeth
+three times a day, nobody wants to jump through multiple security-hoops
+and fight with their security tools to enjoy the internet. Good and
 unintrusive security tools also face the <em>leaky-roof-problem</em> —
 just as people usually do not notice the roof on their home until it
 starts leaking, people do not notice security tools until they fail to
 prevent a breach.</p>
 <p>Interlock takes a two-pronged approach to solving the problem — we
 attack the problem in the browser and on the blockchain.</p>
-<p>We secure users&#x27; browsers from phishing, and other kinds of attacks,
-with a — uBlock-based — browser extnesion called Airlock. In
-addition to block ads, the extension uses advanced heuristics to detect
-phishing pages and scam-websites and prevents users from entering any
-sensitive information like passwords or usernames. While only mildly
-intrusive, we seek to motivate users to install and use extension by
-linking it to a crypto-currency, called INTER. Users earn INTER for
-installing the extension and browsing the web with it.</p>
+<p>We secure users&#x27; browsers from phishing-attacks, credential-theft,
+impersonating-blockchain-sites, credit-card-phishing, credential-theft,
+and scam-wallets with a — uBlock-based — browser extnesion
+called Interlock. In addition to blocking ads, the extension uses an
+advanced visual-indicator-of-threat to detect phishing pages and
+scam-websites, and prevents users from entering any sensitive
+information like passwords or usernames. We seek to motivate users to
+install and use extension by linking it to a crypto-currency, called
+INTER. Users earn INTER for installing the extension and browsing the
+web with it.</p>
 <p>We use blockchain — a hybrid of Ethereum and Solana — to
 allow users to interact and transact with each-other. No more walled
 gardens. Users can create one or more INTER accounts and link them to
 their various web2 accounts. Users can interact with each-other by
-upvoting, downvoting, and sharing. The twist is that all of their
+subscribing, denouncing, and sharing. The twist is that all of their
 interactions are publicly visible and users can customize their feeds
 and queries in ways that traditional platforms like twitter, tiktok, and
 google could never allow without destroying their own profitability. We
 essentially use blockchain to put the user back in control of their own
 attention.</p>
+<p>While doing all of this, we collect all anonymized browsing data that
+the user has chosen to share, and we use it to improve the data-sets
+used for threat-detection, threat-intelligence, business-analytics, and
+KYC. This data is then used by us and our partners (i.e. crypto-currency
+exchanges and other commercial entities) to improve their products and
+protect their customers.</p>
 <p>Please see the FAQ and technical whitepaper for more details and
 information.</p>
 <doc-anchor-target id="user-incentive-structure">
@@ -322,19 +328,19 @@ information.</p>
     </h2>
 </doc-anchor-target>
 <p>The Interlock Network has structured the user-incentives to encourage
-<em>thoughtful</em> voting. To this end — and unlike every other social
-network — votes are a finite resource. Users can upvote (or
-downvote) accounts by spending special <em>vote tokens</em>. Upon doing so, the
-target account gets a significant portion of those vote tokens deposited
-into their account, and the voter get a <em>vote receipt</em>. Vote receipts
+<em>thoughtful</em> interactions. To this end — and unlike every other
+social network — most interactions have a <em>gas fee</em>. Users can
+subscribe to (or denounce) accounts by spending special
+<em>subscriber-tokens</em> — they can specify the amount and frequency of
+the subscription. Upon doing so, the target account gets a significant
+portion of those subscriber-tokens deposited into their account, and the
+follower gets a <em>subscriber-receipt-token</em>. Subscriber-Receipt-Tokens
 can be exchanged for INTER tokens at various times and at various
 exchange rates. In other words, users stand to make money —
-potentially — by <em>actively</em> voting — hoarding votes will
-yield no rewards. Users can get vote tokens by either being
-popular/trustworthy (and therefor upvoted) or by waiting for the
-vote-tokens to get airdropped into their account.</p>
-<p>Todo <strong>add mermaid sequence diagram to help clarify the how users votes
-and receipts interact with the INTER token</strong>.</p>
+potentially — by <em>actively</em> subscribing — hoarding
+subscriber-tokens will yield no rewards. Users can get subscriber-tokens
+by either being popular/trustworthy (and therefor getting subscribers)
+or by waiting for the vote-tokens to get airdropped into their account.</p>
 <doc-anchor-target id="emission-schedule">
     <h2>
         <doc-anchor-trigger class="header-anchor-trigger" to="#emission-schedule">#</doc-anchor-trigger>
@@ -347,7 +353,6 @@ for the phases are chosen at the discretion of the Interlock Team based
 on strategic and economic circumstances — we are not committing to
 any fixed emission schedule. This means that the token is short-term
 inflationary but long-term deflationary.</p>
-<p>Todo <strong>add token emission schedule chart from slide-deck or imitation</strong>.</p>
 
 
 
