@@ -8,7 +8,7 @@ All of these mechanisms for promoting trust depend on centralized
 institutions &mdash; instead of trusting every individual, people could
 trust intermediaries like their bank or government. The explosive growth
 of the internet has also caused people to, once again, outsource their
-trust to central institutions. These instutions, however, exhibit many
+trust to central institutions. These institutions, however, exhibit many
 of the same flaws as their predecessors &mdash; namely, they become
 increasingly corrupt and increasingly exploitative, as their
 revenue-growth inevitably declines. 
@@ -51,7 +51,7 @@ from work, or on-the-go &mdash; has reached pandemic proportions. For
 example, 75 percent of attacks are successful, and they have an an
 average cost of around **4 million per attack**. These attackers **are
 rapidly shifting their attention and resources to the *crypto currency
-ecosystem* **. 
+ecosystem***. 
 
 ## Improving Privacy and Security with Decentralization
 There is an unintentional, but mutually-supporting, dynamic between the
@@ -105,6 +105,8 @@ KYC. This data is then used by us and our partners (i.e. crypto-currency
 exchanges and other commercial entities) to improve their products and
 protect their customers. 
 
+![](../imgs/data-graph.png)
+
 Please see the FAQ and technical whitepaper for more details and
 information. 
 
@@ -131,4 +133,6 @@ for the phases are chosen at the discretion of the Interlock Team based
 on strategic and economic circumstances &mdash; we are not committing to
 any fixed emission schedule. This means that the token is short-term
 inflationary but long-term deflationary. 
+
+![](../imgs/alloc-graph.png)
 
