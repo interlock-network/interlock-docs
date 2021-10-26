@@ -6,8 +6,8 @@
     "branding": {
         "title": "Interlock",
         "label": "Alpha",
-        "logo": "/static/logo.png",
-        "logoDark": "/static/logo-dark.png"
+        "logo": "/static/logo-pack-interlock/mark/color/mark-logo-color.png",
+        "logoDark": "/static/logo-pack-interlock/mark/white/mark-logo-white.png"
      },
 
     "meta": {
