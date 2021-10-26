@@ -26,10 +26,10 @@
     <script>(function () { var el = document.documentElement, m = localStorage.getItem("/interlock-whitepaper/doc_theme"), wm = window.matchMedia; if (m === "dark" || (!m && wm && wm("(prefers-color-scheme: dark)").matches)) { el.classList.add("dark") } else { el.classList.remove("dark") } })();</script>
 
     <link href="/interlock-whitepaper/favicon.ico" rel="icon" />
-    <link href="/interlock-whitepaper/resources/css/retype.css?v=1.9.685286550224" rel="stylesheet" data-turbo-track="reload" />
+    <link href="/interlock-whitepaper/resources/css/retype.css?v=1.10.688578017157" rel="stylesheet" data-turbo-track="reload" />
 
-    <script type="text/javascript" src="/interlock-whitepaper/resources/js/config.js?v=1.9.685286550224" defer data-turbo-track="reload"></script>
-    <script type="text/javascript" src="/interlock-whitepaper/resources/js/retype.js?v=1.9" defer data-turbo-track="reload"></script>
+    <script type="text/javascript" src="/interlock-whitepaper/resources/js/config.js?v=1.10.688578017157" defer data-turbo-track="reload"></script>
+    <script type="text/javascript" src="/interlock-whitepaper/resources/js/retype.js?v=1.10" defer data-turbo-track="reload"></script>
 </head>
     <body>
         <div id="docs-app" class="relative text-base antialiased text-gray-700 bg-white font-body dark:bg-dark-850 dark:text-dark-300">
@@ -46,8 +46,8 @@
             <div class="flex items-center px-2 md:px-6">
                 <a id="docs-site-logo" href="/interlock-whitepaper/" class="flex items-center leading-snug text-2xl">
                     <span class="w-10 mr-2 flex-grow-0 flex-shrink-0 overflow-hidden">
-                        <img class="max-h-10 dark:hidden md:inline-block" src="/interlock-whitepaper/static/logo.png">
-                        <img class="max-h-10 hidden dark:inline-block" src="/interlock-whitepaper/static/logo-dark.png">
+                        <img class="max-h-10 dark:hidden md:inline-block" src="/interlock-whitepaper/static/logo-pack-interlock/mark/color/mark-logo-color.png">
+                        <img class="max-h-10 hidden dark:inline-block" src="/interlock-whitepaper/static/logo-pack-interlock/mark/white/mark-logo-white.png">
                     </span>
                     <span class="dark:text-white font-semibold line-clamp-1 md:line-clamp-2">Interlock</span>
                 </a><span class="hidden px-2 py-1 ml-4 text-sm font-semibold leading-none text-root-logo-label-text bg-root-logo-label-bg rounded-sm md:inline-block">Alpha</span>
@@ -208,7 +208,7 @@
         <div>By</div>
         <div class="ml-2 flex items-center">
           <div class="flex-shrink-0 w-8 h-8 overflow-hidden rounded-full">
-            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 34 34" overflow="visible"><path fill="#616161" d="M0 0h34v34H0z"/><path fill="#fff" d="M20.2 18.6h-6.4c-2.21 0-4 1.79-4 4v1.6c0 .44.36.8.8.8.44 0 .8-.36.8-.8v-1.6c0-1.32 1.08-2.4 2.4-2.4h6.4c1.32 0 2.4 1.08 2.4 2.4v1.6c0 .44.36.8.8.8.44 0 .8-.36.8-.8v-1.6c0-2.21-1.79-4-4-4zM17 17c2.21 0 4-1.79 4-4s-1.79-4-4-4-4 1.79-4 4 1.79 4 4 4zm0-6.4c1.32 0 2.4 1.08 2.4 2.4s-1.08 2.4-2.4 2.4-2.4-1.08-2.4-2.4 1.08-2.4 2.4-2.4z"/></svg>
+            <svg width="2rem" height="2rem" xmlns="http://www.w3.org/2000/svg" fill="white"><g><rect width="2rem" height="1.7rem" fill="#c5c5c5"/><circle r="0.44rem" cy="0.83rem" cx="1rem"/><ellipse ry="0.96rem" rx="0.77rem" cy="2.15rem" cx="1rem"/></g></svg>
           </div>
           <div class="ml-1 whitespace-nowrap text-gray-500 dark:text-dark-350">Interlock Team</div>
         </div>
@@ -1178,6 +1178,6 @@ check back later.</p>
 
         <div id="docs-overlay-target"></div>
 
-        <script>window.__DOCS__ = { "title": "Whitepaper", icon: "file", hasPrism: false, hasMermaid: false }</script>
+        <script>window.__DOCS__ = { "title": "Whitepaper", icon: "file", hasPrism: false, hasMermaid: false, hasMath: false }</script>
     </body>
 </html>
