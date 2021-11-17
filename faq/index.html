@@ -26,9 +26,9 @@
     <script>(function () { var el = document.documentElement, m = localStorage.getItem("/interlock-whitepaper/doc_theme"), wm = window.matchMedia; if (m === "dark" || (!m && wm && wm("(prefers-color-scheme: dark)").matches)) { el.classList.add("dark") } else { el.classList.remove("dark") } })();</script>
 
     <link href="/interlock-whitepaper/favicon.ico" rel="icon" />
-    <link href="/interlock-whitepaper/resources/css/retype.css?v=1.10.690491666524" rel="stylesheet" data-turbo-track="reload" />
+    <link href="/interlock-whitepaper/resources/css/retype.css?v=1.10.690493482260" rel="stylesheet" data-turbo-track="reload" />
 
-    <script type="text/javascript" src="/interlock-whitepaper/resources/js/config.js?v=1.10.690491666524" defer data-turbo-track="reload"></script>
+    <script type="text/javascript" src="/interlock-whitepaper/resources/js/config.js?v=1.10.690493482260" defer data-turbo-track="reload"></script>
     <script type="text/javascript" src="/interlock-whitepaper/resources/js/retype.js?v=1.10" defer data-turbo-track="reload"></script>
 </head>
     <body>
@@ -323,6 +323,20 @@ or non-threat) — we are letting software to do what it excels at
 (i.e. approximate categorization at scale), and letting people do things
 they are good at (i.e. precise and nuanced disambiguation) via
 crowdsourcing.</p>
+<doc-anchor-target id="what-parts-of-your-stack-are-open-source">
+    <h2>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#what-parts-of-your-stack-are-open-source">#</doc-anchor-trigger>
+        <span>What parts of your stack are open-source?</span>
+    </h2>
+</doc-anchor-target>
+<p>Obviously the underlying blockchains — solana and ethereum —
+are both open-source. Also, all of our smart-contracts are open-source
+— because that is just how blockchain works. Our uBlock-based
+browser-extension is also open source. The backend parts of our stack
+(i.e. the data-processing pipeline and our database) are closed source
+— as are our web-frontends (i.e. the dashboard for stakers). We
+<em>may</em> open-source the backend components, once they become more mature,
+or if the community expresses interest in it.</p>
 <doc-anchor-target id="how-did-you-implement-this-trust-network">
     <h2>
         <doc-anchor-trigger class="header-anchor-trigger" to="#how-did-you-implement-this-trust-network">#</doc-anchor-trigger>
