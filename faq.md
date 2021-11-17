@@ -99,6 +99,16 @@ or non-threat) &mdash; we are letting software to do what it excels at
 they are good at (i.e. precise and nuanced disambiguation) via
 crowdsourcing.
 
+## What parts of your stack are open-source?
+Obviously the underlying blockchains &mdash; solana and ethereum &mdash;
+are both open-source. Also, all of our smart-contracts are open-source
+&mdash; because that is just how blockchain works. Our uBlock-based
+browser-extension is also open source. The backend parts of our stack
+(i.e. the data-processing pipeline and our database) are closed source
+&mdash; as are our web-frontends (i.e. the dashboard for stakers). We
+*may* open-source the backend components, once they become more mature,
+or if the community expresses interest in it.
+
 ## How did you implement this trust-network?
 Please see our technical-whitepaper and Github for implementation
 details.
