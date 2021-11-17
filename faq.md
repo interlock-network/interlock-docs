@@ -95,8 +95,9 @@ other products. You can also use these tokens to *stake* any
 grey-area-entities that we have accumulated (i.e. entities that our
 heuristics have not been able to categorize as a high-probability threat
 or non-threat) &mdash; we are letting software to do what it excels at
-(i.e. approximate categorization), and letting people do things they are
-good at (i.e. precise and nuanced disambiguation) via crowdsourcing.
+(i.e. approximate categorization at scale), and letting people do things
+they are good at (i.e. precise and nuanced disambiguation) via
+crowdsourcing.
 
 ## How did you implement this trust-network?
 Please see our technical-whitepaper and Github for implementation
