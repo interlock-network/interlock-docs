@@ -183,10 +183,4 @@ should be resolved at the *discussion* phase before a proposal comes to
 a vote. We believe that there are very few *true* and *unresolvable*
 contradictions in engineering. Proposals can be resubmitted for voting.
 
-## I am already invested in existing social networks, how do I get involved in your network without losing the friends and connections I have made?
-Just as you can link your blog to your twitter stream or YouTube channel
-or Patreon, you can also refer to you Interlock Network account on any
-other social media or vice-versa. You can even sign your contents using
-a cryptographic key as a way to prove that the account belongs to you
-and vice-versa.
 
