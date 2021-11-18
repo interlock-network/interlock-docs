@@ -54,23 +54,26 @@ centralization of trust and identity does have some security benefits
 (i.e. it may be safer to trust the content in your feed than the content
 outside the walled garden), but it comes at the cost of users
 outsourcing a growing share of their online decision-making to
-product-managers and growth-hackers. Decentralization occurs when a
-previously trusted, large, central institution **betrays** the trust of
-its users, customers, and constituents &mdash; as in 2008 when the banks
-and related financial companies caused the financial-crisis and the
-subsequence sovereign debt-crisis. Arguably the same has happened
-between 2015 and 2021, except this time the Big Tech companies are
-playing the role of the banks &mdash; and right now Apple, Google, and
-Facebook are being dragged through the court-systems of every major
-jurisdiciton on earth. This is the beginning of a long decline for the
-most influential and widely used internet-companies, which means that
-that next decade is going to be one of, decreasing online-safety,
-increasing online-decentralization, and &mdash; most importantly &mdash;
-**inscreasing online-opportunity**, on the internet. We want **to create
-a decentralized and easy-to-use network** that will **actively protect**
-you from existing and emerging new threats, while also creating
-**concrete incentives and disincentives** for participating and
-enriching the network.
+product-managers and growth-hackers.
+
+Decentralization occurs when a previously trusted, large, central
+institution **betrays** the trust of its users, customers, and
+constituents &mdash; as in 2008 when the banks and related financial
+companies caused the financial-crisis and the subsequence sovereign
+debt-crisis. Arguably the same has happened between 2015 and 2021,
+except this time the Big Tech companies are playing the role of the
+banks &mdash; and right now Apple, Google, and Facebook are being
+dragged through the court-systems of every major jurisdiciton on earth.
+This is the beginning of a long decline for the most influential and
+widely used internet-companies, which means that that next decade is
+going to be one of, decreasing online-safety, increasing
+online-decentralization, and &mdash; most importantly &mdash;
+**inscreasing online-opportunity**, on the internet.
+
+We want **to create a decentralized and easy-to-use network** that will
+**actively protect** you from existing and emerging new threats, while
+also creating **concrete incentives and disincentives** for
+participating and enriching the network.
 
 ## Why should I care about the problem you are trying to solve?
 If you care about effective and non-intrusive security for yourself and
@@ -182,5 +185,4 @@ eliminate the competitive nature of voting &mdash; all disagreements
 should be resolved at the *discussion* phase before a proposal comes to
 a vote. We believe that there are very few *true* and *unresolvable*
 contradictions in engineering. Proposals can be resubmitted for voting.
-
 
