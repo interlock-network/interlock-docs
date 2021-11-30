@@ -14,7 +14,7 @@ title: Whitepaper
 ---
 
 ## Abstract
-The web requires *trust* between participants to reach its fullest
+The web requires *trust* between many participants to reach its fullest
 potential. However, we have centralized the trust-rating function to a
 handful of gatekeepers, who themselves have questionable credibility and
 competence. We propose a solution that uses blockchain and other
