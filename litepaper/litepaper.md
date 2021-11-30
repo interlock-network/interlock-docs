@@ -16,7 +16,7 @@ revenue-growth inevitably declines.
 The Interlock Network leverages &mdash; among other things &mdash; the
 latest Blockchain Technology to achieve decentralized and resilient
 trust on the Web. While the early Web was the most democratic that the
-Web has ever been, it was quite small. Growth exploded, however, when
+Web has ever been, it was quite small. However, growth exploded when
 Web2.0 came around, effectively democratizing and globalizing
 *participation* on the Web. The darkside of Web2.0 is that it sustains
 itself by data-mining and selling their users' personal information, in
@@ -48,7 +48,7 @@ criminals, and nation-state-actors.
 
 The insecurity of the internet-user &mdash; whether browsing from home,
 from work, or on-the-go &mdash; has reached pandemic proportions. For
-example, 75 percent of attacks are successful, and they have an an
+example, 75 percent of attacks are successful, and they have an
 average cost of around **4 million per attack**. These attackers **are
 rapidly shifting their attention and resources to the *crypto currency
 ecosystem***. 
@@ -61,7 +61,7 @@ privacy and security can be improved by moving *trust* away from the
 center of the network (i.e. Facebook, Google, etc) to the *edges* of the
 network (i.e. directly into people's browsers and onto the blockchain). 
 
-## Decentralizing Security with Ethereum, Solana, Interlock Extension
+## Decentralizing Security with Ethereum/Solana Interlock Extension
 Security is a very difficult problem, and while much of the blame can be
 directed at the incentives of large tech corporations, some of it can
 also be directed at users feeling inconvenienced by security, for no
@@ -78,12 +78,12 @@ attack the problem in the browser and on the blockchain.
 
 We secure users' browsers from phishing-attacks, credential-theft,
 impersonating-blockchain-sites, credit-card-phishing, credential-theft,
-and scam-wallets with a &mdash; uBlock-based &mdash; browser extnesion
+and scam-wallets with a &mdash; uBlock-based &mdash; browser extension
 called Interlock. In addition to blocking ads, the extension uses an
 advanced visual-indicator-of-threat to detect phishing pages and
 scam-websites, and prevents users from entering any sensitive
 information like passwords or usernames. We seek to motivate users to
-install and use extension by linking it to a crypto-currency, called
+install and use the extension by linking it to a crypto-currency, called
 INTER. Users earn INTER for installing the extension and browsing the
 web with it. 
 
@@ -92,7 +92,7 @@ allow users to interact and transact with each-other. No more walled
 gardens. Users can create one or more INTER accounts and link them to
 their various web2 accounts. Users can interact with each-other by
 subscribing, denouncing, and sharing. The twist is that all of their
-interactions are publicly visible and users can customize their feeds
+interactions are publicly visible and users can screen their feeds
 and queries in ways that traditional platforms like twitter, tiktok, and
 google could never allow without destroying their own profitability. We
 essentially use blockchain to put the user back in control of their own
@@ -123,7 +123,7 @@ can be exchanged for INTER tokens at various times and at various
 exchange rates. In other words, users stand to make money &mdash;
 potentially &mdash; by *actively* subscribing &mdash; hoarding
 subscriber-tokens will yield no rewards. Users can get subscriber-tokens
-by either being popular/trustworthy (and therefor getting subscribers)
+by either being popular/trustworthy (and therefore getting subscribers)
 or by waiting for the vote-tokens to get airdropped into their account. 
 
 ## Emission Schedule
