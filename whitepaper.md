@@ -2,7 +2,7 @@
 icon: file
 abstract: |
   The web requires *trust* between participants to reach its fullest
-  potential. However, we have centralized the trust-rating function to a
+  potential. However, the participants have centralized the trust-rating function to a
   handful of gatekeepers, who themselves have questionable credibility
   and competence. We propose a solution that uses blockchain and other
   technologies to increase security, privacy, and trust and bypasses
@@ -15,7 +15,7 @@ title: Whitepaper
 
 ## Abstract
 The web requires *trust* between many participants to reach its fullest
-potential. However, we have centralized the trust-rating function to a
+potential. However, the participants have centralized the trust-rating function to a
 handful of gatekeepers, who themselves have questionable credibility and
 competence. We propose a solution that uses blockchain and other
 technologies to increase security, privacy, and trust and bypasses those
@@ -26,7 +26,7 @@ The thing about these kinds of papers &mdash; whitepapers &mdash; is
 that they are supposed to be confident, authoritative, and seductive.
 Why, we hear you ask? Because stringing together words that create an
 impression of authoritative and seductive confidence is what often
-convinces people buy whatever it is you are selling. Everybody wants to
+convinces people to buy whatever it is you are selling. Everybody wants to
 invest in the impossible-to-miss certain-to-win solution to some problem
 that the market has. We have gone through a lot of whitepapers written
 with the confidence and certainty of a devout missionary seeking
@@ -47,15 +47,15 @@ became cool. We remember an internet where nobody knew that you were a
 dog &mdash; and, more importantly, nobody cared. We remember when being
 social on the internet meant that you had a blog, read (and shared files
 on) USENET, and participated in Slashdot discussions and flame-wars as
-an 'Anonymous Coward'. We remeber that being informed meant that you
-used Google Reader &mdash; RIP &mdash; to read RSS feeds which were
+an 'Anonymous Coward'. We remember that being informed meant that you
+used Google Reader, RIP, to read RSS feeds which were
 absolutely everywhere. And if you *really* wanted to stick it to
 The Man, you installed Linux on your second-hand beige-box and Firefox
 on your folks' Windows computer &mdash; we still have vivid memories and
 strong feelings about MSFT, and quite a bit of residual PTSD and mental
-scar-tissue. But, somewhere along the way, the internet took a turn. Now
+scar-tissue. But, somewhere along the way the internet took a turn. Now
 people use Facebook instead of USENET, Twitter instead of RSS, and
-Netflix, YouTube, and Spotify instead of BitTorrent. Also USENET,
+Netflix, YouTube, and Spotify instead of BitTorrent. Also, USENET,
 Slashdot, and friends are all ghost-towns &mdash; while their nearest
 equivalents have been overrun by trolls, cat-pictures, memes,
 advertisers, and cybercriminals. Oh, and Microsoft is an increasingly
@@ -70,7 +70,7 @@ insight that the majority of people are busy enough that they will give
 up control for convenience &mdash; especially if that convenience has a
 price-tag approaching *zero*. With the increase in convenience, things
 like web-pages and blogs could be created by people who did not know how
-to program or administer computers. And even if you did have this
+to program or administer computers. Even if you did have this
 skill-set, chances are you would apply it to a *virtual* computer in the
 *cloud* rather than a physical one in your closet. This centralization
 of computing was not sinister or evil &mdash; far from it &mdash; but it
@@ -82,7 +82,7 @@ that Google wants you to see when you use their search, that Facebook,
 Twitter, and Instagram want you to see when you scroll through 'your'
 feed. And what they want you to see, is whatever will make you re-share
 the content or click on an advertisement. You are, in effect, plugged
-into The Matrix &mdash; the entire cyberpunk oevre is not merely
+into The Matrix &mdash; the entire cyberpunk oeuvre is not merely
 dystopic fiction, it is part prophesy and part warning.
 
 Maybe you are thinking, that does not sound so bad &mdash; maybe we
@@ -114,7 +114,7 @@ exploitative nature of their business models is even reflected in their
 get (basically imaginary) shares, retweets, mentions, likes,
 so-called-friends, and so-called-followers. They have even removed
 negative actions such as dislikes for fear that it will drive users
-&mdash; another revealing bit jargon &mdash; away. Their mission is to
+&mdash; another revealing bit of jargon &mdash; away. Their mission is to
 keep us happy and cheerful while we (happily and cheerfully) make them
 money. You know who also does this? Farmers. What does that make *us*?
 Livestock. Are you tired of being milked yet?
@@ -125,7 +125,7 @@ But &mdash; as you can probably surmise from this section's title
 &mdash; this paper is going to get bleaker before it gets brighter.
 
 If the end of the previous section has you feeling like you have been
-conned, like you are &mdash; sooner or later &mdash; the eventual victim
+conned, like you are &mdash; sooner or later &mdash; going to be the eventual victim
 of an unsustainable and tenuous pyramid scheme, well, that was our
 intent. To be clear, we are not trying to scare you with ghost stories.
 We *wish* these were just ghost stories &mdash; the exaggerations of a
@@ -157,8 +157,8 @@ more than it is about coercion or violence. The faces in this metaphor
 are usually authentication-credentials that may lead the criminal to
 their ultimate goal, currency, crypto or otherwise.
 
-And that is just the most obvious form of theft &mdash; material theft.
-Once business and politics and religion enter the equation, lines and
+And that is just the most obvious form of theft; material theft.
+Once business, politics, and religion enter the equation, lines and
 categories start to get blurry very fast. For example, can *truth* be
 stolen? If so, does that make a flat-earther a criminal? What about the
 corporate marketing department that uses flawed benchmarking
@@ -176,25 +176,25 @@ Phillip-Morris)?
 The point is, the truth is very important, but it can be hard to pin
 down. Very few things can be considered absolute truths. The web &mdash;
 under its current commercialized and oligarchic stewardship &mdash;
-perpetuates, exacerbates, and profits from,, vanity, greed, delusion,
+perpetuates, exacerbates, and profits from vanity, greed, delusion,
 ignorance, envy, hatred, and outrage. Instead, it should give users the
 tools to better understand themselves, human nature, and our
 connectedness to all things &mdash; an ancient idea that is in fact more
 relevant to the modern world than it ever was to the ancient world.
 
 Criminals and tech corporations both see the internet-user as something
-to be exploited. The fromer seeks to attack and corrupt the state of
+to be exploited. The former seeks to attack and corrupt the state of
 your bank account, while the latter seeks to attack and corrupt your
 state of mind. You will find it easy, even effortless, to be angry with
-the former, but you may find it difficult to be angry with the latter
-&mdash; you cannot be angry with the tobacco company for selling you
+the former, but you may find it difficult to be angry with the latter.
+You cannot be angry with the tobacco company for selling you
 exactly what you asked for.
 
 ### Identity, Trust, Belief
 Before 1971, if you held a dollar in your hand and examined what was
 written on it, you would see 'Exchangeable for Gold'. After 1971, it
 would only say 'In God We Trust'. We used to believe in the dollar
-because we used to believe in gold &mdash; now we believe in the dollar
+because we believed in gold &mdash; now we believe in the dollar
 because we believe in the dollar. This is what some historians would
 call a revolution, others would call it a *paradigm shift*. Paradigm
 shifts, and for that matter paradigms themselves, are &mdash; and please
@@ -209,20 +209,20 @@ the first book that was mass-printed &mdash; shortly after that the
 catholic church lost half of its believers to the various protestant
 denominations. The feudal and heriditary paradigms of Europe were eroded
 and overthrown by the steady growth of capitalism. The industrial
-capitalist paradigm had, after the Great Depression, given birth to both
-fascism and communism. And the surviving contenders of the
-Second World War, created the Cold War (i.e. bipolar) paradigm. This
-paradigm collapsed into one of globalisation and informationalism. New
-gods for old.
+capitalist paradigm had given birth to both fascism and communism
+after the Great Depression. And the surviving contenders of the
+Second World War created the Cold War (i.e. bipolar) paradigm. This
+paradigm collapsed into one of globalisation and informationalism. Trading
+new gods for old.
 
 Trust, just like a paradigm, is powered by *belief*. You cross the
 street with minimal anxiety because you trust the drivers to be sober
-enough to obey the traffic laws (also a good example of a paradigm). You
+enough to obey the traffic laws (also another good example of a paradigm). You
 use the same two passwords on every site because you trust that the
 programmers that made the site have a minimal level of technical
 competence and a minimal regard for your security and privacy. Some
 Runescape-playing twelve-year-old kid drops all their hard-earned loot
-in front of another player and presses `Alt-F4` because that other
+in front of another player and presses `Alt-F4` because the other
 player told them it was a glitch that would duplicate all of the items
 in their inventory &mdash; that kid *trusted* someone who was
 *untrustworthy*, and learned a *painful* but *important* lesson about
@@ -231,14 +231,14 @@ entire system depends on trust to get anything done, but there are too
 many people and you cannot trust them blindly. What to do? Well, we did
 what we have always done, we created institutions (i.e. social networks
 and banks) and placed our *trust* and our *faith* in *them*. It sounds
-perfectly reasonable, no? Sure. But such institutions are powered by
+perfectly reasonable, doesn't it? Sure. But such institutions are powered by
 people, and the people &mdash; just like criminals and liars &mdash;
 have to respond to market-pressures. We used to *trust* our
 credit-rating-agencies to tell us which financial entities were
 *creditworthy* &mdash; and then we had an economic *meltdown* in 2008
 that destroyed the *trustworthiness* of those institutions themselves.
 Centralizing trust in a handful of institutions will work in a pinch but
-it could eventually, and without warning, fail &mdash; every paradigm
+it could eventually, and without warning, fail &mdash; may we repeat every paradigm
 contains the seeds of its own destruction.
 
 ## The Internet's Paradigm
@@ -253,18 +253,18 @@ the *Olympics* has started declining towards the end of the last decade
 &mdash; after a half century of *growing* viewership. Book stores are no
 longer mainstream, and the internet's pre-eminent book store has evolved
 into a titanic giant that sells *everything* and delivers it to your
-residence within 2 days &mdash; and they also collect rents for roughly
+residence within 2 days &mdash; and they also collect rent for roughly
 *one third* of all computation and storage that is provisioned on a
 Cloud. A ride-sharing company has displaced local taxi-cab companies *in
 the entire world* &mdash; not merely in a city or a state or a nation.
-Video rental stores probably do not exist, but the internet's
-pre-eminent video rental store has emerged as a formidable cultural
+Video rental stores are few and far between, but the internet's
+pre-eminent video rental store, Netflix, has emerged as a formidable cultural
 force spending tens of billions of dollars per year producing original
 and highly regarded, or at least highly viewed, films and television
 series.
 
 This is how paradigm shifts work. The above companies tried to build
-modest businesses in not-too-contested corner of the market place. The
+modest businesses in the not-too-contested corner of the marketplace. The
 paradigm starts shifting in their favor and they find themselves
 capturing more surplus than they know what to do with. They slowly wake
 up to the realization that they are at the top of the pyramid &mdash;
@@ -283,7 +283,7 @@ Different people have different ideas about what the next paradigm of
 the web is. Web2.0 got us half-way to where we want to be. Its pioneers,
 however, could not resist the incentives to maximize the proportion of
 the economic surplus that they capture &mdash; even though these Web2.0
-business are essentially *built by the users*. And Web3.0? Depends on
+business are essentially *built by the users*. And what about Web3.0? Depends on
 who you ask. Right now the mainstream thinks that Web3.0 is the
 *semantic web* &mdash; a decades-old idea that has always struggled to
 gain traction. Meanwhile, an increasing number of people believe that
@@ -309,7 +309,7 @@ Right now, the intermediary institutions (i.e. Facebook, Twitter,
 Reddit, HN, and so on) that ascribe credibility and trustworthiness do
 so in ways that are *opaque*. We do not know *why* certain tweets appear
 in our feeds and others do not &mdash; and even if we did, there is
-nothing we can do *customize* our feed (aside from following/unfollowing
+nothing we can do to *customize* our feed (aside from following/unfollowing
 various accounts). We can see a Reddit user's karma-score as well as the
 score of their individual posts &mdash; which is slightly less opaque
 than Hacker News's ranking system &mdash; but we cannot see *who*
