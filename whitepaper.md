@@ -471,7 +471,7 @@ shares.
 If Web2.0 was about *websites* and *services*, we believe that Web3.0 is
 about *people* and *content* and their *trustworthiness*.
 
-### Quid pro Quo
+### Quid Pro Quo
 An interesting application of the Interlock Network would be as a way to
 implement a *favor exchange*. Think of it this way &mdash; you want
 someone to do you a favor (i.e. you want them to farm potato-cactuses on
