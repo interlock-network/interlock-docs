@@ -61,7 +61,7 @@ privacy and security can be improved by moving *trust* away from the
 center of the network (i.e. Facebook, Google, etc) to the *edges* of the
 network (i.e. directly into people's browsers and onto the blockchain). 
 
-## Decentralizing Security with Ethereum/Solana Interlock Extension
+## Decentralizing Security with Solana-Ethereum Interlock Extension
 Security is a very difficult problem, and while much of the blame can be
 directed at the incentives of large tech corporations, some of it can
 also be directed at users feeling inconvenienced by security, for no
