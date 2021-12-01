@@ -537,7 +537,7 @@ feeds.
 ## KYC
 The **Know Your Customer** laws are an interesting example of laws that
 require establishing the trustworthiness of a customer. In principle it
-is much the same concept as checking whether a website is legitimate or
+is basically the same concept as checking whether a website is legitimate or
 fraudulent or whether an account on the Interlock Network is highly
 regarded or shunned. Obviously, if all transactions happened on the
 Interlock Network &mdash; or on *any* blockchain &mdash; KYC laws would
@@ -545,7 +545,7 @@ be trivial to implement. That is one of the nice side effects of
 complete transparency. We can combine the data on the Interlock Network
 with data &mdash; *anonymized* of course &mdash; that we gather from the
 extension to help the relevant Web3.0 financial institutions (i.e.
-namely crypto-exchanges and banks that want jump onto the DeFi train)
+namely crypto-exchanges and banks that want to jump onto the DeFi train)
 stay in compliance with the KYC regulations.
 
 ## Cryptonomics
@@ -554,21 +554,21 @@ To back our smart-contracts and our token we have chosen the **Solana**
 blockchain technology as our transaction-processing platform-component
 and **Ethereum** as the platform-component on which we mint the actual
 tokens. Solana has addressed many of the outstanding problems found in
-similar popular blockchains like Ethereum (i.e. transaction-speed
-energy-efficiency infinite-smart-contract-loops etc). In fact, the
+similar popular blockchains like Ethereum (i.e. transaction-speed,
+energy-efficiency, infinite-smart-contract-loops, etc). In fact, the
 Interlock Network is simply not feasible on any blockchain that does not
 have cheap transactions. We had hoped that we would be able to use
 Ethereum since it has an enormous ecosystem and is very popular, but its
-transactions are thousands of times more expensive then Solana's. We do
+transactions are thousands of times more expensive than Solana's. We do
 however recognize the value of Ethereum's ERC-20 standard and the
 ability to use existing wallets and to transact with other people on
 Ethereum &mdash; so we are minting the coins on Ethereum but connecting
 them to Solana using the Wormhole bridge between these two blockchains.
 Ideally, we would use a single popular blockchain like Ethereum but the
-physics and economics of these technologies makes that impossible,
-presently. However, if the newer versions of Ethereum increase the TPS
+physics and economics of these technologies makes that impossible, presently.
+However, if the newer versions of Ethereum increase the TPS
 and decrease their transaction-costs we could see ourselves porting our
-code over to these future version of Ethereum &mdash; assuming that
+code over to these future versions of Ethereum &mdash; assuming that
 Solana does not supplant Ethereum in the meantime.
 
 To be honest, we are still not 100 percent certain that our
@@ -584,9 +584,9 @@ earlier. The Interlock Network satifies both the
 neoclassical-individualist and keynesian-structuralist perspectives
 because we can infer a very precise *structure* from the recorded
 transaction-history between *individuals* &mdash; in fact if the
-Interlock Network gains wide adoption it would probably be of
+Interlock Network gains wide adoption it will be of
 significant interest to all kinds of economists and sociologists.
-Furthermore we have tried to the design the incentives encourage
+Furthermore we have tried to design the incentives to encourage
 pro-social use of the blockchain &mdash; but of course if any economists
 (or non-economists) want to chime in then please go ahead. As for the
 marxians, they can take pleasure in the fact that (a) the user's
@@ -604,7 +604,7 @@ top of Solana-Ethereum. So far, we have spoken of the Interlock Network
 as if it was a proper stand-alone blockchain, so that we can get the
 *idea* of a P2P reputation network across to you. However, there are
 some significant implementation details that diverge from our *idealized
-description* of the Interlock Network, in the previous sections.
+description* of the Interlock Network that we used in the previous sections.
 
 Pretty much all software that runs on a blockchain is going to be much
 slower &mdash; and more expensive &mdash; than traditional software that
@@ -612,7 +612,7 @@ runs on raw silicon (or even in a VM). We should start with the good
 news &mdash; transactions in Solana are extremely cheap, costing only
 about 10-USD to execute a *million* transactions. The *bad* news is that
 per-account storage is severely limited and severely expensive. On
-Solana each account can only store a maximum 10MB of data &mdash; which
+Solana each account can only store a maximum of 10MB of data &mdash; which
 is not enough for our history-based reputation scoring &mdash; and each
 MB costs 3.56 SOL to store per year &mdash; which comes out to
 10MB-years costing 1200-USD at the current SOL-USD exchange ratio (1 SOL
@@ -657,9 +657,9 @@ account number as an argument. The account invoking the verb pays for
 the cost of the transaction &mdash; which is measured in thousandths of
 a SOL &mdash; as well as a tiny and negligible percentage to an
 interlock-owned account &mdash; this is to help fund the development of
-the Interlock Network and other related interlock products. The verbs
+the Interlock Network and other related Interlock products. The verbs
 upvote, downvote, and vouch are pretty straight forward to implement
-since they just manipulate balances and store no data. Implementing
+since they just manipulate balances and store no data. Implementing a
 *share* however, is a bit more of a challenge because of the high
 storage-fees on Solana. When the share-program is invoked, it is done
 via a transaction, which contains opaque 8-bit instruction-data. This
@@ -674,7 +674,7 @@ The *share* smart-contract will charge a one-time per-byte fee to
 incentivize users to keep their shared content as short as possible
 &mdash; and to disincentivize the spamming of our database.
 
-The *quit-pro-quo program* is very similar to the *upvote* program,
+The *quid-pro-quo program* is very similar to the *upvote* program,
 except it mints and deposits an account-specific NFT that cannot be
 withdrawn or spent by the receiving account &mdash; see the previous
 section, *quid pro quo*, for more details.
@@ -690,7 +690,7 @@ century of brainpower that went into monetary theory and the
 more-than-half-century of brain-power that went into game-theory
 (specifically the subfield of mechanism design) to create both long-term
 and short-term incentives that will encourage pro-social behaviour and
-participation on the interlock network.
+participation on the Interlock Network.
 
 We want people to vote, but we also want them to vote thoughtfully
 &mdash; to that end votes are emphatically **not** free. They cost
@@ -706,7 +706,7 @@ other words, when a user votes they transfer their unspent token to the
 account that they voted for, but their *own* account receives a *spent*
 token that cannot be used for anything &mdash; except buying
 Inter Token. This is very much like Japan's policy of *Window Guidance*
-&mdash; except we are guiding voting behaviour, instead corporate
+&mdash; except we are guiding voting behaviour, instead of corporate
 behaviour.
 
 Voting activity is obviously done via its own tokens, but what about
@@ -718,7 +718,7 @@ want them to *spam* our DB with *noise*. For example, at 560 bytes and
 time of writing &mdash; shares per year, the Interlock Network accounts
 would be generating 101 TB of data per year. That is a *lot* of data to
 store, index, mirror, and distribute &mdash; we want to make every byte
-count, specifically so that ordinary users can feasibly do their own
+count, specifically so ordinary users can feasibly do their own
 mirroring and querying. This state of affairs does give users with more
 Inter Tokens (i.e. because of more received upvotes or because they
 purchased more) a bit of a social edge. We are not entirely sure if that
@@ -730,8 +730,8 @@ cheaply at least once a day, but they cannot firehose every random
 brainwave onto the network. The former policy might incentivize
 account-owners to engage in complex behaviors akin to tax-evasion and
 capital-flight. The latter policy seems more sensible and equitable, but
-this is one those things that will probably require extensive
-experimentation, before we can accept it as a *good idea*. We suspect
+this is one of those things that will probably require extensive
+experimentation before we can accept it as a *good idea*. We suspect
 that the economics of sharing will motivate people to post a handful of
 links to things like their blogs, personal-websites, twitter-accounts,
 github-accounts, and aggregators using those specialized platforms for
@@ -743,7 +743,7 @@ signal-to-noise ratio &mdash; which is exactly what we are after.
 To facilitate investment in the project we are going to pursue a DAICO
 model. The idea behind the model is that investors can invest a specific
 amount of SOL or ETH (they can choose to invest on either Ethereum or
-Solana) into an investment-fund account for the Interlock project. This
+Solana) into an investment-fund account for the Interlock Network project. This
 account has a monthly limit on withdrawals and any withdrawals beyond
 that limit would have to be voted on by the investors. A fixed number of
 SOL/ETH can be invested (i.e. the target number) and investors cannot
@@ -757,9 +757,9 @@ opportunity to participate fairly and equitably in the project. The
 presence of proportion-limits is to ensure (a) a minimum number of
 investors (i.e. 20) and (b) that no single investor has unilateral veto
 power during a vote. Investors will also receive ownership over accounts
-with a proportional amount of Voting Inter Tokens as well a normal
-Inter Tokens. Each investor will also receive upvotes from upvotes from
-the Interlock Team as a form of symbolic thanks.
+with a proportional amount of voting Inter Tokens as well a normal
+Inter Tokens. Each investor will also receive upvotes from
+the Interlock Team upvoting them as a form of symbolic thanks.
 
 For this to work correctly, we will have to break away from our theme of
 privacy and anonymity &mdash; allowing anonymous investors would be the
@@ -769,17 +769,17 @@ investors might interfere with KYC laws. Though, we can probably
 experiment with fully anonymous rounds for smaller investment targets
 (i.e. a few dozen thousand dollars).
 
-We are also interested in trying to raise fund on Solstarter when that
-platform is ready &mdash; but until they launch, we will have to go with
+We are also interested in trying to raise funds on Solstarter when that
+platform is ready &mdash; but until they launch we will have to go with
 the DAICO model. **We will update this section with details for how the
-inaugural DAICO round will be run soon**.
+inaugural DAICO round will be ran soon**.
 
 ## Technical Contributions
-Regarding technical contribution we will follow an RFD/RFC model where
+We will follow an RFD/RFC model for techincal contributions; where
 project design documents are proposed and discussed on various community
 channels (i.e. github, discord, and others). If the project and
 community get large enough we will likely adopt a governance model akin
-to Rust's. We diverge from the traditional RFC process in that we (a)
+to Rust's. We will diverge from the traditional RFC process in that we (a)
 adopt proposals by voting via smart-contract and (b) developers can show
 their support and affinity for each-other and their ideas by using the
 upvote/downvote mechanism that is already in place. We do not require
