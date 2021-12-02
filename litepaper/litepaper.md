@@ -78,7 +78,7 @@ attack the problem in the browser and on the blockchain.
 
 We secure users' browsers from phishing-attacks, credential-theft,
 impersonating-blockchain-sites, credit-card-phishing, credential-theft,
-and scam-wallets with a &mdash; uBlock-based &mdash; browser extnesion
+and scam-wallets with a &mdash; uBlock-based &mdash; browser extension
 called Interlock. In addition to blocking ads, the extension uses an
 advanced visual-indicator-of-threat to detect phishing pages and
 scam-websites, and prevents users from entering any sensitive
