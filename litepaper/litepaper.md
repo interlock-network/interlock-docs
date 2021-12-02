@@ -115,7 +115,7 @@ on strategic and economic circumstances &mdash; we are not committing to
 any fixed emission schedule. We also mint new tokens as necessary to
 meet staking obligations &mdash; which is only necessary *after* all
 tokens are emitted, or if all tokens are held but unused by their
-owners. Most projects try to control the price by controlling supply,
+owners. Most projects try to "control" the price by controlling supply,
 but we feel that this is a fool's errand, and it would be much more
 robust to *stimulate demand* for the token by making it *useful* and
 *desirable*.
