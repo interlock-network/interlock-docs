@@ -83,7 +83,7 @@ called Interlock. In addition to blocking ads, the extension uses an
 advanced visual-indicator-of-threat to detect phishing pages and
 scam-websites, and prevents users from entering any sensitive
 information like passwords or usernames. We seek to motivate users to
-install and use extension by linking it to a crypto-currency, called
+install and use the extension by linking it to a crypto-currency, called
 INTER. Users earn INTER &mdash; initially &mdash; for installing the
 extension and browsing the web with it, and &mdash; once they have
 enough &mdash; they can stake grey-area-entities (i.e. pages and domains
@@ -92,11 +92,11 @@ staking is essential to improving our models and heuristics, and it is
 an opportunity to earn a percentage return.
 
 We use blockchain &mdash; a hybrid of Ethereum and Solana &mdash; as a
-decentralized, transparent, open-source mechanism to facilitate the
+decentralized and transparent open-source mechanism to facilitate the
 movement of tokens and the distribution of staking-rewards.
 
 While doing all of this, we collect all anonymized browsing data that
-the user has chosen to share, and we use it to improve the data-sets
+the user has chosen to share and we use it to improve the data-sets
 used for threat-detection, threat-intelligence, business-analytics, and
 KYC. This data is then used by us and our partners (i.e. crypto-currency
 exchanges and other commercial entities) to improve their products and
@@ -115,8 +115,8 @@ on strategic and economic circumstances &mdash; we are not committing to
 any fixed emission schedule. We also mint new tokens as necessary to
 meet staking obligations &mdash; which is only necessary *after* all
 tokens are emitted, or if all tokens are held but unused by their
-owners. Most projects try to cccontrolthe price by controlling supply,
-but we feel that this is a fool's errand, and that it would be much more
+owners. Most projects try to control the price by controlling supply,
+but we feel that this is a fool's errand, and it would be much more
 robust to *stimulate demand* for the token by making it *useful* and
 *desirable*.
 
