@@ -51,7 +51,7 @@ from work, or on-the-go &mdash; has reached pandemic proportions. For
 example, 75 percent of attacks are successful, and they have an average
 cost of around **4 million per attack**. These attackers **are rapidly
 shifting their attention and resources to the *crypto currency
-ecosystem* **.
+ecosystem***.
 
 ## Improving Privacy and Security with Decentralization
 There is an unintentional, but mutually-supporting, dynamic between the
