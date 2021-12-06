@@ -119,6 +119,3 @@ owners. Most projects try to "control" the price by controlling supply,
 but we feel that this is a fool's errand, and it would be much more
 robust to *stimulate demand* for the token by making it *useful* and
 *desirable*.
-
-![](../imgs/alloc-graph.png)
-
