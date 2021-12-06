@@ -34,11 +34,11 @@ any questions or just talk to the developers about how great their day is today 
 the [Issues tab](https://github.com/interlock-network/interlock-whitepaper/issues) and create new issue, whether it's a typo in the white paper or you want something added/removed.
 
 ## The team
-* [pspace](https://github.com/bountyx) - Project Owner & Lead Developer
-* [rickdeaconx](https://github.com/rickdeaconx) - Project Owner & Lead Developer
-* [galactic-beyond](https://github.com/galactic-beyond) - Project Owner & Lead Developer
-* andycheech
-* treevuhh
+* [pspace](https://github.com/bountyx) - Project Owner & CTO
+* [rickdeaconx](https://github.com/rickdeaconx) - Project Owner & CEO
+* [galactic-beyond](https://github.com/galactic-beyond) - Project Owner & Principal Engineer
+* andycheech - Chief of Marketing
+* treevuhh - Business Assistant
 * [We're Hiring](https://www.linkedin.com/jobs/view/2767856980/)
 
 **Credits**
