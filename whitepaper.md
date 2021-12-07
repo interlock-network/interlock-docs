@@ -218,7 +218,7 @@ Trading new gods for old.
 
 Trust, just like a paradigm, is powered by *belief*. You cross the
 street with minimal anxiety because you trust the drivers to be sober
-enough to obey the traffic laws (also a good example of a paradigm). You
+enough to obey the traffic laws (also another good example of a paradigm). You
 use the same two passwords on every site because you trust that the
 programmers that made the site have a minimal level of technical
 competence and a minimal regard for your security and privacy. Some
