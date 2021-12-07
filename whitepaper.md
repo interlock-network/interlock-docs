@@ -184,7 +184,7 @@ connectedness to all things &mdash; an ancient idea that is in fact more
 relevant to the modern world than it ever was to the ancient world.
 
 Criminals and tech corporations both see the internet-user as something
-to be exploited. The fromer seeks to attack and corrupt the state of
+to be exploited. The former seeks to attack and corrupt the state of
 your bank account, while the latter seeks to attack and corrupt your
 state of mind. You will find it easy, even effortless, to be angry with
 the former, but you may find it difficult to be angry with the latter.
