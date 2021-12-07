@@ -537,7 +537,7 @@ discounts. Visual learners may appreciate the diagram below.
 We are evaluating different governance models. Stay tuned.
 
 ## Technical Contributions
-Regarding technical contribution we will follow an RFD/RFC model where
+We will follow an RFD/RFC model for technical contributions; where
 project design documents are proposed and discussed on various community
 channels (i.e. github, discord, and discourse). If the project and
 community get large enough we will likely adopt a governance model akin
