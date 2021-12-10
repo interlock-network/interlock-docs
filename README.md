@@ -5,7 +5,7 @@ icon: home
 
 # About
 
-Interlock is a data platform enabling intelligence and operational security, changing the cybersecurity paradigm with blockchain. Decentralized security, incentivized for everyone.
+Interlock is a data platform enabling intelligence and operational security, changing the cybersecurity paradigm with blockchain. Decentralized security, incentivized for everyone. [Want to try Interlock? Sign up for early access](https://signup.interlock.network)
 
 ```mermaid
 %%{init: { 'theme': 'forest' } }%%
@@ -21,10 +21,10 @@ tokens for contributing security and analytics data they control.
 We are calling the space DeSec, the first of its kind decentralized security and intelligence. The first application in the ecosystem, as an example, is Airlock an anti-phishing and threat sharing platform that is a browser extension you can install and use; however, Airlock does not yet support blockchain and INTER token earning, that is still a work-in-progress.
 
 ## Useful links
+* [Sign Up For Early Access](https://signup.interlock.network)
 * [Join us on Discord](https://discord.gg/YuxsG8znG2)
 * [Join our Telegram](https://t.me/+IxzitrEVH2A1ODYx)
 * [Join us on Reddit](https://www.reddit.com/r/interlocknetwork)
-* [Download Airlock Browser Extension](https://chrome.google.com/webstore/detail/nohack-by-apozy/akgjbibhebefdjbebhpmknohhojhppeb?hl=en)
 * [Airlock Security Platform](https://airlock.security)
 
 ## Support & Bug reports
