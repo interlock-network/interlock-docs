@@ -108,14 +108,52 @@ Please see the FAQ and technical whitepaper for more details and
 information.
 
 ## Emission Schedule
-In short, we plan to emit **1 billion** tokens, in **5 phases**, each
-subsequent phase doubling the total supply of tokens. Dates and times
-for the phases are chosen at the discretion of the Interlock Team based
-on strategic and economic circumstances &mdash; we are not committing to
-any fixed emission schedule. We also mint new tokens as necessary to
+In short, we plan to emit **1 billion** tokens, over an 86-month period.
+Here are the first 3 years of emissions, divided into half-year periods.
+
+<table>
+  <tr>
+    <th>half-year</th>
+    <th>new-tokens</th>
+    <th>total-tokens</th>
+  </tr>
+  <tr>
+    <td>aug-2022</td>
+    <td>189087820</td>
+    <td>189087820</td>
+  </tr>
+   <tr>
+    <td>feb-2023</td>
+    <td>161495487</td>
+    <td>350583307</td>
+  </tr>
+   <tr>
+    <td>aug-2023</td>
+    <td>100483712</td>
+    <td>451067019</td>
+  </tr>
+   <tr>
+    <td>feb-2024</td>
+    <td>115245098</td>
+    <td>566312117</td>
+  </tr>
+  <tr>
+    <td>aug-2024</td>
+    <td>75395270</td>
+    <td>641707387</td>
+  </tr>
+  <tr>
+    <td>feb-2025</td>
+    <td>66876750</td>
+    <td>708584137</td>
+  </tr>
+  </table>
+
+We also mint new tokens as necessary to
 meet staking obligations &mdash; which is only necessary *after* all
 tokens are emitted, or if all tokens are held but unused by their
 owners. Most projects try to "control" the price by controlling supply,
-but we feel that this is a fool's errand, and it would be much more
+but we feel that this is a fool's errand, and that it would be much more
 robust to *stimulate demand* for the token by making it *useful* and
 *desirable*.
+
