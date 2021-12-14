@@ -48,7 +48,7 @@ became cool. We remember an internet where nobody knew that you were a
 dog &mdash; and, more importantly, nobody cared. We remember when being
 social on the internet meant that you had a blog, read (and shared files
 on) USENET, and participated in Slashdot discussions and flame-wars as
-an 'Anonymous Coward'. We remeber that being informed meant that you
+an 'Anonymous Coward'. We remember that being informed meant that you
 used Google Reader (RIP) to read RSS feeds which were absolutely
 everywhere. And if you *really* wanted to stick it to The Man, you
 installed Linux on your second-hand beige-box and Firefox on your folks'
