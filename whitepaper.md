@@ -297,7 +297,7 @@ and the publishing industry. The web is decentralizing geography &mdash;
 two people a million miles away can interact with each other over
 video-chat or VR. The web is decentralizing finance &mdash; even stuffy
 old banks want to get in on the DeFi bandwagon. The web is
-decentralizing the nation-state &mdash; people often times have more in
+decentralizing the nation-state &mdash; people often have more in
 common with globally dispersed like-minded individuals than their fellow
 neighbors and citizens. The web is decentralizing employment &mdash; the
 number of people working in the gig-economy and the creator-economy is
@@ -320,7 +320,7 @@ inflated by a random bit-flip on Reddit's servers &mdash; let alone if
 it has been manipulated by an insider or inflated by a voting ring.
 Similar logic applies to Twitter and Hacker News. Hacker News has
 surprisingly insightful discussions, in spite of its concealment of
-vote-metadata for posts, but it is still suseptible to insider
+vote-metadata for posts, but it is still susceptible to insider
 manipulation and voting rings. In short, almost everything you see in
 the walled-gardens of the web &mdash; and almost every decision you make
 &mdash; is determined &mdash; or at least strongly influenced by &mdash;
@@ -355,7 +355,7 @@ Neoclassical Utopia aflame, the Keynesian school arose and argued that a
 Utopia could not be maintained without a Leviathan &mdash; they argued
 that the individual was certainly important, but not nearly as important
 as the *structure* of the economy. These two views correspond to
-microeconomics (i.e. reasoning that individuals ruthlessly purseuing
+microeconomics (i.e. reasoning that individuals ruthlessly pursuing
 their own self-interest will create the most desirable outcomes for all
 of humanity) and macroeconomics (i.e. reasoning that *tracking*
 macroeconomic indicators like GDP, unemployment, inflation, and
@@ -395,7 +395,7 @@ Trying to eliminate the intermediary institutions that ascribe trust is
 a little bit like trying to eliminate the police or trying to eliminate
 schools. Obviously policing and schooling are very important and nobody
 would ever consider decentralizing them, let alone eliminating them. So
-we should ask ourselves, what kind of a people have no need for the
+we should ask ourselves, what kind of people have no need for the
 police? What kind of people have no need for schools? The answer, fellow
 traveler, is people that are *self-policing* and *self-schooling*.
 Obviously, such people are very rare, otherwise we would not need
@@ -425,7 +425,7 @@ problem. Throwing blockchain at the problem won't automatically fix it.
 If websites were signed using an account-signature from a
 blockchain-powered reputation-network many phishing attacks &mdash; the
 most common and most successful kind of attack &mdash; would be a lot
-less feasible. However such a network would *only* protect the users
+less feasible. However, such a network would *only* protect the users
 that have an account on it *from* websites that belong to *other* users
 that have an account on it. In effect, we would have the
 walled-garden-problem &mdash; only users that were inside the
@@ -448,7 +448,7 @@ life it has been out of the reach of non-corporate users. Our plan is to
 make this extension available to *everyone* but to modify it to work
 with Interlock Network. When the user installs the extension they can
 open an account on the Interlock Network, link it to the extension, and
-we will deposite some amount of Inter Tokens into their account. As they
+we will deposit an amount of Inter Tokens into their account. As they
 use the extension they will get a variable-time and variable-quantity
 reward for using it. If the extension mistakenly locks a page a user can
 unlock it. If an extension does not lock a page, a user can flag it.
@@ -463,7 +463,7 @@ only stake on sites that have only been mistakenly flagged by our
 heuristics or by another user. This staking-information also helps
 Interlock refine and sharpen its heuristics. And this is just the
 bare-bones, minimum-viable-product-functionality &mdash; in later
-releases, users will also be able flag webpages as *containing*
+releases, users will also be able to flag webpages as *containing*
 malicious content (i.e. a comment on reddit or a video on youtube),
 effectively crowdsourcing moderation.
 
@@ -471,7 +471,7 @@ effectively crowdsourcing moderation.
 The **Know Your Customer** laws are an interesting example of laws that
 require establishing the trustworthiness of a customer. In principle it
 is basically the same concept as checking whether a website is
-legitimate or fraudulent or whether an account on the Interlock Network
+legitimate or fraudulent; or whether an account on the Interlock Network
 is highly regarded or shunned. Obviously, if all transactions happened
 on the Interlock Network &mdash; or on *any* blockchain &mdash; KYC laws
 would be trivial to implement. That is one of the nice side effects of
@@ -490,8 +490,8 @@ tokens. Solana has addressed many of the outstanding problems found in
 similar popular blockchains like Ethereum (i.e. transaction-speed
 energy-efficiency infinite-smart-contract-loops etc), and it has
 excellent documentation and development-stack that we are quite fond of.
-Also, building on top of Solana also allows us to (evetually) add
-transaction-heavy features to the Interlock Network are simply not
+Also, building on top of Solana also allows us to (eventually) add
+transaction-heavy features to the Interlock Network that are simply not
 feasible on any blockchain that does not have cheap transactions. We had
 hoped that we would be able to use Ethereum since it has an enormous
 ecosystem and is very popular, but its transactions are thousands of
@@ -563,7 +563,7 @@ categories of Interlock Network participants: extension-users,
 security-stakers, enterprise-customers, and data-buyers. Extension-Users
 earn tokens for sharing data and for flagging/unlocking websites.
 Security stakers earn tokens for staking on non-malicious
-grey-area-entities (an lose tokens for staking on malicious
+grey-area-entities (and lose tokens for staking on malicious
 grey-area-entities). Enterprise-Customers can buy and stake tokens for
 licensing discounts. Data-Buyers can buy and stake tokens for data
 discounts. Visual learners may appreciate the diagram below.
