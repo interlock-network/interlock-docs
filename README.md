@@ -39,7 +39,7 @@ the [Issues tab](https://github.com/interlock-network/interlock-whitepaper/issue
 * [galactic-beyond](https://github.com/galactic-beyond) - Project Owner & Principal Engineer
 * andycheech - Chief of Marketing
 * treevuhh - Business Assistant
-* [We're Hiring](https://www.linkedin.com/jobs/view/2767856980/)
+* [We're Hiring](https://interlock.breezy.hr/)
 
 **Credits**
 [Interlock](https:/interlock.network/) is a decentralized, global team.
