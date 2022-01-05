@@ -38,7 +38,7 @@ the [Issues tab](https://github.com/interlock-network/interlock-whitepaper/issue
 * [rickdeaconx](https://github.com/rickdeaconx) - Project Owner & CEO
 * [galactic-beyond](https://github.com/galactic-beyond) - Project Owner & Principal Engineer
 * andycheech - Chief of Marketing
-* treevuhh - Business Assistant
+* treevuhh - Executive Business Assistant
 * [We're Hiring](https://interlock.breezy.hr/)
 
 **Credits**
