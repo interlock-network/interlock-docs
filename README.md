@@ -5,7 +5,9 @@ icon: home
 
 # About
 
-Interlock is a data platform enabling intelligence and operational security, changing the cybersecurity paradigm with blockchain. Decentralized security, incentivized for everyone. [Want to try Interlock? Sign up for early access](https://signup.interlock.network)
+Interlock is a data platform enabling intelligence and operational security, changing the cybersecurity paradigm with blockchain. Decentralized security, incentivized for everyone. 
+
+[Want to try Interlock? Sign up for early access](https://signup.interlock.network)
 
 ```mermaid
 %%{init: { 'theme': 'forest' } }%%
