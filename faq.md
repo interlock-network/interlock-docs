@@ -65,10 +65,10 @@ except this time the Big Tech companies are playing the role of the
 banks &mdash; and right now Apple, Google, and Facebook are being
 dragged through the court-systems of every major jurisdiciton on earth.
 This is the beginning of a long decline for the most influential and
-widely used internet-companies, which means that that next decade is
+widely used internet-companies, which means that the next decade is
 going to be one of, decreasing online-safety, increasing
 online-decentralization, and &mdash; most importantly &mdash;
-**inscreasing online-opportunity**, on the internet.
+**increasing online-opportunity**, on the internet.
 
 We want **to create a decentralized and easy-to-use network** that will
 **actively protect** you from existing and emerging new threats, while
@@ -174,7 +174,7 @@ to Rust's. We diverge from the traditional RFC process in that we (a)
 adopt proposals by voting via smart-contract and (b) developers can show
 their support and affinity for each-other and their ideas by using the
 upvote/downvote mechanism that is already in place. We do not require
-separete personal and developer accounts, but we also do not require the
+separate personal and developer accounts, but we also do not require the
 same account. Keeping with the theme of privacy and anonymity a
 developer can have as many accounts as they want and the
 project/community would have no way of knowing &mdash; which is
