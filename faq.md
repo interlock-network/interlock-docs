@@ -146,24 +146,24 @@ People earn money either by using our extension passively, optionally
 and anonymously sharing a subset of their browsing data, or by actively
 flagging and staking grey-area-entities.
 
-## This sounds cool and i would like to be involved &mdash; are you accepting any kind of investment?
+## This sounds cool and I would like to be involved &mdash; are you accepting any kind of investment?
 We plan on pursuing a variety of fund-raising strategies. For starters
 we plan on doing a DAICO.
 
-## This sounds cool and i would like to be involved &mdash; are you accepting any kind of coding contributions?
+## This sounds cool and I would like to be involved &mdash; are you accepting any kind of coding contributions?
 We are fully open source and will happily accept coding contributions.
 We are considering financing bug-bounty programs using our Inter Token.
 
-## This sounds cool and i would like to be involved &mdash; are you accepting any kind of writing contributions?
+## This sounds cool and I would like to be involved &mdash; are you accepting any kind of writing contributions?
 We would appreciate any kind of documentation or evangelism in the form
 of writing. We would happily compensate you using the Inter Token.
 
-## This sounds cool and i would like to be involved &mdash; is there a place where I can ask questions and particpate discussions?
+## This sounds cool and I would like to be involved &mdash; is there a place where I can ask questions and particpate in discussions?
 We have a discord channel, a twitter, and a github. We may add more
 venues for discussions in the future.
 
 ## Is this project open source?
-Yes this project is open source.
+Yes, this project is open source.
 
 ## Does this project have a specific governance model?
 Regarding technical contribution we will follow an RFD/RFC model where
