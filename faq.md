@@ -159,7 +159,7 @@ We would appreciate any kind of documentation or evangelism in the form
 of writing. We would happily compensate you using the Inter Token.
 
 ## This sounds cool and I would like to be involved &mdash; is there a place where I can ask questions and particpate in discussions?
-We have a discord channel, a twitter, and a github. We may add more
+We have a discord channel, a telegram, a twitter, and a github. We may add more
 venues for discussions in the future.
 
 ## Is this project open source?
