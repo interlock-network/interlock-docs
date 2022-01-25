@@ -576,7 +576,7 @@ We are evaluating different governance models. Stay tuned.
 ## Technical Contributions
 We will follow an RFD/RFC model for technical contributions; where
 project design documents are proposed and discussed on various community
-channels (i.e. github, discord, and discourse). If the project and
+channels (i.e. github and discord). If the project and
 community get large enough we will likely adopt a governance model akin
 to Rust's. We do not require separate personal and developer accounts,
 but we also do not require the same account. Keeping with the theme of
