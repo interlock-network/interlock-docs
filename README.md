@@ -49,4 +49,4 @@ the [Issues tab](https://github.com/interlock-network/interlock-whitepaper/issue
 
 **Credits**
 
-[Interlock](https:/interlock.network/) is a decentralized, global team.
+[Interlock](https://interlock-network.github.io/interlock-whitepaper/litepaper/litepaper/) is a decentralized, global team.
