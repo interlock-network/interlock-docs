@@ -102,7 +102,7 @@ KYC. This data is then used by us and our partners (i.e. crypto-currency
 exchanges and other commercial entities) to improve their products and
 protect their customers.
 
-![](../imgs/diagram_light.jpg)
+![](../imgs/Frame 1.jpg)
 
 Please see the FAQ and technical whitepaper for more details and
 information.
