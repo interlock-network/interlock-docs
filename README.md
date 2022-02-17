@@ -22,14 +22,17 @@ tokens for contributing security and analytics data they control.
 
 We are calling the space DeSec, the first of its kind decentralized security and intelligence. The first application in the ecosystem, as an example, is Airlock an anti-phishing and threat sharing platform that is a browser extension you can install and use; however, Airlock does not yet support blockchain and INTER token earning, that is still a work-in-progress.
 
+## Roadmap
+<img width="1445" alt="Screen Shot 2022-02-17 at 1 57 24 PM" src="https://user-images.githubusercontent.com/3850344/154554132-462a61c5-5188-415d-a9a4-74b6a797c9f4.png">
+
+
 **Want to join our team?**
 
 [Check out what we're hiring for](https://interlock.breezy.hr/)
 
 ## Useful links
-* [Sign Up For Early Access](https://signup.interlock.network)
 * [Join us on Discord](https://discord.gg/YuxsG8znG2)
-* [Join our Telegram](https://t.me/+IxzitrEVH2A1ODYx)
+* [Join our Telegram](https://t.me/interlockchat)
 * [Join us on Reddit](https://www.reddit.com/r/interlocknetwork)
 * [Airlock Security Platform](https://airlock.security)
 
