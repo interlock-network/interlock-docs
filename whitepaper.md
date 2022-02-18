@@ -548,14 +548,6 @@ Here are the first 3 years of emissions, divided into half-year periods.
   </tr>
   </table>
 
-We also mint new tokens as necessary to
-meet staking obligations &mdash; which is only necessary *after* all
-tokens are emitted, or if all tokens are held but unused by their
-owners. Most projects try to "control" the price by controlling supply,
-but we feel that this is a fool's errand, and that it would be much more
-robust to *stimulate demand* for the token by making it *useful* and
-*desirable*.
-
 ### Staking and Earning
 Even though we touched on it earlier, we feel it bears repeating under
 what circumstances tokens move across the network. There are 4
