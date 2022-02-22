@@ -547,6 +547,9 @@ Here are the first 3 years of emissions, divided into half-year periods.
     <td>708584137</td>
   </tr>
   </table>
+  
+ Interlock mints a maximum of 1 billion tokens, and pledges to spend _at
+ least_ 20% of revenue to buy-back tokens.
 
 ### Staking and Earning
 Even though we touched on it earlier, we feel it bears repeating under
