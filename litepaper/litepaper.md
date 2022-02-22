@@ -151,5 +151,7 @@ Here are the first 3 years of emissions, divided into half-year periods.
   </table>
 
 Interlock mints a maximum of 1 billion tokens, and pledges to spend _at
- least_ 20% of revenue to buy-back tokens.
+ least_ 20% of revenue to buy-back tokens. Once bought tokens may
+ be burned or used to contribute to the network (i.e. by financing
+ the rewards-pool for users, etc).
 
