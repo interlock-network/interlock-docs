@@ -38,7 +38,7 @@ We are calling the space DeSec, the first of its kind decentralized security and
 
 ## Support & Bug reports
 
-We are usually available to chat at our [Discord](https://discord.gg/vaPtYnma) or [Telegram](https://t.me/+IxzitrEVH2A1ODYx), if you would like to ask
+We are usually available to chat at our [Discord](https://discord.gg/PbCYBbynqd) or [Telegram](https://t.me/+IxzitrEVH2A1ODYx), if you would like to ask
 any questions or just talk to the developers about how great their day is today :) As for bug reports, please use
 the [Issues tab](https://github.com/interlock-network/interlock-whitepaper/issues) and create new issue, whether it's a typo in the white paper or you want something added/removed.
 
