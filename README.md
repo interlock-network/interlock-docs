@@ -33,6 +33,7 @@ We are calling the space DeSec, the first of its kind decentralized security and
 ## Useful links
 * [Join us on Discord](https://discord.gg/YuxsG8znG2)
 * [Join our Telegram](https://t.me/interlockchat)
+* [Follow us on Twitter](https://www.twitter.com/interlockweb3)
 * [Join us on Reddit](https://www.reddit.com/r/interlocknetwork)
 * [Airlock Security Platform](https://airlock.security)
 
