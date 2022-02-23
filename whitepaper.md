@@ -467,6 +467,13 @@ releases, users will also be able to flag webpages as *containing*
 malicious content (i.e. a comment on reddit or a video on youtube),
 effectively crowdsourcing moderation.
 
+In case users feel that they do not have the qualifications (or the time)
+to analyze grey-area-entities we offer a _passive_ "no-brainer" staking option.
+A user can stake in the Interlock Network. These staked tokens can in
+turn be used by the most successful _active_ stakers, to stake grey-area entities.
+The _active_ stakers get to take half of the yield of the tokens that were
+staked by _passive_ stakers.
+
 ## KYC
 The **Know Your Customer** laws are an interesting example of laws that
 require establishing the trustworthiness of a customer. In principle it
