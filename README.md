@@ -47,6 +47,10 @@ the [Issues tab](https://github.com/interlock-network/interlock-whitepaper/issue
 * [rickdeaconx](https://github.com/rickdeaconx) - Project Owner & CEO
 * [galactic-beyond](https://github.com/galactic-beyond) - Project Owner & Principal Engineer
 * andycheech - Chief of Marketing
+* [mozberg](https://github.com/championshuttler) - Community Manager
+* [JohnnyUtah](https://github.com/teachrdan) - Product Manager
+* [jmercouris](https://github.com/jmercouris) - Sr. Engineer
+* [memechoi](http://chasehoch.com/) - Creative & Design Lead
 * treevuhh - Executive Business Assistant
 * [We're Hiring](https://interlock.breezy.hr/)
 
