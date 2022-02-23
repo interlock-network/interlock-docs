@@ -91,6 +91,13 @@ that our algorithms could not determine the trustworthiness of). This
 staking is essential to improving our models and heuristics, and it is
 an opportunity to earn a percentage return.
 
+In case users feel that they do not have the qualifications (or the time)
+to analyze grey-area-entities we offer a _passive_ "no-brainer" staking option.
+A user can stake in the Interlock Network. These staked tokens can in
+turn be used by the most successful _active_ stakers, to stake grey-area entities.
+The _active_ stakers get to take half of the yield of the tokens that were
+staked by _passive_ stakers.
+
 We use blockchain &mdash; a hybrid of Ethereum and Solana &mdash; as a
 decentralized and transparent open-source mechanism to facilitate the
 movement of tokens and the distribution of staking-rewards.
