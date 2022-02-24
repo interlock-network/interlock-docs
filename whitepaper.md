@@ -572,7 +572,7 @@ grey-area-entities). Enterprise-Customers can buy and stake tokens for
 licensing discounts. Data-Buyers can buy and stake tokens for data
 discounts. Visual learners may appreciate the diagram below.
 
-![Token_Flow](https://user-images.githubusercontent.com/3850344/155185821-729e5045-cd2e-4d48-90f5-0ebba7b38a98.jpeg)
+![Token_Flow](https://user-images.githubusercontent.com/3850344/155587311-161da3b6-c441-42bf-abd1-9c2d0d690c8c.jpeg)
 
 
 ### Investing and Governance
