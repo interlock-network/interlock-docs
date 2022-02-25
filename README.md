@@ -7,7 +7,7 @@ icon: home
 
 Interlock is a data platform enabling intelligence and operational security, changing the cybersecurity paradigm with blockchain. Decentralized security, incentivized for everyone. 
 
-[Want to try Interlock? Sign up for early access](https://signup.interlock.network)
+[Want to try Interlock? Sign up for early access](https://www.interlock.network/)
 
 ```mermaid
 %%{init: { 'theme': 'forest' } }%%
@@ -44,7 +44,7 @@ any questions or just talk to the developers about how great their day is today 
 the [Issues tab](https://github.com/interlock-network/interlock-whitepaper/issues) and create new issue, whether it's a typo in the white paper or you want something added/removed.
 
 ## The team
-* [pspace](https://github.com/bountyx) - Project Owner & CTO
+* [pspace](https://github.com/justerhan) - Project Owner & CTO
 * [rickdeaconx](https://github.com/rickdeaconx) - Project Owner & CEO
 * [galactic-beyond](https://github.com/galactic-beyond) - Project Owner & Principal Engineer
 * andycheech - Chief of Marketing
@@ -52,7 +52,7 @@ the [Issues tab](https://github.com/interlock-network/interlock-whitepaper/issue
 * [JohnnyUtah](https://github.com/teachrdan) - Product Manager
 * [jmercouris](https://github.com/jmercouris) - Sr. Engineer
 * [memechoi](http://chasehoch.com/) - Creative & Design Lead
-* treevuhh - Executive Business Assistant
+* [treevuhh](https://github.com/Treevuhh) - Executive Business Assistant
 * [We're Hiring](https://interlock.breezy.hr/)
 
 **Credits**
