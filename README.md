@@ -17,10 +17,10 @@ graph LR
     B -->|Stay private| D[Stay protected from online scams]
 ```
 
-Interlock is an ecosystem of Security and Analytics tools where people can earn INTER
-tokens for contributing security and analytics data they control.
+Interlock is an ecosystem of Security and Analytics tools where people can be rewarded with 
+crypto-currency tokens for contributing security and analytics data they control.
 
-We are calling the space DeSec, the first of its kind decentralized security and intelligence. The first application in the ecosystem, as an example, is Airlock an anti-phishing and threat sharing platform that is a browser extension you can install and use; however, Airlock does not yet support blockchain and INTER token earning, that is still a work-in-progress.
+We are calling the space DeSec, the first of its kind decentralized security and intelligence. The first application in the ecosystem, as an example, is Airlock an anti-phishing and threat sharing platform that is a browser extension you can install and use; however, Airlock does not yet support blockchain and token earning, that is still a work-in-progress.
 
 ## Roadmap
 <img width="1445" alt="Screen Shot 2022-02-17 at 1 57 24 PM" src="https://user-images.githubusercontent.com/3850344/154554132-462a61c5-5188-415d-a9a4-74b6a797c9f4.png">
@@ -41,7 +41,7 @@ We are calling the space DeSec, the first of its kind decentralized security and
 
 We are usually available to chat at our [Discord](https://discord.gg/PbCYBbynqd) or [Telegram](https://t.me/+IxzitrEVH2A1ODYx), if you would like to ask
 any questions or just talk to the developers about how great their day is today :) As for bug reports, please use
-the [Issues tab](https://github.com/interlock-network/interlock-whitepaper/issues) and create new issue, whether it's a typo in the white paper or you want something added/removed.
+the [Issues tab](https://github.com/interlock-network/interlock-whitepaper/issues) and create a new issue, whether it's a typo in the white paper or you want something added/removed.
 
 ## The team
 * [pspace](https://github.com/justerhan) - Project Owner & CTO
