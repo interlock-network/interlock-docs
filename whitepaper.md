@@ -448,15 +448,15 @@ life it has been out of the reach of non-corporate users. Our plan is to
 make this extension available to *everyone* but to modify it to work
 with Interlock Network. When the user installs the extension they can
 open an account on the Interlock Network, link it to the extension, and
-we will deposit an amount of Inter Tokens into their account. As they
+we will deposit an amount of Tokens into their account. As they
 use the extension they will get a variable-time and variable-quantity
 reward for using it. If the extension mistakenly locks a page a user can
 unlock it. If an extension does not lock a page, a user can flag it.
 Pages that have been flagged or unlocked are designated as
-*grey-area-entities*. Users can also get additional Inter Tokens if they
+*grey-area-entities*. Users can also get additional Tokens if they
 are willing to *stake* a grey-area-entity. If we determine that a staked
 grey-area-entity is actually malicious, the user will lose the
-Inter Tokens that have been staked. If, on the other hand, the
+Tokens that have been staked. If, on the other hand, the
 grey-area-entity is *not* malicious the user will earn a percent-reward
 on the amount staked. This risk/reward arrangement incentivises users to
 only stake on sites that have only been mistakenly flagged by our
