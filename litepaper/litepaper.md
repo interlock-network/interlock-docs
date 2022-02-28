@@ -83,8 +83,8 @@ called Interlock. In addition to blocking ads, the extension uses an
 advanced visual-indicator-of-threat to detect phishing pages and
 scam-websites, and prevents users from entering any sensitive
 information like passwords or usernames. We seek to motivate users to
-install and use the extension by linking it to a crypto-currency, called
-INTER. Users earn INTER &mdash; initially &mdash; for installing the
+install and use the extension by linking it to a crypto-currency token.
+Users earn tokens &mdash; initially &mdash; for installing the
 extension and browsing the web with it, and &mdash; once they have
 enough &mdash; they can stake grey-area-entities (i.e. pages and domains
 that our algorithms could not determine the trustworthiness of). This
