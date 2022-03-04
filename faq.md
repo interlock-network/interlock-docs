@@ -25,7 +25,7 @@ Interlock Network. And lastly, Solana's growing popularity will help us
 attract new contributors to the project. We chose to mint out tokens on
 Ethereum because that chain has a large user-base and ecosystem and we
 would like to be compatible with it. To that end we use Wormhole to
-allow people to transfer their $ILOCK Tokens between chains.
+allow people to transfer their $INTR Tokens between chains.
 
 ## What problem are you trying to solve?
 We are trying to democratize and decentralize *trust* on the internet.
@@ -92,7 +92,7 @@ any sensitive information to said website. The extension also allows you
 to flag harmful websites that we miss, or unflag nonharmful websites.
 You can also choose to share some/all/none (the default is none) of your
 browsing data with us, so that we can enrich our threat-intelligence
-dataset. For doing these things you can receive $ILOCK Tokens, which you
+dataset. For doing these things you can receive $INTR Tokens, which you
 can exchange for other currencies at an exchange, or use them with our
 other products. You can also use these tokens to *stake* any
 grey-area-entities that we have accumulated (i.e. entities that our
@@ -144,7 +144,7 @@ attacks and block advertisements &mdash; you can also use it to interact
 with the Interlock Network.
 
 ## How do people get compensated on your network?
-People earn $ILOCK Tokens either by using our extension passively, 
+People earn $INTR Tokens either by using our extension passively, 
 optionally and anonymously sharing a subset of their browsing data,
 or by actively flagging and staking grey-area-entities.
 
@@ -154,11 +154,11 @@ we plan on doing a DAICO.
 
 ## This sounds cool and I would like to be involved &mdash; are you accepting any kind of coding contributions?
 We are fully open source and will happily accept coding contributions.
-We are considering financing bug bounty programs using our $ILOCK Token.
+We are considering financing bug bounty programs using our $INTR Token.
 
 ## This sounds cool and I would like to be involved &mdash; are you accepting any kind of writing contributions?
 We would appreciate any kind of documentation or evangelism in the form
-of writing. We would happily compensate you using the $ILOCK Token.
+of writing. We would happily compensate you using the $INTR Token.
 
 ## This sounds cool and I would like to be involved &mdash; is there a place where I can ask questions and participate in discussions?
 We have a [Discord](https://discord.gg/quRza7VV) channel, a Telegram

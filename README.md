@@ -13,7 +13,7 @@ Interlock is a data platform enabling intelligence and operational security, cha
 %%{init: { 'theme': 'forest' } }%%
 graph LR
     A[Browse the internet] --> B{Choose data to share}
-    B -->|Share security data| C[Earn INTER token]
+    B -->|Share security data| C[Earn INTR token]
     B -->|Stay private| D[Stay protected from online scams]
 ```
 
