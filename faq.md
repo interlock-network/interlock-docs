@@ -25,7 +25,7 @@ Interlock Network. And lastly, Solana's growing popularity will help us
 attract new contributors to the project. We chose to mint out tokens on
 Ethereum because that chain has a large user-base and ecosystem and we
 would like to be compatible with it. To that end we use Wormhole to
-allow people to transfer their $ILOCK Tokens between chains.
+allow people to transfer their $INTR Tokens between chains.
 
 ## What problem are you trying to solve?
 We are trying to democratize and decentralize *trust* on the internet.
@@ -92,7 +92,7 @@ any sensitive information to said website. The extension also allows you
 to flag harmful websites that we miss, or unflag nonharmful websites.
 You can also choose to share some/all/none (the default is none) of your
 browsing data with us, so that we can enrich our threat-intelligence
-dataset. For doing these things you can receive $ILOCK Tokens, which you
+dataset. For doing these things you can receive $INTR Tokens, which you
 can exchange for other currencies at an exchange, or use them with our
 other products. You can also use these tokens to *stake* any
 grey-area-entities that we have accumulated (i.e. entities that our
