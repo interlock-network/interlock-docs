@@ -144,7 +144,7 @@ attacks and block advertisements &mdash; you can also use it to interact
 with the Interlock Network.
 
 ## How do people get compensated on your network?
-People earn $ILOCK Tokens either by using our extension passively, 
+People earn $INTR Tokens either by using our extension passively, 
 optionally and anonymously sharing a subset of their browsing data,
 or by actively flagging and staking grey-area-entities.
 
@@ -154,11 +154,11 @@ we plan on doing a DAICO.
 
 ## This sounds cool and I would like to be involved &mdash; are you accepting any kind of coding contributions?
 We are fully open source and will happily accept coding contributions.
-We are considering financing bug bounty programs using our $ILOCK Token.
+We are considering financing bug bounty programs using our $INTR Token.
 
 ## This sounds cool and I would like to be involved &mdash; are you accepting any kind of writing contributions?
 We would appreciate any kind of documentation or evangelism in the form
-of writing. We would happily compensate you using the $ILOCK Token.
+of writing. We would happily compensate you using the $INTR Token.
 
 ## This sounds cool and I would like to be involved &mdash; is there a place where I can ask questions and participate in discussions?
 We have a [Discord](https://discord.gg/quRza7VV) channel, a Telegram
