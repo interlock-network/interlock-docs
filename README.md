@@ -23,8 +23,8 @@ crypto-currency tokens for contributing security and analytics data they control
 We are calling the space DeSec, the first of its kind decentralized security and intelligence. The first application in the ecosystem, as an example, is Airlock an anti-phishing and threat sharing platform that is a browser extension you can install and use; however, Airlock does not yet support blockchain and token earning, that is still a work-in-progress.
 
 ## Roadmap
-<img width="1445" alt="Screen Shot 2022-02-17 at 1 57 24 PM" src="https://user-images.githubusercontent.com/3850344/154554132-462a61c5-5188-415d-a9a4-74b6a797c9f4.png">
 
+![Interlock_Timeline](https://user-images.githubusercontent.com/3850344/156760704-4fdd448e-db4e-4c22-9115-ad830c18f547.png)
 
 **Want to join our team?**
 
