@@ -24,7 +24,8 @@ We are calling the space DeSec, the first of its kind decentralized security and
 
 ## Roadmap
 
-![Interlock_Timeline](https://user-images.githubusercontent.com/3850344/156760704-4fdd448e-db4e-4c22-9115-ad830c18f547.png)
+![Interlock_Timeline](https://user-images.githubusercontent.com/3850344/157753993-d6db2c61-3db6-4610-9147-78907c6a6ed7.png)
+
 
 **Want to join our team?**
 
