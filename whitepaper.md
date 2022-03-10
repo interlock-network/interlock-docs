@@ -559,6 +559,9 @@ Here are the first 3 years of emissions, divided into half-year periods.
  least_ 20% of revenue to buy-back tokens. Once bought tokens may
  be burned or used to contribute to the network (i.e. by financing
  the rewards-pool for users, etc).
+ 
+ ![Interlock_Token_Flow](https://user-images.githubusercontent.com/3850344/157752607-8f502aa6-f407-4ecd-9f48-873fa0902219.jpeg)
+ 
 
 ### Staking and Earning
 Even though we touched on it earlier, we feel it bears repeating under
