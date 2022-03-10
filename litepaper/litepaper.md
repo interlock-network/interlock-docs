@@ -112,7 +112,7 @@ protect their customers.
 ![Interlock_Token_Flow](https://user-images.githubusercontent.com/3850344/157752735-204d1fdf-6df5-4283-8ca0-17fcdaac4446.jpeg)
 
 
-![Interlock_Timeline](https://user-images.githubusercontent.com/3850344/156760821-e87e7485-1ed2-45a4-a943-a1be517620a9.png)
+![Interlock_Timeline](https://user-images.githubusercontent.com/3850344/157753800-d52c452c-1d10-4f72-b0bf-60e94a96b8a8.png)
 
 Please see the FAQ and technical whitepaper for more details and
 information.
