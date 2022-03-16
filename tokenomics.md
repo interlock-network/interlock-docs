@@ -29,7 +29,6 @@
 | Foundation |  | 0\.1960444444 | 196044444\.4 |  |  |  |  |  |
 | Strategic Partners |  | 0\.037 | 37000000 |  |  |  |  |  |
 | Total |  | 1 | 1000000000 |  |  |  |  |  |
-|  |  | Check | Check |  |  |  |  |  |
 |  |  |  |  |  |  |  |  |  |
 | Token Vesting Schedule |  |  |  |  |  |  |  |  |
 |  |  | Monthly Payments | Initial Cliff | Vesting Starts | Vesting Ends | Monthly |  |  |
