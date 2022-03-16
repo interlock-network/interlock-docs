@@ -5,9 +5,7 @@ icon: home
 
 # About
 
-Interlock is a data platform enabling intelligence and operational security, changing the cybersecurity paradigm with blockchain. Decentralized security, incentivized for everyone. 
-
-[Want to try Interlock? Sign up for early access](https://www.interlock.network/)
+Interlock protects DeFi while rewarding the people who make it safer.
 
 ```mermaid
 %%{init: { 'theme': 'forest' } }%%
@@ -17,10 +15,19 @@ graph LR
     B -->|Stay private| D[Stay protected from online scams]
 ```
 
-Interlock is an ecosystem of Security and Analytics tools where people can be rewarded with 
-crypto-currency tokens for contributing security and analytics data they control.
+You shouldn't have to worry about your tokens getting stolen or networks getting hacked. We are building out the world's first decentralized threat intelligence 
+platform that strengthens the world’s ability to battle online threats. We’re creating an ecosystem of community-driven security products to protect DeFi, where 
+people earn $INTR tokens for sharing anonymized data they control.
 
 We are calling the space DeSec, the first of its kind decentralized security and intelligence. The first application in the ecosystem, as an example, is Airlock an anti-phishing and threat sharing platform that is a browser extension you can install and use; however, Airlock does not yet support blockchain and token earning, that is still a work-in-progress.
+
+**Want to try Interlock?**
+
+[Sign up for early access](https://www.interlock.network/)
+
+**Want to join our team?**
+
+[Check out what we're hiring for](https://interlock.breezy.hr/)
 
 ## Roadmap
 
@@ -30,9 +37,6 @@ We are calling the space DeSec, the first of its kind decentralized security and
 
 [View Tokenomics](tokenomics.md)
 
-**Want to join our team?**
-
-[Check out what we're hiring for](https://interlock.breezy.hr/)
 
 ## Useful links
 * [Join us on Discord](https://discord.gg/YuxsG8znG2)
