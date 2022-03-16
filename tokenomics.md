@@ -1,1 +1,1 @@
-[Interlock Token Allocation - Tokenomics (5).pdf](https://github.com/interlock-network/interlock-whitepaper/files/8272631/Interlock.Token.Allocation.-.Tokenomics.5.pdf)
+![Interlock Token Allocation - Tokenomics](https://user-images.githubusercontent.com/3850344/158683050-2888545e-3630-4e22-ac52-eec16ab2f15a.png)
