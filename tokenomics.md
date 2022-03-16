@@ -28,7 +28,7 @@
 | Community/Rewards |  | 30 | 300000000 |  |  |  |  |  |
 | Foundation |  |19.60444444 | 196044444\.4 |  |  |  |  |  |
 | Strategic Partners |  | 3.7 | 37000000 |  |  |  |  |  |
-| Total |  | 1 | 1000000000 |  |  |  |  |  |
+| Total |  | 100 | 1000000000 |  |  |  |  |  |
 |  |  |  |  |  |  |  |  |  |
 | Token Vesting Schedule |  |  |  |  |  |  |  |  |
 |  |  | Monthly Payments | Initial Cliff | Vesting Starts | Vesting Ends | Monthly |  |  |
