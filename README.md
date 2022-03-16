@@ -28,8 +28,6 @@ We are calling the space DeSec, the first of its kind decentralized security and
 
 ## Tokenomics
 
-[Tokenomics](tokenomics)
-
 **Want to join our team?**
 
 [Check out what we're hiring for](https://interlock.breezy.hr/)
