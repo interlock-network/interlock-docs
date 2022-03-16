@@ -17,17 +17,17 @@
 |  |  |  |  |  |  |  |  |  |
 | Token Distribution Scheme |  |  |  |  |  |  |  |  |
 |  |  | % of Tokens | \# of Tokens |  |  |  |  |  |
-| Early Backers/Angels |  | 0\.02 | 20000000 |  |  |  |  |  |
-| Pre\-sale 1 |  | 0\.04862222222 | 48622222\.22 |  |  |  |  |  |
-| Pre\-sale 2 |  | 0\.05 | 50000000 |  |  |  |  |  |
-| Pre\-sale 3 |  | 0\.03333333333 | 33333333\.33 |  |  |  |  |  |
-| Public Sale \(Up to\) |  | 0\.05 | 50000000 |  |  |  |  |  |
-| Founder/Team |  | 0\.2 | 200000000 |  |  |  |  |  |
-| Outlier Ventures |  | 0\.04 | 40000000 |  |  |  |  |  |
-| Advisors |  | 0\.025 | 25000000 |  |  |  |  |  |
-| Community/Rewards |  | 0\.3 | 300000000 |  |  |  |  |  |
-| Foundation |  | 0\.1960444444 | 196044444\.4 |  |  |  |  |  |
-| Strategic Partners |  | 0\.037 | 37000000 |  |  |  |  |  |
+| Early Backers/Angels |  | 2 | 20000000 |  |  |  |  |  |
+| Pre\-sale 1 |  | 4.862222222 | 48622222\.22 |  |  |  |  |  |
+| Pre\-sale 2 |  | 5 | 50000000 |  |  |  |  |  |
+| Pre\-sale 3 |  | 3.333333333 | 33333333\.33 |  |  |  |  |  |
+| Public Sale \(Up to\) |  | 5 | 50000000 |  |  |  |  |  |
+| Founder/Team |  | 20 | 200000000 |  |  |  |  |  |
+| Outlier Ventures |  | 4 | 40000000 |  |  |  |  |  |
+| Advisors |  | 2.5 | 25000000 |  |  |  |  |  |
+| Community/Rewards |  | 30 | 300000000 |  |  |  |  |  |
+| Foundation |  |19.60444444 | 196044444\.4 |  |  |  |  |  |
+| Strategic Partners |  | 3.7 | 37000000 |  |  |  |  |  |
 | Total |  | 1 | 1000000000 |  |  |  |  |  |
 |  |  |  |  |  |  |  |  |  |
 | Token Vesting Schedule |  |  |  |  |  |  |  |  |
