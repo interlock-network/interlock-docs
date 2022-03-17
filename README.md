@@ -19,7 +19,7 @@ You shouldn't have to worry about your tokens getting stolen or networks getting
 platform that strengthens the world’s ability to battle online threats. We’re creating an ecosystem of community-driven security products to protect DeFi, where 
 people earn $INTR tokens for sharing anonymized data they control.
 
-We are calling the space DeSec, the first of its kind decentralized security and intelligence. The first application in the ecosystem, as an example, is Airlock an anti-phishing and threat sharing platform that is a browser extension you can install and use; however, Airlock does not yet support blockchain and token earning, that is still a work-in-progress.
+We are calling the space DeSec, the first of its kind decentralized security and intelligence. The first application in the ecosystem, as an example, is an anti-phishing and threat sharing platform that is a browser extension you can install and use; however, it does not yet support blockchain and token earning, that is still a work-in-progress.
 
 **Want to try Interlock?**
 
