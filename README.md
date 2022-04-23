@@ -21,11 +21,7 @@ people earn $INTR tokens for sharing anonymized data they control.
 
 We are calling the space DeSec, the first of its kind decentralized security and intelligence. The first application in the ecosystem, as an example, is an anti-phishing and threat sharing platform that is a browser extension you can install and use; however, it does not yet support blockchain and token earning, that is still a work-in-progress.
 
-**Want to try Interlock?**
-
-[Sign up for early access](https://www.interlock.network/)
-
-**Interested in getting whitelist?**
+**Want to try Interlock? Enter for a spot on the Whitelist if you are.**
 
 [Whitelist Info](https://bit.ly/INTRwhitelist)
 
@@ -47,6 +43,7 @@ We are calling the space DeSec, the first of its kind decentralized security and
 * [Join our Telegram](https://t.me/interlockchat)
 * [Follow us on Twitter](https://www.twitter.com/interlockweb3)
 * [Join us on Reddit](https://www.reddit.com/r/interlocknetwork)
+* [Check out our FAQ](faq.md#frequently-asked-questions)
 * [Airlock Security Platform](https://airlock.security)
 
 ## Support & Bug reports
@@ -59,14 +56,15 @@ the [Issues tab](https://github.com/interlock-network/interlock-whitepaper/issue
 * [pspace](https://github.com/justerhan) - Project Owner & CTO
 * [rickdeaconx](https://github.com/rickdeaconx) - Project Owner & CEO
 * [galactic-beyond](https://github.com/galactic-beyond) - Project Owner & Principal Engineer
-* andycheech - Chief of Marketing
+* [andycheech](https://github.com/andycheech) - Chief of Marketing
 * [mozberg](https://github.com/championshuttler) - Community Manager
 * [JohnnyUtah](https://github.com/teachrdan) - Product Manager
 * [jmercouris](https://github.com/jmercouris) - Sr. Engineer
+* [blairmonroakusa](https://github.com/blairmunroakusa) - Software Engineer
 * [memechoi](http://chasehoch.com/) - Creative & Design Lead
-* [treevuhh](https://github.com/Treevuhh) - Executive Business Assistant
-* [We're Hiring](https://interlock.breezy.hr/)
+* [treevuhh](https://github.com/Treevuhh) - Chaos Operations Coordinator
+* [We're Hiring](https://interlock.breezy.hr/) 
 
 **Credits**
 
-[Interlock](https://interlock-network.github.io/interlock-whitepaper/litepaper/litepaper/) is a decentralized, global team.
+[Interlock](litepaper/#litepaper) is a decentralized, global team.
