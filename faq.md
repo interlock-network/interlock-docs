@@ -56,8 +56,8 @@ We're REALLY excited about our bounty hunters. Keep an eye on our socials in the
 
 2. We have an enterprise product and we’re making this strong security available to everyone, everywhere! The enterprise product is live and has paying customers with thousands of users. Our consumer version will be just as powerful.</details>
 
-<details>
-  <summary><h4>As DeFi projects become more popular, there have been many attacks and millions in losses. <p> What security approaches will you implement in the DeFi apps on your blockchain<p> that will give investors confidence about the safety of their crypto assets?</h4></summary>
+<details><summary><h4>As DeFi projects become more popular, there have been many attacks and millions in losses.What security approaches will you<p> implement in the
+   DeFi apps on your blockchain that will give investors confidence about the safety of their crypto assets?</h4></summary>
   
 We'll be protecting projects and individuals, differently but cohesively. By integrating our Trust & Safety products into projects, it will enable people to understand risk and prevent fraud before they sign that wrong smart contract or interact with a malicious user.
   
@@ -86,7 +86,7 @@ Interlock maintains and grows a visual model database of over 67.83 billion page
 Our browser extension uses this database to account for context within the browser in order to identify malicious sites in real-time — even if they’ve never been reported or seen before.</details>
 
 <details> 
-  <summary><h4>Is this a web browser? <p>Is it a VPN?</h4></summary>
+  <summary><h4>Is this a web browser? Is it a VPN?</h4></summary>
 
 No, our consumer product is a browser extension you can install in your favorite browser, be it Firefox or a Chromium-based browser.</details>
 
