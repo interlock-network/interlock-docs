@@ -63,6 +63,7 @@ the [Issues tab](https://github.com/interlock-network/interlock-whitepaper/issue
 * [blairmonroakusa](https://github.com/blairmunroakusa) - Software Engineer
 * [memechoi](http://chasehoch.com/) - Creative & Design Lead
 * [treevuhh](https://github.com/Treevuhh) - Chaos Operations Coordinator
+* New Hire - Content Manager
 * [We're Hiring](https://interlock.breezy.hr/) 
 
 **Credits**
