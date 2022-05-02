@@ -109,7 +109,7 @@ KYC. This data is then used by us and our partners (i.e. crypto-currency
 exchanges and other commercial entities) to improve their products and
 protect their customers.
 
-![Interlock_Token_Flow](https://user-images.githubusercontent.com/3850344/157752735-204d1fdf-6df5-4283-8ca0-17fcdaac4446.jpeg)
+![TokenFlow](https://user-images.githubusercontent.com/3850344/166294045-4142af5a-3a6f-4445-a690-09c8b50970e9.png)
 
 
 ![Interlock_Timeline](https://user-images.githubusercontent.com/3850344/157753800-d52c452c-1d10-4f72-b0bf-60e94a96b8a8.png)
