@@ -31,7 +31,7 @@ We are calling the space DeSec, the first of its kind decentralized security and
 
 ## Roadmap
 
-![Interlock_Timeline](https://user-images.githubusercontent.com/3850344/157753993-d6db2c61-3db6-4610-9147-78907c6a6ed7.png)
+![Interlock_Timeline](https://cdn.discordapp.com/attachments/912768323408764988/984870635446620230/Timeline.png)
 
 ## Tokenomics
 
@@ -52,18 +52,19 @@ We are usually available to chat at our [Discord](https://discord.gg/PbCYBbynqd)
 any questions or just talk to the developers about how great their day is today :) As for bug reports, please use
 the [Issues tab](https://github.com/interlock-network/interlock-whitepaper/issues) and create a new issue, whether it's a typo in the white paper or you want something added/removed.
 
-## The team
+## The Team
 * [pspace](https://github.com/justerhan) - Project Owner & CTO
 * [rickdeaconx](https://github.com/rickdeaconx) - Project Owner & CEO
 * [galactic-beyond](https://github.com/galactic-beyond) - Project Owner & Principal Engineer
 * [andycheech](https://github.com/andycheech) - Chief of Marketing
-* [mozberg](https://github.com/championshuttler) - Community Manager
 * [JohnnyUtah](https://github.com/teachrdan) - Product Manager
 * [jmercouris](https://github.com/jmercouris) - Sr. Engineer
 * [blairmonroakusa](https://github.com/blairmunroakusa) - Software Engineer
 * [memechoi](http://chasehoch.com/) - Creative & Design Lead
 * [treevuhh](https://github.com/Treevuhh) - Chaos Operations Coordinator
-* New Hire - Content Manager
+* [Jjhakimoto](https://github.com/Jjhakimoto) - Content Manager
+* New Hire Reuben - Community Manager
+* New Hire Hakan - Community Manager
 * [We're Hiring](https://interlock.breezy.hr/) 
 
 **Credits**
