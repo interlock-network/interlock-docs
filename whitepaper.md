@@ -576,7 +576,7 @@ licensing discounts. Data-Buyers can buy and stake tokens for data
 discounts. Visual learners may appreciate the diagram below.
 
 
-![Interlock_Timeline](https://user-images.githubusercontent.com/3850344/157753901-2c8616c0-c216-4342-9207-ac6925026630.png)
+![Interlock_Timeline](https://cdn.discordapp.com/attachments/912768323408764988/984870635446620230/Timeline.png)
 
 ### Investing and Governance
 We are evaluating different governance models. Stay tuned.
@@ -599,15 +599,18 @@ a vote. We believe that there are very few *true* and *unresolvable*
 contradictions in engineering. Proposals can be resubmitted for voting.
 
 ## What's Next
-### security industry and interlock
+
+
+### Security industry and Interlock
 We are currently migrating this content from the original whitepaper,
 check back later.
 
-### ecosystem and frictions
+### Ecosystem and frictions
 We are currently migrating this content from the original whitepaper,
 check back later.
 
-### phishing statistics
+### Phishing statistics
 We are currently migrating this content from the original whitepaper,
 check back later.
 
+### Check out our new [Website](interlock.network) for more!
