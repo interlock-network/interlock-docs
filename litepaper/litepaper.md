@@ -112,9 +112,10 @@ protect their customers.
 ![TokenFlow](https://user-images.githubusercontent.com/3850344/166294045-4142af5a-3a6f-4445-a690-09c8b50970e9.png)
 
 
-![Interlock_Timeline](https://user-images.githubusercontent.com/3850344/157753800-d52c452c-1d10-4f72-b0bf-60e94a96b8a8.png)
+![Interlock_Timeline](https://cdn.discordapp.com/attachments/912768323408764988/984870635446620230/Timeline.png)
 
-Please see the FAQ and technical whitepaper for more details and
+Please see the [FAQ](https://github.com/interlock-network/interlock-whitepaper/blob/master/faq.md) and 
+[technical whitepaper](https://github.com/interlock-network/interlock-whitepaper/blob/master/whitepaper.md) for more details and
 information.
 
 ## Emission Schedule
