@@ -13,8 +13,8 @@ For us, seeing all the problems in web2 and traditional finance, we wanted to ma
 <details><summary><h4>It’s common knowledge that smart contracts are vulnerable to attack and auditing is expensive. <p>Has Interlock been audited?</h4></summary><p> Of course. Being that we're a security company we take auditing, both from a smart contract perspective, as well as from a security perspective, very seriously. Our smart contracts are going through rigorous auditing now and into the future using the best companies we can find. Most of my time as a professional hacker involved a form of auditing, so I will vet all auditors at a higher standard than most. </details>
 
 <details>
-<summary><h4>Why should I buy $INTR tokens when the current market is so unstable? <p>Also, why should your token holder keep holding? What are the key features of your project that will benefit Interlock users?</h4></summary>
- We believe that $INTR token will grow in value because it's tied to tangible outcomes for our users and customers. For example, our enterprise customers will use $INTR to buy threat data from us—and our users will be paid for generating that threat data while staying protected with our browser extension. This creates an immediate market for our token. Everyone who joins into the project early will be part of that growth journey and we want early adopters to see our ecosystem grow into more and more products that benefit individuals, enterprises, and most importantly, Web3.</details>
+<summary><h4>Why should I buy $ILOCK tokens when the current market is so unstable? <p>Also, why should your token holder keep holding? What are the key features of your project that will benefit Interlock users?</h4></summary>
+ We believe that $ILOCK token will grow in value because it's tied to tangible outcomes for our users and customers. For example, our enterprise customers will use $ILOCK to buy threat data from us—and our users will be paid for generating that threat data while staying protected with our browser extension. This creates an immediate market for our token. Everyone who joins into the project early will be part of that growth journey and we want early adopters to see our ecosystem grow into more and more products that benefit individuals, enterprises, and most importantly, Web3.</details>
 
 <details>
 <summary><h4>Could you please share your future roadmap?</h4></summary>
@@ -43,11 +43,11 @@ We will definitely consider making more training content but thankfully on the p
 For now, feel free to join our social channels to keep up with us and chat about what we do, someone is always around: https://linktr.ee/interlockWeb3 </details>
 
 <details>
-  <summary><h4>I saw that there will be “security stakers” who will earn $INTR tokens by staking harmless gray area entities. <p>Can you explain more about it? How can I participate?</h4></summary>
+  <summary><h4>I saw that there will be “security stakers” who will earn $ILOCK tokens by staking harmless gray area entities. <p>Can you explain more about it? How can I participate?</h4></summary>
 
 You’re talking about our bounty hunter group, which is on our roadmap for later this year. It will be a special, invite-only group with extremely cool prizes and rewards: Think NFTs, extra tokens, and prestigious positions in the network.
 
-We're REALLY excited about our bounty hunters. Keep an eye on our socials in the future where we'll share more details about how you can become one and earn $INTR by securing the internet.</details>
+We're REALLY excited about our bounty hunters. Keep an eye on our socials in the future where we'll share more details about how you can become one and earn $ILOCK by securing the internet.</details>
 
 <details>
   <summary><h4>What are Interlock’s killer features?</h4></summary>
@@ -144,7 +144,7 @@ Interlock Network. And lastly, Solana's growing popularity will help us
 attract new contributors to the project. We chose to mint out tokens on
 Ethereum because that chain has a large user-base and ecosystem and we
 would like to be compatible with it. To that end we use Wormhole to
-allow people to transfer their $INTR Tokens between chains.</details>
+allow people to transfer their $ILOCK Tokens between chains.</details>
 
 <details>
   <summary><h4>What is the difference between you and MSFT ION?</h4></summary>
@@ -160,7 +160,7 @@ any sensitive information to said website. The extension also allows you
 to flag harmful websites that we miss, or unflag nonharmful websites.
 You can also choose to share some/all/none (the default is none) of your
 browsing data with us, so that we can enrich our threat-intelligence
-dataset. For doing these things you can receive $INTR Tokens, which you
+dataset. For doing these things you can receive $ILOCK Tokens, which you
 can exchange for other currencies at an exchange, or use them with our
 other products. You can also use these tokens to *stake* any
 grey-area-entities that we have accumulated (i.e. entities that our
@@ -219,7 +219,7 @@ with the Interlock Network.</details>
 
 <details> 
   <summary><h4>How do people get compensated on your network?</h4></summary>
-People earn $INTR Tokens in many ways some being by using our extension passively and anonymously 
+People earn $ILOCK Tokens in many ways some being by using our extension passively and anonymously 
 sharing a subset of their browsing data, or by actively flagging and staking grey-area-entities. With many other 
 options still being explored.</details>
 
@@ -254,12 +254,12 @@ we plan on doing a DAICO.</details>
 <details>
   <summary><h4>This sounds cool. <p>I would like to be involved &mdash; are you accepting any kind of coding contributions?</h4></summary>
 We are fully open source and will happily accept coding contributions.
-Also, keep an eye out for updates because we are planning on financing bug bounty programs using our $INTR Token in the future. </details>
+Also, keep an eye out for updates because we are planning on financing bug bounty programs using our $ILOCK Token in the future. </details>
 
 <details>
   <summary><h4>This sounds cool. <p>I would like to be involved &mdash; are you accepting any kind of writing contributions?</h4></summary>
 We would appreciate any kind of documentation or evangelism in the form
-of writing. We would happily compensate you using the $INTR Token.</details>
+of writing. We would happily compensate you using the $ILOCK Token.</details>
 
 <h4>Is there an Interlock Community?</h4>
 
