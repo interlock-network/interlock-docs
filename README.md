@@ -11,13 +11,13 @@ Interlock protects DeFi while rewarding the people who make it safer.
 %%{init: { 'theme': 'forest' } }%%
 graph LR
     A[Browse the internet] --> B{Choose data to share}
-    B -->|Share security data| C[Earn INTR token]
+    B -->|Share security data| C[Earn ILOCK token]
     B -->|Stay private| D[Stay protected from online scams]
 ```
 
 You shouldn't have to worry about your tokens getting stolen or networks getting hacked. We are building out the world's first decentralized threat intelligence 
 platform that strengthens the world’s ability to battle online threats. We’re creating an ecosystem of community-driven security products to protect DeFi, where 
-people earn $INTR tokens for sharing anonymized data they control.
+people earn $ILOCK tokens for sharing anonymized data they control.
 
 We are calling the space DeSec, the first of its kind decentralized security and intelligence. The first application in the ecosystem, as an example, is an anti-phishing and threat sharing platform that is a browser extension you can install and use; however, it does not yet support blockchain and token earning, that is still a work-in-progress.
 
@@ -31,7 +31,7 @@ We are calling the space DeSec, the first of its kind decentralized security and
 
 ## Roadmap
 
-![Interlock_Timeline](https://cdn.discordapp.com/attachments/912768323408764988/984870635446620230/Timeline.png)
+![Interlock_Timeline](https://cdn.discordapp.com/attachments/864979788309725244/994297251981701131/Timeline.png)
 
 ## Tokenomics
 
