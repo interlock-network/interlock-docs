@@ -112,7 +112,7 @@ protect their customers.
 ![TokenFlow](https://user-images.githubusercontent.com/3850344/166294045-4142af5a-3a6f-4445-a690-09c8b50970e9.png)
 
 
-![Interlock_Timeline](https://cdn.discordapp.com/attachments/912768323408764988/984870635446620230/Timeline.png)
+![Interlock_Timeline](https://cdn.discordapp.com/attachments/864979788309725244/994297251981701131/Timeline.png)
 
 Please see the [FAQ](https://github.com/interlock-network/interlock-whitepaper/blob/master/faq.md) and 
 [technical whitepaper](https://github.com/interlock-network/interlock-whitepaper/blob/master/whitepaper.md) for more details and
