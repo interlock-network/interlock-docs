@@ -613,4 +613,4 @@ check back later.
 We are currently migrating this content from the original whitepaper,
 check back later.
 
-### Check out our new [Website](interlock.network) for more!
+### Check out our new [Website](https://www.interlock.network/) for more!
