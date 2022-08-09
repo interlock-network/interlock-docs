@@ -4,6 +4,7 @@ import mathjax3 from 'markdown-it-mathjax3';
 export default {
   title: 'Interlock',
   description: 'Interlock tokenomics documentation',
+  base: '/interlock-whitepaper/',
   themeConfig: {
     logo: '/img/logo.png',
     siteTitle: false,
