@@ -5,6 +5,9 @@ export default {
   title: 'Interlock',
   description: 'Interlock tokenomics documentation',
   base: '/interlock-whitepaper/',
+  head: [
+    ['link', { rel: 'icon', href: '/interlock-whitepaper/favicon.ico' }],
+  ],
   themeConfig: {
     logo: '/img/logo.png',
     siteTitle: false,

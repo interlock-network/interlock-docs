@@ -1,5 +1,5 @@
-[View Interlock Whitepaper](https://interlock-network.github.io/interlock-whitepaper/)
-[Interlock Homepage](https://interlock.network)
+- [View Interlock Whitepaper](https://interlock-network.github.io/interlock-whitepaper/)
+- [Interlock Homepage](https://interlock.network)
 
 # Building locally
 
