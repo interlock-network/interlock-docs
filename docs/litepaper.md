@@ -169,5 +169,5 @@ Interlock mints a maximum of 1 billion tokens, and pledges to spend _at
 
  ## Download PDF
 
- [Litepaper PDF](/pdf/litepaper.pdf)
+ [Litepaper PDF](./pdf/litepaper.pdf)
 

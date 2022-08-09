@@ -618,4 +618,4 @@ check back later.
 
 ## Download PDF
 
- [Whitepaper PDF](/pdf/whitepaper.pdf)
+ [Whitepaper PDF](./pdf/whitepaper.pdf)
