@@ -64,7 +64,7 @@ the [Issues tab](https://github.com/interlock-network/interlock-whitepaper/issue
 * [andycheech](https://github.com/andycheech) - Chief of Marketing
 * [JohnnyUtah](https://github.com/teachrdan) - Product Manager
 * [jmercouris](https://github.com/jmercouris) - Sr. Engineer
-* [blairmonroakusa](https://github.com/blairmunroakusa) - Software Engineer
+* [blairmunroakusa](https://github.com/blairmunroakusa) - Software Engineer
 * [memechoi](http://chasehoch.com/) - Creative & Design Lead
 * [treevuhh](https://github.com/Treevuhh) - Chaos Operations Coordinator
 * [Jjhakimoto](https://github.com/Jjhakimoto) - Content Manager
