@@ -48,7 +48,7 @@ Enter for a spot on the whitelist if you want to be notified when the community 
 * [Join our Telegram](https://t.me/interlockchat)
 * [Follow us on Twitter](https://www.twitter.com/interlockweb3)
 * [Join us on Reddit](https://www.reddit.com/r/interlocknetwork)
-* [Check out our FAQ](faq.md#frequently-asked-questions)
+* [Check out our FAQ](https://interlock-network.github.io/interlock-whitepaper/faq.html)
 * [Airlock Security Platform](https://airlock.security)
 
 ## Support & Bug reports
@@ -68,8 +68,9 @@ the [Issues tab](https://github.com/interlock-network/interlock-whitepaper/issue
 * [memechoi](http://chasehoch.com/) - Creative & Design Lead
 * [treevuhh](https://github.com/Treevuhh) - Chaos Operations Coordinator
 * [Jjhakimoto](https://github.com/Jjhakimoto) - Content Manager
-* New Hire Reuben - Community Manager
-* New Hire Hakan - Community Manager
+* New Hire @ReuX - Community Manager
+* New Hire @Eric_3.0 - Community Manager
+* New Hire @Kawaiivel - Moderator
 * [We're Hiring](https://interlock.breezy.hr/) 
 
 **Credits**
