@@ -16,13 +16,11 @@ For us, seeing all the problems in web2 and traditional finance, we wanted to ma
 :::
 ### Small investors are afraid of fraud. What can you tell us about long-term investment in your project?
 
-Why should we trust you
+Why should we trust you?
 
 We've been building startups for nearly 10 years, we're not going anywhere. 😉 That said, all of us have been doxed on our materials and none of us are hiding from view. We're here to make lasting value for everyone: investors, customers, community members, and ourselves.
 
-### It’s common knowledge that smart contracts are vulnerable to attack and auditing is expensive.
-
-Has Interlock been audited?
+### It’s common knowledge that smart contracts are vulnerable to attack and auditing is expensive. Has Interlock been audited?
 
 Of course. Being that we're a security company we take auditing, both from a smart contract perspective, as well as from a security perspective, very seriously. Our smart contracts are going through rigorous auditing now and into the future using the best companies we can find. Most of my time as a professional hacker involved a form of auditing, so I will vet all auditors at a higher standard than most.
 
@@ -40,9 +38,7 @@ Our roadmap is here: https://interlock-network.github.io/interlock-whitepaper/#r
 
 Yes, and that process hasn't stopped. Being that we've built startups since 2013, we always work to build what our customers and clients want most. We are still open to that feedback and want to continue to adapt to the needs of both customers and cybersecurity.
 
-### Many projects fail because the target audience and clients are not understood.
-
-Who is your ideal customer for your product?
+### Many projects fail because the target audience and clients are not understood. Who is your ideal customer for your product?
 
 Our ideal consumer customer is anyone who wants to stay safe from attacks online — especially DeFi users, who are constantly under attack from hackers and phishing attacks. Our ideal enterprise customer is a 100+ person company that is forward thinking, needs security for their browsers, and is in the fintech, technology, or financial sectors.
 
@@ -52,7 +48,7 @@ Is there some kind of educational program or some YouTube videos to make it easi
 
 We will definitely consider making more training content but thankfully on the product side, it's very easy! Once you install the extension, it does most of the work while you earn. More will come later for sure. For now, feel free to join our social channels to keep up with us and chat about what we do, someone is always around: https://linktr.ee/interlockWeb3
 
-### I saw that there will be “security stakers” who will earn $ILOCK tokens by staking harmless gray area entities.
+### I saw that there will be “security stakers” who will earn $ILOCK tokens by staking harmless gray area entities?
 
 Can you explain more about it? How can I participate?
 
@@ -62,9 +58,7 @@ You’re talking about our bounty hunter group, which is on our roadmap for late
 
 1. We're the first Web3 blockchain-based security company with a sensor network created by our users. Everyone with the extension is participating in making the network stronger for themselves and the companies/projects they use and like. This wasn't possible before blockchain and crypto! 2. We have an enterprise product and we’re making this strong security available to everyone, everywhere! The enterprise product is live and has paying customers with thousands of users. Our consumer version will be just as powerful.
 
-### As DeFi projects become more popular, there have been many attacks and millions in losses.What security approaches will you
-
-implement in the DeFi apps on your blockchain that will give investors confidence about the safety of their crypto assets?
+### As DeFi projects become more popular, there have been many attacks and millions in losses. What security approaches will you implement in the DeFi apps on your blockchain that will give investors confidence about the safety of their crypto assets?
 
 We'll be protecting projects and individuals, differently but cohesively. By integrating our Trust & Safety products into projects, it will enable people to understand risk and prevent fraud before they sign that wrong smart contract or interact with a malicious user. In the browser, we're actively stopping attacks across many facets, but mostly focusing on stopping malicious pages and bad downloads. We can also stop ice phishing and prevent you from interacting with bad contracts in your wallet.
 
@@ -134,7 +128,7 @@ Very simply, you install our extension, and it detects fraudulent websites as yo
 
 ### How did you implement this trust network?
 
-Please see our technical [Whitepaper](https://interlock-network.github.io/interlock-whitepaper/whitepaper/) and [Webstite](https://www.interlock.network/) for implementation details.
+Please see our technical [Whitepaper](https://interlock-network.github.io/interlock-whitepaper/whitepaper.html) and [Webstite](https://www.interlock.network/) for implementation details.
 
 ### What parts of your stack are open source?
 
