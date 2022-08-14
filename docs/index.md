@@ -48,7 +48,7 @@ Enter for a spot on the whitelist if you want to be notified when the community 
 * [Join our Telegram](https://t.me/interlockchat)
 * [Follow us on Twitter](https://www.twitter.com/interlockweb3)
 * [Join us on Reddit](https://www.reddit.com/r/interlocknetwork)
-* [Check out our FAQ](https://interlock-network.github.io/interlock-whitepaper/faq.html)
+* [Check out our FAQ](/faq)
 * [Airlock Security Platform](https://airlock.security)
 
 ## Support & Bug reports
