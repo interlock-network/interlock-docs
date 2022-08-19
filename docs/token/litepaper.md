@@ -116,8 +116,8 @@ protect their customers.
 
 ![Interlock_Timeline](https://cdn.discordapp.com/attachments/864979788309725244/994297251981701131/Timeline.png)
 
-Please see the [FAQ](https://github.com/interlock-network/interlock-whitepaper/blob/master/faq.md) and 
-[technical whitepaper](https://github.com/interlock-network/interlock-whitepaper/blob/master/whitepaper.md) for more details and
+Please see the [FAQ](https://github.com/interlock-network/interlock-docs/blob/master/faq.md) and 
+[technical whitepaper](https://github.com/interlock-network/interlock-docs/blob/master/whitepaper.md) for more details and
 information.
 
 ## Emission Schedule

@@ -3,10 +3,10 @@ import mathjax3 from 'markdown-it-mathjax3';
 
 export default {
   title: 'Interlock',
-  description: 'Interlock tokenomics documentation',
-  base: '/interlock-whitepaper/',
+  description: 'Interlock Network Documentation',
+  // base: '/interlock-docs/',
   head: [
-    ['link', { rel: 'icon', href: '/interlock-whitepaper/favicon.ico' }],
+    ['link', { rel: 'icon', href: '/favicon.ico' }],
   ],
   themeConfig: {
     logo: '/img/logo.png',
@@ -15,7 +15,7 @@ export default {
       copyright: 'Copyright © 2022 Interlock'
     },
     editLink: {
-      pattern: 'https://github.com/interlock-network/interlock-whitepaper/edit/main/docs/:path'
+      pattern: 'https://github.com/interlock-network/interlock-docs/edit/main/docs/:path'
     },
     socialLinks: [
       { icon: 'github', link: 'https://github.com/interlock-network' },
@@ -28,7 +28,7 @@ export default {
       {
         text: 'v1.0.0',
         items: [
-          { text: 'Changelog', link: 'https://github.com/interlock-network/interlock-whitepaper/commits/master' },
+          { text: 'Changelog', link: 'https://github.com/interlock-network/interlock-docs/commits/master' },
         ]
       }
     ],

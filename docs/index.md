@@ -55,7 +55,7 @@ Enter for a spot on the whitelist if you want to be notified when the community 
 
 We are usually available to chat at our [Discord](https://discord.gg/PbCYBbynqd) or [Telegram](https://t.me/+IxzitrEVH2A1ODYx), if you would like to ask
 any questions or just talk to the developers about how great their day is today :) As for bug reports, please use
-the [Issues tab](https://github.com/interlock-network/interlock-whitepaper/issues) and create a new issue, whether it's a typo in the white paper or you want something added/removed.
+the [Issues tab](https://github.com/interlock-network/interlock-docs/issues) and create a new issue, whether it's a typo in the white paper or you want something added/removed.
 
 ## The Team
 * [pspace](https://github.com/justerhan) - Project Owner & CTO

@@ -1,4 +1,4 @@
-- [View Interlock Whitepaper](https://interlock-network.github.io/interlock-whitepaper/)
+- [View Interlock Whitepaper](https://docs.interlock.network/token/whitepaper.html)
 - [Interlock Homepage](https://interlock.network)
 
 # Building locally
@@ -11,7 +11,7 @@ $ yarn install
 $ yarn docs:dev
 ```
 
-You may now view the site locally at `http://localhost:3000/interlock-whitepaper/`
+You may now view the site locally at `http://localhost:3000/`
 
 # Authoring content
 

@@ -32,7 +32,7 @@ We believe that $ILOCK token will grow in value because it's tied to tangible ou
 
 ### Could you please share your future roadmap?
 
-Our roadmap is here: https://interlock-network.github.io/interlock-whitepaper/#roadmap We add to the roadmap all the time, so please come back to it often!
+Here is the [roadmap](/#roadmap). We add to the roadmap all the time, so please come back to it often!
 
 ### Did you listen to community feedback/requests when you create new products or expand on existing ones?
 
@@ -128,7 +128,7 @@ Very simply, you install our extension, and it detects fraudulent websites as yo
 
 ### How did you implement this trust network?
 
-Please see our technical [Whitepaper](https://interlock-network.github.io/interlock-whitepaper/whitepaper.html) and [Webstite](https://www.interlock.network/) for implementation details.
+Please see our technical [Whitepaper](/token/whitepaper) and [Webstite](https://www.interlock.network/) for implementation details.
 
 ### What parts of your stack are open source?
 
