@@ -199,19 +199,19 @@ Between overthinking and rushing, there is a [golden mean](https://en.wikipedia.
 ## History
 
 ### 2014: Origins of Apozy
-In 2014, ethical hackers Rick and Erhan noticed that spear-phishing was a huge problem while working at large companies. They founded Apozy to make the workforce more resilient against phishing attacks and received seed funding.
+In 2014, ethical hackers [Rick](https://github.com/rickdeaconx) and [Erhan](https://github.com/justerhan) noticed that spear-phishing was the primary cause of breaches at large companies. They founded Apozy to make the workforce more resilient against phishing attacks.
 
 ### 2015: Apozy v1.0
-The first product of Apozy was created. An attack emulation platform that tested enterprise workforces with high-fidelity attack simulations. It leveraged machine learning to continuously test each person's "breach resistance" and generated training outcomes.
+A high-fidelity security awareness platform was created to test and train enterprise workforces. It was designed to continuously emulate real-world attacks and improve breach resilience.
 
 ### 2017: The YC days
-We noticed that despite strong breach resistance, almost every still fell for spear-phishing attacks. Our attention shifted away from training and focused on building a new product that could stop spear-phishing using state-of-the-art computer vision algorithms. Our product crawled the internet for visual indicators and used a browser extension to sandbox dangerous sites and phishing attempts in real-time.
+Despite strong breach resistance, spear-phishing attacks were too sophisticated. The product shifted away from training and focused on using emerging visual tech to spot phishing sites and sandbox them in real-time.
 
 ### 2020: Birth of Airlock
-Beyond just spear-phishing protection, the product evolved into comprehensive protection for the entire browser. That included protection against malicious extensions, malvertising and randsomware. We also added data capabilities to empower incident responders to investigate and analyze threats quickly.
+Protection capabilities advanced to provide comprehensive data and telemetry for malicious extensions, malvertising and randsomware.
 
 ### 2021: Interlock was founded
-We noticed our product was particularly loved by finance firms and crypto companies. We decided to lean into that space and founded **Interlock** alongside Nick Zivković to pioneer an ecosystem of security products made for Web3 and extend our browser protection features into smart contracts.
+With the addition of [Nick](https://github.com/galactic-beyond), we are pioneering an ecosystem of security products made for Web3 extending our protection capabilities to smart contracts while rewarding people who share data to make the internet safer.
 
 ## Why this way?
 
