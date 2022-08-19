@@ -1,4 +1,4 @@
-# Tokenomics
+# Launch and Initial Token Distribution
 
 Below are the [sale](#sale), [distribution](#distribution) and [vesting](#vesting) schedule of **$ILOCK** tokens.
 

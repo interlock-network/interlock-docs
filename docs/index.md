@@ -40,7 +40,7 @@ Enter for a spot on the whitelist if you want to be notified when the community 
 
 ## Tokenomics
 
-[View Tokenomics](tokenomics.md)
+[View token launch and supply](/token/supply)
 
 
 ## Useful links

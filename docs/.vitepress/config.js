@@ -45,11 +45,51 @@ export default {
       {
         collapsible: true,
         collapsed: false,
-        text: "Token Overview",
+        text: "ILOCK Token",
         items: [
-          { text: 'Litepaper', link: '/litepaper' },
-          { text: 'Whitepaper', link: '/whitepaper' },
-          { text: 'Tokenomics', link: '/tokenomics' },
+          { text: 'Launch & Supply', link: '/token/supply' },
+          { text: 'Litepaper', link: '/token/litepaper' },
+          { text: 'Whitepaper', link: '/token/whitepaper' },
+        ]
+      },
+      {
+        collapsible: true,
+        collapsed: false,
+        text: "Ecosystem",
+        items: [
+          // TODO Needs completion of airlock docs first
+          // { text: 'Airlock', link: 'https://docs.airlock.security' },
+          { text: 'Bouncer', link: '/ecosystem/bouncer' },
+        ]
+      },
+      {
+        collapsible: true,
+        collapsed: true,
+        text: "How We Work",
+        items: [
+          { text: 'Introduction', link: '/handbook/' },
+          { text: 'Company', link: '/handbook/company' },
+          { text: 'Founder', link: '/handbook/founders' },
+          // TODO these sections are WIP
+          // { text: 'Community', link: '/handbook/community' },
+          // { text: 'Customer', link: '/handbook/customers' },
+          // { text: 'Digital Experience', link: '/' },
+          // { text: 'Engineering', link: '/handbook/engineering' },
+          // { text: 'Growth', link: '/handbook/founders' },
+          // { text: 'People', link: '/handbook/people' },
+          // { text: 'Product', link: '/handbook/growth' },
+          // { text: 'Sales', link: '/handbook/sales' },
+          // { text: 'Security', link: '/handbook/security' },
+        ]
+      },
+      {
+        collapsible: true,
+        collapsed: true,
+        text: "Get Involved",
+        items: [
+          { text: 'Contribute', link: 'https://github.com/interlock-network' },
+          { text: 'Careers', link: 'https://interlock.breezy.hr/' },
+          { text: 'Discord', link: 'https://twitter.com/interlockweb3' }
         ]
       },
     ],
