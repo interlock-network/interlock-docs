@@ -2,7 +2,7 @@
 
 ## About
 
-Interlock is a blockchain network used to protect DeFi and govern cybersecurity data. We make cybersecurity software that costs **\$ILOCK** to secure people and sofware, but rewards **\$ILOCK** to people who make DeFi safer.
+Interlock is a blockchain network used to protect DeFi users and govern cybersecurity data. We make cybersecurity software that uses **\$ILOCK** to secure people and sofware, but rewards **\$ILOCK** to people who make DeFi safer.
 
 ## Vision
 **We want to protect the internet while rewarding the people who make it safer.**
@@ -207,11 +207,11 @@ A high-fidelity security awareness platform was created to test and train enterp
 ### 2017: The YC days
 Despite strong breach resistance, spear-phishing attacks were too sophisticated. The product shifted away from training and focused on using emerging visual tech to spot phishing sites and sandbox them in real-time.
 
-### 2020: Birth of Airlock
+### 2019: Birth of Airlock
 Protection capabilities advanced to provide comprehensive data and telemetry for malicious extensions, malvertising and randsomware.
 
 ### 2021: Interlock was founded
-With the addition of [Nick](https://github.com/galactic-beyond), we are pioneering an ecosystem of security products made for Web3 extending our protection capabilities to smart contracts while rewarding people who share data to make the internet safer.
+With the addition of [Nick](https://github.com/galactic-beyond), Interlock was founded. We are pioneering an ecosystem of security products made for Web3 extending our protection capabilities to smart contracts while rewarding people who share data to make the internet safer.
 
 ## Why this way?
 
