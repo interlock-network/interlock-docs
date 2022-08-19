@@ -191,6 +191,9 @@ Between overthinking and rushing, there is a [golden mean](https://en.wikipedia.
   - Declassify with care (easier to overlook confidential info when declassifying vs. when changing something that is already public from the get-go).
   - [Open source is forever](https://twitter.com/mikermcneil/status/1476799587423772674).
 - **Better your collaboration.**
+  - DM's can limit collaboration. Only DM to collaborate when it makes sense, most conversations can benefit from greater visibility. If you feel its too noisy for general channels, start a thread instead.
+  - If the conversation produces an actionable outcome, create a Github issue for it.
+  - If the conversation is relevant to an existing Github issue, be sure to update the issue after the conversation.
 
 
 ## History
