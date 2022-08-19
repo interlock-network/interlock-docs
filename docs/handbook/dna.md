@@ -1,4 +1,4 @@
-# Company
+# Our DNA
 
 ## About
 

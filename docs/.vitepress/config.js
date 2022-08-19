@@ -68,7 +68,7 @@ export default {
         text: "How We Work",
         items: [
           { text: 'Introduction', link: '/handbook/' },
-          { text: 'Company', link: '/handbook/company' },
+          { text: 'Our DNA', link: '/handbook/dna' },
           { text: 'Founder', link: '/handbook/founders' },
           // TODO these sections are WIP
           // { text: 'Community', link: '/handbook/community' },
