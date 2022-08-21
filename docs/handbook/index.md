@@ -6,7 +6,7 @@ The Interlock handbook is the central guide for how we run things. As part of ou
 
 ## Inspiration
 
-The Interlock handbook is inspired by the [GitLab team handbook](https://about.gitlab.com/handbook/) and resources from [YCombinator](https://www.ycombinator.com/).  It shares the same advantages and will probably undergo a similar evolution.
+The Interlock handbook is inspired by the [GitLab team handbook](https://about.gitlab.com/handbook/) and resources from [YCombinator](https://www.ycombinator.com/). It shares the same advantages and will probably undergo a similar evolution.
 
 While GitLab's handbook inspires this handbook, it is nowhere near as complete (yet!) We will continue adding and updating this handbook and gradually integrating information from Interlock's [knowledge base](https://github.com/interlock-network/knowledgebase-public) as time and growth permits.
 
