@@ -20,7 +20,7 @@ export default {
     socialLinks: [
       { icon: 'github', link: 'https://github.com/interlock-network' },
       { icon: 'twitter', link: 'https://twitter.com/interlockweb3' },
-      { icon: 'discord', link: 'https://twitter.com/interlockweb3' }
+      { icon: 'discord', link: 'https://bit.ly/intldiscord' }
     ],
     nav: [
       { text: 'Home', link: 'https://www.interlock.network' },
