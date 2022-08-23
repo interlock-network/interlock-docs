@@ -15,7 +15,7 @@ export default {
       copyright: 'Copyright © 2022 Interlock'
     },
     editLink: {
-      pattern: 'https://github.com/interlock-network/interlock-docs/edit/main/docs/:path'
+      pattern: 'https://github.com/interlock-network/interlock-docs/edit/master/docs/:path'
     },
     socialLinks: [
       { icon: 'github', link: 'https://github.com/interlock-network' },
