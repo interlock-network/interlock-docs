@@ -17,6 +17,10 @@ You may now view the site locally at `http://localhost:3000/`
 
 Modify `.md` files in `docs/` directory to update content
 
+# Updating navigation links (sidebar)
+
+Modify `docs/.vitepress/config.js` to update navigation links and theme settings
+
 # Deployment
 
 Site is automatically deployed to github pages using github actions file per commit on `master` branch.
