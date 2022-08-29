@@ -100,7 +100,7 @@ Yes, it will block nearly all types of internet advertising — everything from 
 
 ### Is my browsing data private and confidential?
 
-Interlock respects our users’ privacy. You choose exactly what data to share with us. The more you share, the more $INTR you earn. And you can always choose to share nothing at all!
+Interlock respects our users’ privacy. You choose exactly what data to share with us. The more you share, the more $ILOCK you earn. And you can always choose to share nothing at all!
 
 ### How do I get support?
 
