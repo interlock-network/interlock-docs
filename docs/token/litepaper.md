@@ -63,7 +63,7 @@ privacy and security can be improved by moving *trust* away from the
 center of the network (i.e. Facebook, Google, etc) to the *edges* of the
 network (i.e. directly into people's browsers and onto the blockchain).
 
-## Decentralizing Security with Solana-Ethereum Interlock Extension
+## Decentralizing Security with the Interlock Extension
 Security is a very difficult problem, and while much of the blame can be
 directed at the incentives of large tech corporations, some of it can
 also be directed at users feeling inconvenienced by security, for no
@@ -100,7 +100,7 @@ turn be used by the most successful _active_ stakers, to stake grey-area entitie
 The _active_ stakers get to take half of the yield of the tokens that were
 staked by _passive_ stakers.
 
-We use blockchain &mdash; a hybrid of Ethereum and Solana &mdash; as a
+We use the Aleph Zero blockchain as a
 decentralized and transparent open-source mechanism to facilitate the
 movement of tokens and the distribution of staking-rewards.
 
@@ -116,8 +116,8 @@ protect their customers.
 
 ![Interlock_Timeline](https://cdn.discordapp.com/attachments/864979788309725244/994297251981701131/Timeline.png)
 
-Please see the [FAQ](https://github.com/interlock-network/interlock-docs/blob/master/faq.md) and 
-[technical whitepaper](https://github.com/interlock-network/interlock-docs/blob/master/whitepaper.md) for more details and
+Please see the [FAQ](https://docs.interlock.network/faq.html) and 
+[technical whitepaper](https://docs.interlock.network/token/whitepaper.html) for more details and
 information.
 
 ## Emission Schedule
