@@ -491,26 +491,7 @@ onto the DeFi train) stay in compliance with the KYC regulations.
 
 ## Cryptonomics
 ### Interlock Token
-To back our smart-contracts and our token we have chosen the **Solana**
-blockchain technology as our transaction-processing platform-component
-and **Ethereum** as the platform-component on which we mint the actual
-tokens. Solana has addressed many of the outstanding problems found in
-similar popular blockchains like Ethereum (i.e. transaction-speed
-energy-efficiency infinite-smart-contract-loops etc), and it has
-excellent documentation and development-stack that we are quite fond of.
-Also, building on top of Solana also allows us to (eventually) add
-transaction-heavy features to the Interlock Network that are simply not
-feasible on any blockchain that does not have cheap transactions. We had
-hoped that we would be able to use Ethereum since it has an enormous
-ecosystem and is very popular, but its transactions are thousands of
-times more expensive than Solana's. We do however recognize the value of
-Ethereum's ERC-20 standard and the ability to use existing wallets and
-to transact with other people on Ethereum &mdash; so we are minting the
-coins on Ethereum but connecting them to Solana using the Wormhole
-bridge between these two blockchains. However, if the newer versions of
-Ethereum increase the TPS and decrease their transaction-costs we could
-see ourselves porting our code over to these future versions of Ethereum
-&mdash; assuming that Solana does not supplant Ethereum in the meantime.
+To back our smart-contracts and our token we have chosen the Aleph Zero blockchain technology, serving all our initial token-mint, rewards, NFT, and staking needs. Aleph Zero is emerging as the 'best-of-worlds' blockchain that -- among a laundry list of other exciting features -- captures the cheap transaction costs and high transaction throughput of Solana, and maintains direct compatibility with the entire Polkadot Network. Future bridging technology and a planned Ethereum Virtual Machine will likely make Aleph Zero accessible by the Ethereum ecosystem. We had hoped that we would be able to use Ethereum since it has an enormous ecosystem and is very popular, but its transactions are thousands of times more expensive than Aleph Zero's. We do however recognize the value of Ethereum's ERC-20 standard and the ability to use existing wallets within a chain's ecosystem. Our ecosystem will be defined by the Parity Substrate contract technology that Aleph Zero implements, which includes the entirety of Polkadot blockchain and parachain ecosystems (and note, the ERC-20 standard is called PSP-22 within this ecosystem). We will keep our eyes open farther down the roadmap for other blockchain opportunities to diversify our technology stack, but for now the intent is to build initial launch on Aleph Zero.
 
 
 ## Tokenomics
