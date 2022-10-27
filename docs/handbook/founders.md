@@ -1,6 +1,6 @@
 # Founder's Manual
 
-This is an abbreviated "founders manual" for running the company. As part of our value of being transparent, its open to the world. 
+This is an abbreviated "founders manual" for running the company. As part of our value of being transparent, it's open to the world. 
 
 ## Cheatsheet
 
@@ -41,7 +41,7 @@ Specifically:
 - Not harassing or threatening any co-founder, community member, employee, or anyone else
 - Keeping off-the-record or confidential information (whether about Interlock itself, a client company, or [PII](https://en.wikipedia.org/wiki/Personal_data)) private and secret
 - Ensuring your company resolves privacy and security issues promptly and appropriately
-- Treating emails and other communications shared within Interlock as confidential and not forwarding it to third-parties
+- Treating emails and other communications shared within Interlock as confidential and not forwarding them to third-parties
 - Not behaving in a way that damages the reputation of oneself or the company
 - Being honest in interviews with prospective hires
 - Keeping your word, including handshake deals made on behalf of the company, or with clients
@@ -64,7 +64,7 @@ Once launched, founders should [Do things that don't scale](http://paulgraham.co
 
 Talking to users usually yields a long, complicated list of features to build. Always look for the “90/10 solution”. That is, look for a way in which you can accomplish 90% of what you want with only 10% of the work/effort/time. If you search hard for it, there is almost always a 90/10 solution available. Most importantly, a 90% solution to a real customer problem which is available right away, is much better than a 100% solution that takes ages to build.
 
-As companies begin to grow there are often tons of potential distractions. Conferences, dinners, meeting with venture capitalists or large company corporate development types (see [Don’t Talk to Corp Dev by Paul Graham](http://www.paulgraham.com/corpdev.html)), chasing after press coverage and so on ([see a comprehensive list of the wrong things on which to focus on](https://www.ycombinator.com/blog/how-not-to-fail/)). Never lose sight that the most important tasks for an early stage company are to write code and talk to users. For any company, software or otherwise, this means that in order to make something people want: you must launch something, talk to your users to see if it serves their needs, and then take their feedback and iterate. These tasks should occupy almost all of your time/focus. For great companies this cycle never ends. Similarly, as the company evolves there will be many times where founders are forced to choose between multiple directions for their company. Sam Altman always points out that it is nearly always better to take the more ambitious path. It is actually extraordinary how often founders manage to avoid tackling these sorts of problems and focus on other things. Sam calls this “fake work”, because it tends to be more fun than real work.
+As companies begin to grow there are often tons of potential distractions. Conferences, dinners, meeting with venture capitalists or large company corporate development types (see [Don’t Talk to Corp Dev by Paul Graham](http://www.paulgraham.com/corpdev.html)), chasing after press coverage and so on ([see a comprehensive list of the wrong things on which to focus on](https://www.ycombinator.com/blog/how-not-to-fail/)). Never lose sight that the most important tasks for an early stage company are to write code and talk to users. For any company, software or otherwise, this means that in order to make something people want: you must launch something, talk to your users to see if it serves their needs, and then take their feedback and iterate. These tasks should occupy almost all of your time/focus. For great companies this cycle never ends. Similarly, as the company evolves there will be many times when founders are forced to choose between multiple directions for their company. Sam Altman always points out that it is nearly always better to take the more ambitious path. It is actually extraordinary how often founders manage to avoid tackling these sorts of problems and focus on other things. Sam calls this “fake work”, because it tends to be more fun than real work.
 
 When it comes to customers most founders don’t realize that they get to choose customers as much as customers get to choose them. A small group of customers who love you is better than a large group who kind of like you. In other words, recruiting 10 customers who have a burning problem is much better than 1000 customers who have a passing annoyance. It is easy to make mistakes when choosing customers so sometimes it’s also critical for startups to fire their customers. Some customers can cost way more than they provide in either revenue or learning. For example, Justin.tv/Twitch only became a breakout success when they focused their efforts toward video game broadcasters and away from people trying to stream copy written content.
 
@@ -95,7 +95,7 @@ Almost all startups, successful and unsuccessful, hit points when it seems like 
 
 - **How much was accomplished week-to-week**. Weekly meetings should indicate a diverse set of accomplished tasks, not just what was set forth, but a bunch of other things thought of in the process. If weekly meetings feel like the previous week's conversation never happened, or if tasks are often the same as the previous week, that is a clear trajectory toward failure. Speed is more valuable than money.
   
-- **How breakage is handled by founders**. Successful founders see breakage and are not depressed by it. Failure from founders occur when they remain in denial about it, or do not feel a sense of urgency.
+- **How breakage is handled by founders**. Successful founders see breakage and are not depressed by it. Failure from founders occurs when they remain in denial about it, or do not feel a sense of urgency.
 
 - **Taking a long time to launch is a big predictor of failure**. Taking a long time to launch crosses over very easily into never launching, or launching a product out-of-touch with users.
 
@@ -122,7 +122,7 @@ Please see the [User Manual for Founder Psychology](https://thefoundercoach.noti
 
 ## Important Definitions
 
-- *Breakeven* - This is the point where your revenue is equal to your expenses and you bank account stays flat or increases month over month. Many early stage companies attempt to reach breakeven or "ramen profitable" in order to not be dependent on outside investors.
+- *Breakeven* - This is the point where your revenue is equal to your expenses and your bank account stays flat or increases month over month. Many early stage companies attempt to reach breakeven or "ramen profitable" in order to not be dependent on outside investors.
 - *Runway* - Assuming you hold your revenue and expenses constant, how many months can your company operate before you die.
 - *Vertebrae* - The 3-5 points every investor/customer must understand in order to be interested enough to consider an investment/product usage
 - *Burn Rate* - The difference between your revenue and your expenses. In other words, by how much did your bank account decrease last month.
