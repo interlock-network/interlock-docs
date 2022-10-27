@@ -128,7 +128,7 @@ Very simply, you install our extension, and it detects fraudulent websites as yo
 
 ### How did you implement this trust network?
 
-Please see our technical [Whitepaper](/token/whitepaper) and [Webstite](https://www.interlock.network/) for implementation details.
+Please see our technical [Whitepaper](https://docs.interlock.network/token/whitepaper.html) and [Webstite](https://www.interlock.network/) for implementation details.
 
 ### What parts of your stack are open source?
 
