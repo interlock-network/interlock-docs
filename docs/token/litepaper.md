@@ -113,8 +113,9 @@ protect their customers.
 
 ![TokenFlow](https://user-images.githubusercontent.com/3850344/166294045-4142af5a-3a6f-4445-a690-09c8b50970e9.png)
 
+![Data Flow](https://cdn.discordapp.com/attachments/912768323408764988/1035272326473850890/Screenshot_2022-10-27_12.21.54_PM_-_Display_2.png)
 
-![Interlock_Timeline](https://cdn.discordapp.com/attachments/864979788309725244/994297251981701131/Timeline.png)
+![Interlock_Timeline](https://user-images.githubusercontent.com/95258773/198381429-b5f6e6d2-07df-4267-acc2-8422212e129c.jpg)
 
 Please see the [FAQ](https://docs.interlock.network/faq.html) and 
 [technical whitepaper](https://docs.interlock.network/token/whitepaper.html) for more details and
