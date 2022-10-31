@@ -36,7 +36,7 @@ Enter for a spot on the whitelist if you want to be notified when the community 
 
 ## Roadmap
 
-![Interlock_Timeline](https://cdn.discordapp.com/attachments/864979788309725244/994297251981701131/Timeline.png)
+![Interlock_Timeline](https://user-images.githubusercontent.com/95258773/199052840-cce1fe47-aa20-42e3-b572-0a1db9a33b43.jpg)
 
 ## Tokenomics
 
@@ -49,7 +49,7 @@ Enter for a spot on the whitelist if you want to be notified when the community 
 * [Follow us on Twitter](https://www.twitter.com/interlockweb3)
 * [Join us on Reddit](https://www.reddit.com/r/interlocknetwork)
 * [Check out our FAQ](/faq)
-* [Airlock Security Platform](https://airlock.security)
+
 
 ## Support & Bug reports
 
@@ -70,7 +70,6 @@ the [Issues tab](https://github.com/interlock-network/interlock-docs/issues) and
 * [Jjhakimoto](https://github.com/Jjhakimoto) - Content Manager
 * New Hire @ReuX - Community Manager
 * New Hire @Eric_3.0 - Community Manager
-* New Hire @Kawaiivel - Moderator
 * [We're Hiring](https://interlock.breezy.hr/) 
 
 **Credits**
