@@ -110,12 +110,17 @@ used for threat-detection, threat-intelligence, business-analytics, and
 KYC. This data is then used by us and our partners (i.e. crypto-currency
 exchanges and other commercial entities) to improve their products and
 protect their customers.
+<h6 align="center">Token Flow</h6>
 
 ![TokenFlow](https://user-images.githubusercontent.com/3850344/166294045-4142af5a-3a6f-4445-a690-09c8b50970e9.png)
 
+<h6 align="center">Data Flow</h6>
+
 ![Data Flow](https://cdn.discordapp.com/attachments/912768323408764988/1035272326473850890/Screenshot_2022-10-27_12.21.54_PM_-_Display_2.png)
 
-![Interlock_Timeline](https://user-images.githubusercontent.com/95258773/198381429-b5f6e6d2-07df-4267-acc2-8422212e129c.jpg)
+<h6 align="center">Roadmap</h6>
+
+![Interlock_Timeline](https://user-images.githubusercontent.com/95258773/199052840-cce1fe47-aa20-42e3-b572-0a1db9a33b43.jpg)
 
 Please see the [FAQ](https://docs.interlock.network/faq.html) and 
 [technical whitepaper](https://docs.interlock.network/token/whitepaper.html) for more details and
