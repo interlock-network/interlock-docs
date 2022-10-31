@@ -32,7 +32,7 @@ We believe that $ILOCK token will grow in value because it's tied to tangible ou
 
 ### Could you please share your future roadmap?
 
-Here is the [roadmap](/#roadmap). We add to the roadmap all the time, so please come back to it often!
+Here is the [roadmap](https://docs.interlock.network/#roadmap). We add to the roadmap all the time, so please come back to it often!
 
 ### Did you listen to community feedback/requests when you create new products or expand on existing ones?
 
@@ -108,15 +108,16 @@ If you face any technical problems you can ask for help in our \[:blue\_book: #H
 
 ### Is this a new blockchain?
 
-No, this is a distributed application built on top of existing blockchains, Solana and Ethereum.
+No, this is a distributed application built on top of an existing blockchain.
 
 ### What blockchain are you built on?
 
-We are building our smart contracts on top of Solana, but we are minting out tokens on Ethereum, and we bridge the two worlds using Wormhole.
+We are building all of our smart contracts on the Aleph Zero blockchain.
 
-### Why did you choose Solana/Ethereum?
+### Why did you choose Aleph Zero?
 
-The Solana platform has addressed many of the outstanding problems found in similar popular blockchains like Ethereum: transaction speed, energy efficiency, infinite smart contract loops, etc. While our idea is — in principle — possible to implement on most blockchains, doing so on Solana would help us scale more easily and also more cheaply. Additionally we think that the Solana development stack is well-documented and robust enough to act as a solid foundation for the Interlock Network. And lastly, Solana's growing popularity will help us attract new contributors to the project. We chose to mint out tokens on Ethereum because that chain has a large user-base and ecosystem and we would like to be compatible with it. To that end we use Wormhole to allow people to transfer their $ILOCK Tokens between chains.
+The Aleph Zero platform is addressing many of the outstanding problems found in similar popular blockchain projects like Ethereum: transaction speed, energy efficiency, transaction cost, etc. While our idea is — in principle — possible to implement on most blockchains, doing so on Aleph Zero will help us scale more easily and also more cheaply. Additionally, we think that the Substrate / Ink! development stack for smart contracts on Aleph Zero is well-documented and robust enough to act as a solid foundation for the Interlock Network. Lastly, Aleph Zero’s strong community and growing popularity will help us attract new contributors to the project. We are both minting $ILOCK tokens and implementing our gray-area staking features on Aleph Zero.
+
 
 ### What is the difference between you and MSFT ION?
 
@@ -128,11 +129,11 @@ Very simply, you install our extension, and it detects fraudulent websites as yo
 
 ### How did you implement this trust network?
 
-Please see our technical [Whitepaper](https://docs.interlock.network/token/whitepaper.html) and [Webstite](https://www.interlock.network/) for implementation details.
+Please see our technical [Whitepaper](https://docs.interlock.network/token/whitepaper.html) and [Website](https://www.interlock.network/) for implementation details.
 
 ### What parts of your stack are open source?
 
-Obviously the underlying blockchains — Solana and Ethereum — are both open source. Also, all of our smart contracts are open source — because that is just how blockchain works. Our uBlock-based browser-extension is also open source. The backend parts of our stack (i.e. the data-processing pipeline and our database) are closed source — as are our web-frontends (i.e. the dashboard for stakers). We \*may\* open source the backend components, once they become more mature, or if the community expresses interest in it.
+The Aleph Zero blockchain that Interlock is building on is an open source project. All of our smart contracts are open source — because that is just how blockchain works, and because we would like our community to have access to these contracts for transparency. Our browser-extension is also open source. The backend parts of our stack (i.e. the data-processing pipeline and our database) are closed source, for security purposes. We *may* open source the backend components once they become more mature, or if the community expresses interest in it.
 
 ### Are you a security company?
 
