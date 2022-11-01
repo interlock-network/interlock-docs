@@ -36,11 +36,11 @@ Enter for a spot on the whitelist if you want to be notified when the community 
 
 ## Roadmap
 
-![Interlock_Timeline](https://user-images.githubusercontent.com/95258773/199094203-19b905bc-a1a8-40b1-be85-e8eb7740f732.png)
+![Interlock_Timeline](https://user-images.githubusercontent.com/95258773/199140592-42b07c9b-b2d2-4f8d-aa94-ad4c3b40825d.png)
 
 ## Tokenomics
 
-[View token launch and supply](/token/supply)
+[View token launch and supply](https://docs.interlock.network/token/supply.html)
 
 
 ## Useful links
@@ -48,7 +48,7 @@ Enter for a spot on the whitelist if you want to be notified when the community 
 * [Join our Telegram](https://t.me/interlockchat)
 * [Follow us on Twitter](https://www.twitter.com/interlockweb3)
 * [Join us on Reddit](https://www.reddit.com/r/interlocknetwork)
-* [Check out our FAQ](/faq)
+* [Check out our FAQ](https://docs.interlock.network/faq.html#faq)
 
 
 ## Support & Bug reports
