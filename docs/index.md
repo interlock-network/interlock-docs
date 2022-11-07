@@ -68,6 +68,7 @@ the [Issues tab](https://github.com/interlock-network/interlock-docs/issues) and
 * [memechoi](http://chasehoch.com/) - Creative & Design Lead
 * [treevuhh](https://github.com/Treevuhh) - Chaos Operations Coordinator
 * [Jjhakimoto](https://github.com/Jjhakimoto) - Content Manager
+* New Hire @Captain.Azero - Community Manager
 * New Hire @ReuX - Community Manager
 * New Hire @Eric_3.0 - Community Manager
 * [We're Hiring](https://interlock.breezy.hr/) 
