@@ -137,39 +137,39 @@ Here are the first 3 years of emissions, divided into half-year periods.
     <th>total-tokens</th>
   </tr>
   <tr>
-    <td>aug-2022</td>
-    <td>189087820</td>
-    <td>189087820</td>
+    <td>Feb-2023</td>
+    <td>93250000</td>
+    <td>93250000</td>
   </tr>
    <tr>
-    <td>feb-2023</td>
-    <td>161495487</td>
-    <td>350583307</td>
+    <td>Aug-2023</td>
+    <td>146693009</td>
+    <td>239943008</td>
   </tr>
    <tr>
-    <td>aug-2023</td>
-    <td>100483712</td>
-    <td>451067019</td>
+    <td>Feb-2024</td>
+    <td>174470784</td>
+    <td>414413794</td>
   </tr>
    <tr>
-    <td>feb-2024</td>
-    <td>115245098</td>
-    <td>566312117</td>
+    <td>Aug-2024</td>
+    <td>128399355</td>
+    <td>542813152</td>
   </tr>
   <tr>
-    <td>aug-2024</td>
-    <td>75395270</td>
-    <td>641707387</td>
+    <td>Feb-2025</td>
+    <td>103620522</td>
+    <td>646433673</td>
   </tr>
   <tr>
-    <td>feb-2025</td>
-    <td>66876750</td>
-    <td>708584137</td>
+    <td>Aug-2025</td>
+    <td>82370520</td>
+    <td>728804195</td>
   </tr>
   </table>
 
 Interlock mints a maximum of 1 billion tokens, and pledges to spend _at
- least_ 20% of revenue to buy-back tokens. Once bought tokens may
+ least_ 20% of revenue to buy-back tokens. Once bought, tokens may
  be burned or used to contribute to the network (i.e. by financing
  the rewards-pool for users, etc).
 
