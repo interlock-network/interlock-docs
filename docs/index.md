@@ -36,7 +36,8 @@ Enter for a spot on the whitelist if you want to be notified when the community 
 
 ## Roadmap
 
-![Interlock_Timeline](https://user-images.githubusercontent.com/95258773/199564312-2b60262d-1197-4231-acec-c19d887bf072.png)
+![Interlock_Timeline](https://user-images.githubusercontent.com/95258773/207725977-a54c53d1-9d70-4d8d-9fe0-bf7c0d4f9dc1.png)
+
 
 ## Tokenomics
 
