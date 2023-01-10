@@ -7,7 +7,7 @@ Below are the [sale](#sale), [distribution](#distribution) and [vesting](#vestin
 | Overview                        |               |
 |---------------------------------|---------------|
 | Total Supply of Tokens          | 1,000,000,000 |
-| TDE Target Date                 | Feb/2023      |
+| TDE Target Date                 | 2023      |
 | % Public Sale of Supply (up to) | 5.0%          |
 | Public Sale Valuation           | 100,000,000   |
 
@@ -43,16 +43,16 @@ Below are the [sale](#sale), [distribution](#distribution) and [vesting](#vestin
 
 ## Vesting
 
-| ****                   | Monthly Payments | Initial Cliff | Vesting Start | Vesting End | Monthly    |
-|------------------------|------------------|---------------|---------------|-------------|------------|
-| **Early Backers**      | 24               | 1             | Mar 2023      | Feb 2025    | 833,333    |
-| **Pre-sale 1**         | 18               | 1             | Mar 2023      | Aug 2024    | 2,701,235  |
-| **Pre-sale 2**         | 15               | 1             | Mar 2023      | May 2024    | 2,857,143  |
-| **Pre-sale 3**         | 12               | 1             | Mar 2023      | Feb 2024    | 6,250,000  |
-| **Public Sale**        | 1                | 0             | Feb 2023      | Feb 2023    | 50,000,000 |
-| **Core Team**          | 36               | 6             | Aug 2023      | Jul 2026    | 5,555,556  |
-| **Outlier Ventures**   | 24               | 1             | Mar 2023      | Feb 2025    | 1,666,667  |
-| **Advisors**           | 24               | 1             | Mar 2023      | Feb 2025    | 1,041,667  |
-| **Community**          | 48               | 0             | Feb 2023      | Jan 2027    | 6,250,000  |
-| **Foundation**         | 84               | 1             | Mar 2023      | Feb 2030    | 1,922,865  |
-| **Strategic partners** | 1                | 0             | Feb 2023      | Feb 2023    | 37,000,000 |
+| ****                   | Monthly Payments | Initial Cliff |  Monthly    |
+|------------------------|------------------|---------------|------------|
+| **Early Backers**      | 24               | 1             |  833,333    |
+| **Pre-sale 1**         | 18               | 1             |  2,701,235  |
+| **Pre-sale 2**         | 15               | 1             |  2,857,143  |
+| **Pre-sale 3**         | 12               | 1             |  6,250,000  |
+| **Public Sale**        | 1                | 0             |  50,000,000 |
+| **Core Team**          | 36               | 6             |  5,555,556  |
+| **Outlier Ventures**   | 24               | 1             |  1,666,667  |
+| **Advisors**           | 24               | 1             |  1,041,667  |
+| **Community**          | 48               | 0             |  6,250,000  |
+| **Foundation**         | 84               | 1             |  1,922,865  |
+| **Strategic partners** | 1                | 0             |  37,000,000 |
