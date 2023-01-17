@@ -120,7 +120,8 @@ protect their customers.
 
 <h6 align="center">Roadmap</h6>
 
-![Interlock_Timeline](https://user-images.githubusercontent.com/95258773/199566726-c6acb67c-fd55-47d2-a800-d9a139d1bb09.png)
+![Interlock_Timeline](https://user-images.githubusercontent.com/95258773/212788123-999afaf8-76df-4e57-b155-e439ae33af22.png)
+
 
 Please see the [FAQ](https://docs.interlock.network/faq.html) and 
 [technical whitepaper](https://docs.interlock.network/token/whitepaper.html) for more details and
@@ -137,32 +138,32 @@ Here are the first 3 years of emissions, divided into half-year periods.
     <th>total-tokens</th>
   </tr>
   <tr>
-    <td>Feb-2023</td>
+    <td>Jul-2023</td>
     <td>93250000</td>
     <td>93250000</td>
   </tr>
    <tr>
-    <td>Aug-2023</td>
+    <td>Dec-2023</td>
     <td>146693009</td>
     <td>239943008</td>
   </tr>
    <tr>
-    <td>Feb-2024</td>
+    <td>Jul-2024</td>
     <td>174470784</td>
     <td>414413794</td>
   </tr>
    <tr>
-    <td>Aug-2024</td>
+    <td>Dec-2024</td>
     <td>128399355</td>
     <td>542813152</td>
   </tr>
   <tr>
-    <td>Feb-2025</td>
+    <td>Jul-2025</td>
     <td>103620522</td>
     <td>646433673</td>
   </tr>
   <tr>
-    <td>Aug-2025</td>
+    <td>Dec-2025</td>
     <td>82370520</td>
     <td>728804195</td>
   </tr>
@@ -175,5 +176,5 @@ Interlock mints a maximum of 1 billion tokens, and pledges to spend _at
 
  ## Download PDF
 
- [Litepaper PDF](./pdf/litepaper.pdf)
+ Litepaper PDF Coming Soon!
 
