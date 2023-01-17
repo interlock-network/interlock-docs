@@ -506,32 +506,32 @@ Here are the first 3 years of emissions, divided into half-year periods.
     <th>total-tokens</th>
   </tr>
   <tr>
-    <td>Feb-2023</td>
+    <td>Month 1 -2023</td>
     <td>93250000</td>
     <td>93250000</td>
   </tr>
    <tr>
-    <td>Aug-2023</td>
+    <td>Month 6 -2023</td>
     <td>146693009</td>
     <td>239943008</td>
   </tr>
    <tr>
-    <td>Feb-2024</td>
+    <td>Month 12 -2024</td>
     <td>174470784</td>
     <td>414413794</td>
   </tr>
    <tr>
-    <td>Aug-2024</td>
+    <td>Month 18 -2024</td>
     <td>128399355</td>
     <td>542813152</td>
   </tr>
   <tr>
-    <td>Feb-2025</td>
+    <td>Month 24 -2025</td>
     <td>103620522</td>
     <td>646433673</td>
   </tr>
   <tr>
-    <td>Aug-2025</td>
+    <td>Month 30 -2025</td>
     <td>82370520</td>
     <td>728804195</td>
   </tr>
@@ -558,7 +558,7 @@ licensing discounts. Data-Buyers can buy and stake tokens for data
 discounts. Visual learners may appreciate the diagram below.
 
 
-![Interlock_Timeline](https://user-images.githubusercontent.com/95258773/199141983-1eb1fcee-8ffe-438c-b542-9b8aa4a42044.png)
+![Interlock_Timeline](https://user-images.githubusercontent.com/95258773/212790684-5bcbe9d6-6196-4ee3-b490-fe853216576e.png)
 
 ### Investing and Governance
 We are evaluating different governance models. Stay tuned.
@@ -599,4 +599,4 @@ check back later.
 
 ## Download PDF
 
- [Whitepaper PDF](./pdf/whitepaper.pdf)
+Whitepaper PDF Coming Soon!
