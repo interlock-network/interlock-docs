@@ -26,7 +26,7 @@ addition to optimizing their feeds and search-results to keep users
 engaged and clicking on advertisements. This state of affairs is a clear
 *perversion* of the original vision, ideal, and promise of the Internet
 and Web. The next evolution of the Web &mdash; the blockchain-powered
-**web3** &mdash; can correct the course and re-democratize the web
+**Web3** &mdash; can correct the course and re-democratize the web
 without sacrificing its accessibility.
 
 In a sentence, the Interlock technology-stack moves security to the edge
@@ -138,34 +138,34 @@ Here are the first 3 years of emissions, divided into half-year periods.
     <th>total-tokens</th>
   </tr>
   <tr>
-    <td>Jul-2023</td>
-    <td>93250000</td>
-    <td>93250000</td>
+    <td>Month 1 -2023</td>
+    <td>94950000</td>
+    <td>94950000</td>
   </tr>
    <tr>
-    <td>Dec-2023</td>
-    <td>146693009</td>
-    <td>239943008</td>
+    <td>Month 6 -2023</td>
+    <td>23298589</td>
+    <td>211442945</td>
   </tr>
    <tr>
-    <td>Jul-2024</td>
-    <td>174470784</td>
-    <td>414413794</td>
+    <td>Month 12 -2024</td>
+    <td>28854145</td>
+    <td>384567813</td>
   </tr>
    <tr>
-    <td>Dec-2024</td>
-    <td>128399355</td>
-    <td>542813152</td>
+    <td>Month 18 -2024</td>
+    <td>19270811</td>
+    <td>519776014</td>
   </tr>
   <tr>
-    <td>Jul-2025</td>
-    <td>103620522</td>
-    <td>646433673</td>
+    <td>Month 24 -2025</td>
+    <td>16569577</td>
+    <td>621894709</td>
   </tr>
   <tr>
-    <td>Dec-2025</td>
-    <td>82370520</td>
-    <td>728804195</td>
+    <td>Month 30 -2025</td>
+    <td>13861243</td>
+    <td>707770503</td>
   </tr>
   </table>
 
