@@ -33,6 +33,7 @@ Below are the [sale](#sale), [distribution](#distribution) and [vesting](#vestin
 | **Pre-sale 1**       | 4.9%        | 48,622,222    |
 | **Pre-sale 2**       | 5%        | 50,000,000    |
 | **Pre-sale 3**       | 7.5%        | 75,000,000    |
+| **Public Sale (Up to)**   | 5.0%      | 50,000,000  |        
 | **Founder/Team**     | 20.0%       | 200,000,000   |
 | **Outlier Ventures** | 4.0%        | 40,000,000    |
 | **Advisors**         | 2.5%        | 25,000,000    |
@@ -46,7 +47,7 @@ Below are the [sale](#sale), [distribution](#distribution) and [vesting](#vestin
 
 |                    | Monthly Payments | Initial Cliff |  Monthly    |
 |------------------------|------------------|---------------|------------|
-| **Community Sale**      | 1               | 1             |  1,700,000  |
+| **Community Sale**     | 1               | 1             |  1,700,000  |
 | **Pre-sale 1**         | 18               | 1             |  2,701,235  |
 | **Pre-sale 2**         | 15               | 1             |  3,333,333  |
 | **Pre-sale 3**         | 12               | 1             |  6,250,000  |
