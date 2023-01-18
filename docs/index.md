@@ -7,9 +7,11 @@ icon: home
 
 Interlock protects DeFi while rewarding the people who make it safer.
 
-::: tip
-Interlock is currently pre-release. [Join our discord](https://discord.gg/EP7Ukq6p) for the latest news.
-:::
+Join the rebellion against cybercrime with ThreatSlayer. Our security browser extension gives instant protection from browser-based threats and rewards you for making the internet safer.
+Start slaying cyber attacks now by downloading ThreatSlayer [HERE](https://chrome.google.com/webstore/detail/threatslayer/mgcmocglffknmbhhfjihifeldhghihpj)
+
+[Join our discord](https://discord.gg/EP7Ukq6p) for the latest news.
+
 
 ```mermaid
 %%{init: { 'theme': 'forest' } }%%
@@ -32,7 +34,7 @@ Enter for a spot on the whitelist if you want to be notified when the community 
 
  ## Join the team
 
-[Check out what we're hiring for](https://interlock.breezy.hr/)
+Interlock is not currently hiring. You can find future listings [here](https://interlock.breezy.hr/)
 
 ## Roadmap
 
@@ -69,10 +71,10 @@ the [Issues tab](https://github.com/interlock-network/interlock-docs/issues) and
 * [memechoi](http://chasehoch.com/) - Creative & Design Lead
 * [treevuhh](https://github.com/Treevuhh) - Chaos Operations Coordinator
 * [Jjhakimoto](https://github.com/Jjhakimoto) - Content Manager
-* New Hire @Captain.Azero - Community Manager
-* New Hire @ReuX - Community Manager
-* New Hire @Eric_3.0 - Community Manager
-* [We're Hiring](https://interlock.breezy.hr/) 
+* @Captain.Azero - Community Manager
+* @ReuX - Community Manager
+* @Eric_3.0 - Community Manager
+
 
 **Credits**
 
