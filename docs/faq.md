@@ -46,7 +46,7 @@ Our ideal consumer customer is anyone who wants to stay safe from attacks online
 
 Is there some kind of educational program or some YouTube videos to make it easier for newcomers to understand your project?
 
-We will definitely consider making more training content but thankfully on the product side, it's very easy! Once you install the extension, it does most of the work while you earn. More will come later for sure. For now, feel free to join our social channels to keep up with us and chat about what we do, someone is always around: https://linktr.ee/interlockWeb3
+We will definitely consider making more training content but thankfully on the product side, it's very easy! Once you install the extension, it does most of the work while you earn. More will come later for sure. For now, feel free to join our social channels to keep up with us and chat about what we do, someone is always around: [Social Links](https://docs.interlock.network/#useful-links)
 
 ### I saw that there will be “security stakers” who will earn $ILOCK tokens by staking harmless gray area entities?
 
@@ -137,7 +137,7 @@ The Aleph Zero blockchain that Interlock is building on is an open source projec
 
 ### Are you a security company?
 
-Interlock is not a security company — we are a web3 focused information and data company founded by people who have years of experience in the security space. You could think of us as a _next generation_ security company, or a security company for the web3 era.
+Interlock is not a security company — we are a Web3 focused information and data company founded by people who have years of experience in the security space. You could think of us as a _next generation_ security company, or a security company for the Web3 era.
 
 ### What kind of anonymity do you offer?
 
