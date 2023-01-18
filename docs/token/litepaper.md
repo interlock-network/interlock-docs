@@ -120,7 +120,7 @@ protect their customers.
 
 <h6 align="center">Roadmap</h6>
 
-![Interlock_Timeline](https://user-images.githubusercontent.com/95258773/212788123-999afaf8-76df-4e57-b155-e439ae33af22.png)
+![Interlock_Timeline](https://user-images.githubusercontent.com/95258773/207725977-a54c53d1-9d70-4d8d-9fe0-bf7c0d4f9dc1.png)
 
 
 Please see the [FAQ](https://docs.interlock.network/faq.html) and 
