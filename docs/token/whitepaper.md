@@ -290,7 +290,7 @@ Depends on who you ask. Right now the mainstream thinks that Web3.0 is
 the *semantic web* &mdash; a decades-old idea that has always struggled
 to gain traction. Meanwhile, an increasing number of people believe that
 Web3.0 will center around *blockchain technologies* &mdash; but they
-call it **web3** (we will call it Web3.0 from now on in this paper).
+call it **Web3** (we will call it Web3.0 from now on in this paper).
 
 We believe that the new paradigm for the internet/web is
 hyper-decentralization. The web is decentralizing the media and the news
@@ -507,8 +507,8 @@ Here are the first 3 years of emissions, divided into half-year periods.
   </tr>
   <tr>
     <td>Month 1 -2023</td>
-    <td>94250000</td>
-    <td>94250000</td>
+    <td>94950000</td>
+    <td>94950000</td>
   </tr>
    <tr>
     <td>Month 6 -2023</td>
@@ -532,8 +532,8 @@ Here are the first 3 years of emissions, divided into half-year periods.
   </tr>
   <tr>
     <td>Month 30 -2025</td>
-    <td>82370520</td>
-    <td>728804195</td>
+    <td>13861243</td>
+    <td>707770503</td>
   </tr>
   </table>
   
