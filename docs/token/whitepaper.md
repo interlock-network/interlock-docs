@@ -558,7 +558,7 @@ licensing discounts. Data-Buyers can buy and stake tokens for data
 discounts. Visual learners may appreciate the diagram below.
 
 
-![Interlock_Timeline](https://user-images.githubusercontent.com/95258773/212790684-5bcbe9d6-6196-4ee3-b490-fe853216576e.png)
+![Interlock_Timeline](https://user-images.githubusercontent.com/95258773/207725977-a54c53d1-9d70-4d8d-9fe0-bf7c0d4f9dc1.png)
 
 ### Investing and Governance
 We are evaluating different governance models. Stay tuned.
