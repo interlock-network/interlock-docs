@@ -61,6 +61,7 @@ export default {
           // TODO Needs completion of airlock docs first
           // { text: 'Airlock', link: 'https://docs.airlock.security' },
           { text: 'Bouncer', link: '/ecosystem/bouncer' },
+          { text: 'ThreatSlayer', link: '/ecosystem/threatslayer' },
         ]
       },
       {
