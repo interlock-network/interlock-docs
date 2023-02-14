@@ -55,6 +55,6 @@ Below are the [sale](#sale), [distribution](#distribution) and [vesting](#vestin
 | **Core Team**          | 36               | 6             |  5,555,556  |
 | **Outlier Ventures**   | 24               | 1             |  1,666,667  |
 | **Advisors**           | 24               | 1             |  1,041,667  |
-| **Community**          | 48               | 0             |  6,250,000  |
+| **Staking/Rewards**    | 48               | 0             |  6,250,000  |
 | **Foundation**         | 84               | 1             |  1,519,974  |
 | **Strategic partners** | 1                | 0             |  37,000,000 |
