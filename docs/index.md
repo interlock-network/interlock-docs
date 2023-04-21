@@ -38,7 +38,7 @@ Interlock is not currently hiring. You can find future listings [here](https://i
 
 ## Roadmap
 
-![Interlock_Timeline](https://user-images.githubusercontent.com/95258773/207725977-a54c53d1-9d70-4d8d-9fe0-bf7c0d4f9dc1.png)
+![Interlock Timeline](https://user-images.githubusercontent.com/95258773/233697701-a517e453-cccb-4fc6-9468-7daf3c89faa6.jpeg)
 
 
 ## Tokenomics
