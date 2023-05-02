@@ -73,8 +73,6 @@ the [Issues tab](https://github.com/interlock-network/interlock-docs/issues) and
 * [Jjhakimoto](https://github.com/Jjhakimoto) - Content Manager
 * @Captain.Azero - Community Manager
 * @ReuX - Community Manager
-* @Eric_3.0 - Community Manager
-
 
 **Credits**
 
