@@ -61,7 +61,6 @@ any questions or just talk to the developers about how great their day is today 
 the [Issues tab](https://github.com/interlock-network/interlock-docs/issues) and create a new issue, whether it's a typo in the white paper or you want something added/removed.
 
 ## The Team
-* [pspace](https://github.com/justerhan) - Project Owner & CTO
 * [rickdeaconx](https://github.com/rickdeaconx) - Project Owner & CEO
 * [galactic-beyond](https://github.com/galactic-beyond) - Project Owner & Principal Engineer
 * [andycheech](https://github.com/andycheech) - Chief of Marketing
