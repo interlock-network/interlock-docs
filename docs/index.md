@@ -69,7 +69,6 @@ the [Issues tab](https://github.com/interlock-network/interlock-docs/issues) and
 * [blairmunroakusa](https://github.com/blairmunroakusa) - Software Engineer
 * [memechoi](http://chasehoch.com/) - Creative & Design Lead
 * [treevuhh](https://github.com/Treevuhh) - Chaos Operations Coordinator
-* [Jjhakimoto](https://github.com/Jjhakimoto) - Content Manager
 * @Captain.Azero - Community Manager
 * @ReuX - Community Manager
 
