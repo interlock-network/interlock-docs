@@ -501,39 +501,39 @@ Here are the first 3 years of emissions, divided into half-year periods.
 
 <table>
   <tr>
-     <th>half-year</th>
+    <th>half-year</th>
     <th>new-tokens</th>
     <th>total-tokens</th>
   </tr>
   <tr>
     <td>Month 1 -2023</td>
-    <td>98,295,352</td>
-    <td>98,295,352</td>
+    <td>33,707,288</td>
+    <td>33,707,288</td>
   </tr>
    <tr>
     <td>Month 6 -2023</td>
-    <td>23,709,339</td>
-    <td>216,842,049</td>
+    <td>17,708,125</td>
+    <td>125,951,619</td>
   </tr>
    <tr>
     <td>Month 12 -2024</td>
-    <td>29,264,895</td>
-    <td>392,431,419</td>
+    <td>23,263,681</td>
+    <td>265,533,705</td>
   </tr>
    <tr>
     <td>Month 18 -2024</td>
-    <td>19,230,173</td>
-    <td>524,513,845</td>
+    <td>16,172,411</td>
+    <td>376,326,109</td>
   </tr>
   <tr>
     <td>Month 24 -2025</td>
-    <td>16,528,938</td>
-    <td>626,388,709</td>
+    <td>13,471,177</td>
+    <td>459,854,403</td>
   </tr>
   <tr>
     <td>Month 30 -2025</td>
-    <td>13,820,605</td>
-    <td>712,020,671</td>
+    <td>10,762,843</td>
+    <td>527,139,796</td>
   </tr>
   </table>
   
