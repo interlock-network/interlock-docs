@@ -8,6 +8,7 @@ icon: home
 Interlock protects DeFi while rewarding the people who make it safer.
 
 Join the rebellion against cybercrime with ThreatSlayer. Our security browser extension gives instant protection from browser-based threats and rewards you for making the internet safer.
+
 Start slaying cyber attacks now by downloading ThreatSlayer [HERE](https://chrome.google.com/webstore/detail/threatslayer/mgcmocglffknmbhhfjihifeldhghihpj)
 
 [Join our discord](https://discord.gg/EP7Ukq6p) for the latest news.
