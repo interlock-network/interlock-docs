@@ -34,10 +34,10 @@ Below are the [sale](#sale), [distribution](#distribution) and [vesting](#vestin
 | **Pre-sale 2**       | 3.3%        | 33,333,333    |
 | **Pre-sale 3**       | 2.1%        | 21,428,571    |
 | **Public Sale (Up to)**   | 2.9%      | 28,500,000  |        
-| **Founder/Team**     | 20.0%       | 200,000,000   |
+| **Core Team**        | 20.0%       | 200,000,000   |
 | **Outlier Ventures** | 4.0%        | 40,000,000    |
 | **Advisors**         | 2.5%        | 25,000,000    |
-| **Community**        | 30.0%       | 300,000,000   |
+| **ThreatSlayer Rewards**| 30.0%       | 300,000,000   |
 | **Foundation**       | 26.0%       | 260,403,241  |
 | **Partners**         | 3.7%        | 37,000,000    |
 | **Total**            | 100%        | 1,000,000,000 |
@@ -55,6 +55,6 @@ Below are the [sale](#sale), [distribution](#distribution) and [vesting](#vestin
 | **Core Team**          | 36               | 6             |  5,555,556  |
 | **Outlier Ventures**   | 24               | 1             |  1,666,667  |
 | **Advisors**           | 24               | 1             |  1,041,667  |
-| **Staking/Rewards**    | 144               | 0             |  2,083,333  |
+| **ThreatSlayer Rewards**    144               | 0             |  2,083,333  |
 | **Foundation**         | 84               | 1             |  3,100,039  |
-| **Strategic partners** | 12                | 0             |  3,083,333 |
+| **Partners**           | 12                | 0             |  3,083,333 |
