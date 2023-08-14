@@ -55,6 +55,6 @@ Below are the [sale](#sale), [distribution](#distribution) and [vesting](#vestin
 | **Core Team**          | 36               | 6             |  5,555,556  |
 | **Outlier Ventures**   | 24               | 1             |  1,666,667  |
 | **Advisors**           | 24               | 1             |  1,041,667  |
-| **ThreatSlayer Rewards**    144               | 0             |  2,083,333  |
+| **ThreatSlayer Rewards**|144              | 0             |  2,083,333  |
 | **Foundation**         | 84               | 1             |  3,100,039  |
 | **Partners**           | 12                | 0             |  3,083,333 |
