@@ -8,10 +8,9 @@ icon: home
 Interlock protects DeFi while rewarding the people who make it safer.
 
 Join the rebellion against cybercrime with ThreatSlayer. Our security browser extension gives instant protection from browser-based threats and rewards you for making the internet safer.
-
-Start slaying cyber attacks now by downloading ThreatSlayer [HERE](https://chrome.google.com/webstore/detail/threatslayer/mgcmocglffknmbhhfjihifeldhghihpj)
-
 [Join our discord](https://discord.gg/EP7Ukq6p) for the latest news.
+## Start slaying cyber attacks now by downloading ThreatSlayer [HERE](https://chrome.google.com/webstore/detail/threatslayer/mgcmocglffknmbhhfjihifeldhghihpj)
+
 
 
 ```mermaid
@@ -27,15 +26,6 @@ platform that strengthens the world’s ability to battle online threats. We’r
 people earn $ILOCK tokens for sharing anonymized data they control.
 
 We are calling the space DeSec, the first of its kind decentralized security and intelligence. The first application in the ecosystem, as an example, is an anti-phishing and threat sharing platform that is a browser extension you can install and use; however, it does not yet support blockchain and token earning, that is still a work-in-progress.
-
-## Sign up for Community Sale
-
-Enter for a spot on the whitelist if you want to be notified when the community sale starts.
-[Sign up for Community Sale](https://bit.ly/INTRwhitelist)
-
- ## Join the team
-
-Interlock is not currently hiring. You can find future listings [here](https://interlock.breezy.hr/)
 
 ## Roadmap
 
@@ -68,10 +58,13 @@ the [Issues tab](https://github.com/interlock-network/interlock-docs/issues) and
 * [JohnnyUtah](https://github.com/teachrdan) - Product Manager
 * [jmercouris](https://github.com/jmercouris) - Sr. Engineer
 * [blairmunroakusa](https://github.com/blairmunroakusa) - Software Engineer
-* [memechoi](http://chasehoch.com/) - Creative & Design Lead
 * [treevuhh](https://github.com/Treevuhh) - Chaos Operations Coordinator
 * @Captain.Azero - Community Manager
 * @ReuX - Community Manager
+
+ ## Join the team
+
+Interlock is not currently hiring. You can find future listings [here](https://interlock.breezy.hr/)
 
 **Credits**
 
