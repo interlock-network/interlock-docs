@@ -142,33 +142,33 @@ Here are the first 3 years of emissions, divided into half-year periods.
   </tr>
   <tr>
     <td>Month 1 -2023</td>
-    <td>33,707,288</td>
-    <td>33,707,288</td>
+    <td>33,304,746</td>
+    <td>33,304,746</td>
   </tr>
    <tr>
     <td>Month 6 -2023</td>
-    <td>17,708,125</td>
-    <td>125,951,619</td>
+    <td>184,997,274</td>
+    <td>218,302,022</td>
   </tr>
    <tr>
     <td>Month 12 -2024</td>
-    <td>23,263,681</td>
-    <td>265,533,705</td>
+    <td>149,152,284</td>
+    <td>367,454,308</td>
   </tr>
    <tr>
     <td>Month 18 -2024</td>
-    <td>16,172,411</td>
-    <td>376,326,109</td>
+    <td>118,576,890</td>
+    <td>486,031,198</td>
   </tr>
   <tr>
     <td>Month 24 -2025</td>
-    <td>13,471,177</td>
-    <td>459,854,403</td>
+    <td>87,095,144</td>
+    <td>573,126,342</td>
   </tr>
   <tr>
     <td>Month 30 -2025</td>
-    <td>10,762,843</td>
-    <td>527,139,796</td>
+    <td>67,578,478</td>
+    <td>640,704,819</td>
   </tr>
   </table>
 
