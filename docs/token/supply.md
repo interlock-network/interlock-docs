@@ -15,13 +15,13 @@ Below are the [sale](#sale), [distribution](#distribution) and [vesting](#vestin
 
 |                         | Raise       | Valuation Cap | Relevant Price  | Tokens      | % of Tokens   |
 |-------------------------|-------------|---------------|-----------------|-------------|---------------|
-| **Pre-sale 1**          | $2,188,200  | $45,000,000   |  $0.045         | 48,626,667  |   4.86%       |
+| **Pre-sale 1**          | $2,188,200  | $28,000,000   |  $0.028         | 78,150,000  |   7.82%       |
 | **Pre-sale 2**          | $1,000,000  | $30,000,000   |  $0.030         | 33,333,333  |   3.33%       |
 | **Pre-sale 3**          | $900,000    | $35,000,000   |  $0.035         | 25,714,286  |   2.57%       |
 | **Community Sale**      | $100,000    | $27,000,000   |  $0.027         | 3,703,704   |   0.37%       |
-| ***Investment Subtotal***|*$4,188,200*|               |                 |*111,377,989*|   *11.14%*    |
+| ***Investment Subtotal***|*$4,188,200*|               |                 |*140,901,323*|   *14.09%*    |
 | **Public Sale (Up to)** | $997,500    | $35,000,000   |  $0.035         | 28,500,000  |   2.85%       |
-| ***Total***             |*$5,185,700* |               |                 |*139,877,989*|   *13.99%*    |
+| ***Total***             |*$5,185,700* |               |                 |*169,401,323*|   *16.94%*    |
 
 
 ## Token Distribution Scheme
@@ -29,7 +29,7 @@ Below are the [sale](#sale), [distribution](#distribution) and [vesting](#vestin
 |                      | % of Tokens | # of Tokens   |
 |----------------------|-------------|---------------|
 | **Community Sale**   | 0.4%        | 3,703,704     |
-| **Pre-sale 1**       | 4.9%        | 48,626,667    |
+| **Pre-sale 1**       | 7.8%        | 78,150,000    |
 | **Pre-sale 2**       | 3.3%        | 33,333,333    |
 | **Pre-sale 3**       | 2.6%        | 25,714,286    |
 | **Public Sale (Up to)**| 2.9%      | 28,500,000    |        
@@ -37,7 +37,7 @@ Below are the [sale](#sale), [distribution](#distribution) and [vesting](#vestin
 | **Outlier Ventures** | 4.0%        | 40,000,000    |
 | **Advisors**         | 2.5%        | 25,000,000    |
 | **Community Rewards**| 30.0%       | 300,000,000   |
-| **Foundation**       | 25.8%       | 258,122,011   |
+| **Foundation**       | 22.9%       | 228,598,677   |
 | **Strategic Partners/KOL**| 3.7%   | 37,000,000    |
 | ***Total***          | *100%*      |*1,000,000,000*|
 
@@ -47,9 +47,9 @@ Below are the [sale](#sale), [distribution](#distribution) and [vesting](#vestin
 |                        | Monthly Payments | Initial Cliff | Vesting Starts| Vesting Ends| Monthly     |
 |------------------------|------------------|---------------|---------------|-------------|-------------|
 | **Community Sale**     | 3                | 1             | Nov/2023      | Feb/2024    |  1,234,568  |
-| **Pre-sale 1**         | 18               | 1             | Nov/2023      | May/2025    |  2,701,481  |
+| **Pre-sale 1**         | 18               | 1             | Nov/2023      | May/2025    |  4,341,667  |
 | **Pre-sale 2**         | 15               | 1             | Nov/2023      | Feb/2025    |  2,222,222  |
-| **Pre-sale 3**         | 12               | 2             | Nov/2023      | Nov/2024    |  2,142,857  |
+| **Pre-sale 3**         | 12               | 1.5           | Nov/2023      | Nov/2024    |  2,142,857  |
 | **Public Sale (Up to)**| 3                | 0             | Oct/2023      | Jan/2024    |  28,500,000 |
 | **Founder/Team**       | 36               | 1             | Nov/2023      | Nov/2026    |  5,555,556  |
 | **Outlier Ventures**   | 24               | 1             | Nov/2023      | Nov/2025    |  1,666,667  |
