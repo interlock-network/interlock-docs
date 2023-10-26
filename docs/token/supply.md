@@ -49,7 +49,7 @@ Below are the [sale](#sale), [distribution](#distribution) and [vesting](#vestin
 | **Community Sale**     | 3                | 1             | Nov/2023      | Feb/2024    |  1,234,568  |
 | **Pre-sale 1**         | 18               | 1             | Nov/2023      | May/2025    |  4,341,667  |
 | **Pre-sale 2**         | 15               | 1             | Nov/2023      | Feb/2025    |  2,222,222  |
-| **Pre-sale 3**         | 12               | 1.5           | Nov/2023      | Nov/2024    |  2,142,857  |
+| **Pre-sale 3**         | 12               | 2             | Nov/2023      | Nov/2024    |  2,142,857  |
 | **Public Sale (Up to)**| 3                | 0             | Oct/2023      | Jan/2024    |  28,500,000 |
 | **Founder/Team**       | 36               | 1             | Nov/2023      | Nov/2026    |  5,555,556  |
 | **Outlier Ventures**   | 24               | 1             | Nov/2023      | Nov/2025    |  1,666,667  |
