@@ -508,7 +508,7 @@ Here are the first 3 years of emissions, divided into half-year periods.
   <tr>
     <td>Month 1 -2023</td>
     <td>16,928,203</td>
-    <td>16,928,203td>
+    <td>16,928,203</td>
   </tr>
    <tr>
     <td>Month 6 -2023</td>
