@@ -54,6 +54,6 @@ Below are the [sale](#sale), [distribution](#distribution) and [vesting](#vestin
 | **Founder/Team**       | 36               | 1             | Jan/2024      | Dec/2026    |  5,555,556  |
 | **Outlier Ventures**   | 24               | 1             | Jan/2024      | Dec/2025    |  1,666,667  |
 | **Advisors**           | 24               | 1             | Jan/2024      | Dec/2025    |  1,041,667  |
-| **ThreatSlayer Community Rewards**  |84               | 0             | Nov/2030      | Oct/2035    |  3,571,429  |
+| **ThreatSlayer Community Rewards**  |84               | 0             | Nov/2030      | Nov/2030    |  3,571,429  |
 | **Foundation**         | 84               | 0             | Dec/2023      | Nov/2030    |  2,622,206  |
 | **Strategic Partners/KOL**| 12            | 1             | Jan/2024      | Dec/2024    |  3,083,333  |
