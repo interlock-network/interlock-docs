@@ -7,7 +7,7 @@ Below are the [sale](#sale), [distribution](#distribution) and [vesting](#vestin
 | Overview                        |               |
 |---------------------------------|---------------|
 | Total Supply of Tokens          | 1,000,000,000 |
-| TDE Target Date                 | Oct/2023      |
+| TGE Target Date                 | Jan/2024      |
 | % Public Sale of Supply (Up to) | 5.0%          |
 | Public Sale Valuation           | 35,000,000    |
 
