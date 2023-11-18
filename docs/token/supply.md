@@ -46,7 +46,7 @@ Below are the [sale](#sale), [distribution](#distribution) and [vesting](#vestin
 
 |                        | Monthly Payments | Initial Cliff | Vesting Starts| Vesting Ends| Monthly     |
 |------------------------|------------------|---------------|---------------|-------------|-------------|
-| **Community Sale**     | 3                | 0             | Dec/2023      | Feb/2024    |  1,234,568  |
+| **Community Sale**     | 6                | 0             | Dec/2023      | Feb/2024    |  1,234,568  |
 | **Pre-sale 1**         | 18               | 1             | Jan/2024      | Jun/2025    |  4,341,667  |
 | **Pre-sale 2**         | 15               | 1             | Jan/2024      | Mar/2025    |  2,777,778  |
 | **Pre-sale 3**         | 12               | 2             | Feb/2024      | Jan/2024    |  2,142,857  |
