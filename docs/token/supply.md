@@ -31,7 +31,7 @@ Below are the [sale](#sale), [distribution](#distribution) and [vesting](#vestin
 | **Community Sale**   | 0.4%        | 7,407,407     |
 | **Pre-sale 1**       | 7.8%        | 78,150,000    |
 | **Pre-sale 2**       | 4.2%        | 41,666,667    |
-| **Pre-sale 3/Repulbic**| 2.6%        | 25,714,286    |
+| **Pre-sale 3/Republic**| 2.6%        | 25,714,286    |
 | **CEX/DEX/Launchpad**| 2.9%        | 28,500,000    |        
 | **Core Team**        | 20.0%       | 200,000,000   |
 | **Outlier Ventures** | 4.0%        | 40,000,000    |
