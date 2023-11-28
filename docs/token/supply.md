@@ -17,7 +17,7 @@ Below are the [sale](#sale), [distribution](#distribution) and [vesting](#vestin
 |-------------------------|-------------|---------------|-----------------|-------------|---------------|
 | **Pre-sale 1**          | $2,188,200  | $28,000,000   |  $0.028         | 78,150,000  |   7.82%       |
 | **Pre-sale 2**          | $1,250,000  | $30,000,000   |  $0.030         | 41,666,667  |   4.17%       |
-| **Pre-sale 3/Republic** | $900,000    | $35,000,000   |  $0.035         | 25,714,286  |   2.57%       |
+| **Republic Sale** | $900,000    | $35,000,000   |  $0.035         | 25,714,286  |   2.57%       |
 | **Community Sale**      | $100,000    | $27,000,000   |  $0.027         | 7,407,407   |   0.37%       |
 | ***Investment Subtotal***|*$4,538,200*|               |                 |*152,938,360*|   *15.29%*    |
 | **CEX/DEX/Launchpad**   | $1,026,000    | $36,000,000   |  $0.035         | 28,500,000  |   2.85%       |
@@ -31,7 +31,7 @@ Below are the [sale](#sale), [distribution](#distribution) and [vesting](#vestin
 | **Community Sale**   | 0.4%        | 7,407,407     |
 | **Pre-sale 1**       | 7.8%        | 78,150,000    |
 | **Pre-sale 2**       | 4.2%        | 41,666,667    |
-| **Pre-sale 3/Republic**| 2.6%        | 25,714,286    |
+| **Republic Sale**| 2.6%        | 25,714,286    |
 | **CEX/DEX/Launchpad**| 2.9%        | 28,500,000    |        
 | **Core Team**        | 20.0%       | 200,000,000   |
 | **Outlier Ventures** | 4.0%        | 40,000,000    |
@@ -49,7 +49,7 @@ Below are the [sale](#sale), [distribution](#distribution) and [vesting](#vestin
 | **Community Sale****     | 6               | 0             |  1,234,568  |
 | **Pre-sale 1**         | 18               | 1             |  4,341,667  |
 | **Pre-sale 2**         | 15               | 1             |  2,777,778  |
-| **Pre-sale 3/Republic****| 12              | 0             |  2,142,857  |
+| **Republic Sale****| 12              | 0             |  2,142,857  |
 | **CEX/DEX/Launchpad**| 3                | 0             |  9,500,000 |
 | **Core Team***       | 36               | 1             |  5,555,556  |
 | **Outlier Ventures**   | 24               | 1             |  1,666,667  |
