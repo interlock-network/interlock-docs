@@ -59,4 +59,4 @@ Below are the [sale](#sale), [distribution](#distribution) and [vesting](#vestin
 | **Strategic Partners**| 12                | 1             |  3,083,333  |
 
 *Core Team is subject to 12 month holding period
-**Community Sale and Pre-Sale 3/Republic are subject to 4 month holding period
+**Community Sale and Republic Sale are subject to 4 month holding period
