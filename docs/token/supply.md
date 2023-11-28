@@ -50,7 +50,7 @@ Below are the [sale](#sale), [distribution](#distribution) and [vesting](#vestin
 | **Pre-sale 1**         | 18               | 1             |  4,341,667  |
 | **Pre-sale 2**         | 15               | 1             |  2,777,778  |
 | **Pre-sale 3/Republic****| 12              | 0             |  2,142,857  |
-| **CEX/DEX/Launchpad (Up to)**| 3                | 0             |  9,500,000 |
+| **CEX/DEX/Launchpad**| 3                | 0             |  9,500,000 |
 | **Core Team***       | 36               | 1             |  5,555,556  |
 | **Outlier Ventures**   | 24               | 1             |  1,666,667  |
 | **Advisors**           | 24               | 1             |  1,041,667  |
