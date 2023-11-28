@@ -40,3 +40,17 @@ Our current focus is arming DeFi consumers with free enterprise-grade security a
 
 #### How it Works
 ThreatSlayer is compatible with Chrome, Brave, Opera and Edge browsers. Installation takes one click and it instantly starts scanning every website a user visits. When a user visits a potentially dangerous URL, ThreatSlayer locks down the page before the user enters credentials or downloads dangerous files.ThreatSlayer uses our core technology, AI  Threat Detection to identify characteristics of malicious websites. As a proactive security solution, ThreatSlayer protects users before issues arise, and its simple one-click installation process further enhances its appeal.
+
+### Enterprise Products
+In the second phase, Interlock will focus on monetizing the crowd-sourced threat intel from ThreatSlayer users along with a suite of cybersecurity products. The Threat intel amounted to $11.6 billion in 2021 and is expected to climb up to $15.8 billion by 2026. This phase is designed to capitalize on the increasing value of data and security provided by our growing community. Our enterprise-focused product suite will consist of three core offerings.
+
+#### NetKeeper: 
+The enterprise version of ThreatSlayer, which includes advanced reporting, analytics, and features to enhance customer contract value and attract new clients for our browser security platform. This product targets the $14 billion per year browser defense market.
+
+#### Threat Intelligence Platform: 
+Introducing Interlock Labs, a solution that leverages anonymized security data from ThreatSlayer users to help enterprises improve their cybersecurity posture. This offering addresses the $10 billion per year threat intelligence market and facilitates the licensing of Interlock threat intel solutions to Fortune 500 customers that are transitioning from centralized to decentralized security. Think of crowdsourcing cybersecurity for Web3 – with compensation. 
+
+#### Autocrat: Our AI Threat Detection in API format that automatically scans links and flags the dangerous ones. Autocrat users will use tokens as a gas fee for URL scanning
+.
+A portion of the revenue generated from these enterprise offerings will be used for token buybacks, while the shared data from both consumer users and enterprises will create a collaborative environment for enhanced security. This collaboration will result in safer products for everyone involved.
+
