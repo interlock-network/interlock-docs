@@ -16,53 +16,15 @@ title: Whitepaper
 # Whitepaper
 
 ## Abstract
-The web requires *trust* between many participants to reach its fullest
-potential. However, we (as in humanity) have centralized the
-trust-rating function to a handful of gatekeepers, who themselves have
-questionable credibility and competence. We propose a solution that uses
-blockchain and other technologies to increase security, privacy, and
-trust and bypasses those gatekeepers.
+Traditional security providers have failed to address the persistent issues of phishing and social engineering attacks, which cause substantial financial harm to everyday internet users. Despite spending billions of dollars on security ($8.7 billion for consumers and $88.7 billion for enterprises last year), Web2 solutions remain siloed and ineffective. It is time for a new approach that involves collaboration between all stakeholders to create a safer internet for everyone. Introducing Interlock, blockchain-based security products for individuals and enterprises that  enable this necessary Web3 collaboration. By leveraging blockchain technology and Artificial Intelligence (AI), we harness the power of the crowd to share essential threat intelligence data between consumers and enterprises, resulting in a safer internet for all. Our flagship product, ThreatSlayer, is a free, enterprise-grade security extension that provides browser-based protection against browser-based attacks, like phishing and social engineering. Users can elect to share anonymized security data and earn rewards in $ILOCK, contributing to the safety of the entire network, product, and the internet while also receiving their deserved compensation. Join us in building a safer and more secure internet for all with our blockchain-based security products.
 
-## Introduction
-The thing about these kinds of papers &mdash; whitepapers &mdash; is
-that they are supposed to be confident, authoritative, and seductive.
-Why, we hear you ask? Because stringing together words that create an
-impression of authoritative and seductive confidence is what often
-convinces people to buy whatever it is you are selling. Everybody wants
-to invest in the impossible-to-miss certain-to-win solution to some
-problem that the market has. We have gone through a lot of whitepapers
-written with the confidence and certainty of a devout missionary seeking
-converts and, of course, donors. We are not going to do that to you.
+## Rising Theft Threatens Mass Crypto Adoption
+The increasing rate of crypto theft is posing a significant threat to the industry, and the consequences are alarming .The Chainalysis 2023 Crypto Crime Report reveals that the total revenue generated from crypto scams since 2017 has exceeded a whopping $37 billion, with over $16 billion of that amount collected in the last two years alone. The average yearly revenue loss due to crypto theft over the last six years stands at a staggering $6 billion, indicating a 22.5% year-on-year increase. This trend highlights the urgent need for enhanced security measures to tackle the growing threat of scams, as more people enter the cryptocurrency market. However, it's not just scams; cybercriminals also utilize malware, phishing, and other malicious tactics to carry out crypto theft. This trend is concerning for the crypto and NFT community, putting their reputation at risk and exposing their community to the dangers of theft. If this trend continues, it could result in a catastrophic impact on the adoption of DeFi and cryptocurrency on a global scale.
 
-Make no mistake, we *are* trying to *convince* you of the merits of our
-vision and idea &mdash; we just have no interest in *hypnotizing* you
-into agreeing with us. If you believe that the Web is not living up to
-its founding promises &mdash; and you want to change this &mdash; then
-please read on.
 
-## The Problem
-### History
-The writers of this paper, fellow traveler, are old enough to remember
-the following: napster, gnutella, bit-torrent, Usenet, slashdot, RSS
-Feeds, Tor, Google before it became evil, and Open Source before it
-became cool. We remember an internet where nobody knew that you were a
-dog &mdash; and, more importantly, nobody cared. We remember when being
-social on the internet meant that you had a blog, read (and shared files
-on) USENET, and participated in Slashdot discussions and flame-wars as
-an 'Anonymous Coward'. We remember that being informed meant that you
-used Google Reader (RIP) to read RSS feeds which were absolutely
-everywhere. And if you *really* wanted to stick it to The Man, you
-installed Linux on your second-hand beige-box and Firefox on your folks'
-Windows computer &mdash; we still have vivid memories and strong
-feelings about MSFT, and quite a bit of residual PTSD and mental
-scar-tissue. But, somewhere along the way, the internet took a turn. Now
-people use Facebook instead of USENET, Twitter instead of RSS, and
-Netflix, YouTube, and Spotify instead of BitTorrent. Also USENET,
-Slashdot, and friends are all ghost-towns &mdash; while their nearest
-equivalents have been overrun by trolls, cat-pictures, memes,
-advertisers, and cybercriminals. Oh, and Microsoft is an increasingly
-popular and increasingly open-source company &mdash; which is as
-inconceivable as Ghengis Khan becoming an exemplary Red Cross volunteer.
+## Social Engineering & Phishing Attacks Plague Web3
+For more than two decades, phishing attacks have posed a persistent and pervasive threat to online security, with billions of dollars spent trying to thwart them. In Web3, however, the threat is even more significant, with a single click potentially leading to the draining of their entire wallet and loss of digital assets. 
+To put it into perspective, Phishing, identified by IBM as one of the leading attack vectors in cybercrime, accounted for 16% of such incidents. On average, breaches resulting from phishing cost $4.91 million. With the switch to Web3 and users handling their own funds, there must be more awareness on how to stay safe. If these phishing scams succeed with employees who have cybersecurity measures in place, they will succeed at phishing individuals who are new to it.  When it comes to the security problems facing Web2 and Web3 users, the most prevalent issues center around social engineering. Social engineering is the act of tricking someone into giving up some valuable information, and in the online world, this often means convincing users to click on a link, reset a password, or sign a contract for an airdrop before time runs out. Attackers use a variety of methods to achieve this, including phishing attacks, malware infections, and scams that take advantage of the hype surrounding cryptocurrency and Web3 technologies.
 
 
 Clearly, there has been a pendulum swing from a decentralized and
