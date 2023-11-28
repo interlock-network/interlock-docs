@@ -36,7 +36,7 @@ Below are the [sale](#sale), [distribution](#distribution) and [vesting](#vestin
 | **Core Team**        | 20.0%       | 200,000,000   |
 | **Outlier Ventures** | 4.0%        | 40,000,000    |
 | **Advisors**         | 2.5%        | 25,000,000    |
-| **Community Rewards**| 30.0%       | 300,000,000   |
+| **ThreatSlayer Rewards**| 30.0%       | 300,000,000   |
 | **Foundation**       | 22.0%       | 216,561,640   |
 | **Strategic Partners**| 3.7%   | 37,000,000    |
 | ***Total***          | *100%*      |*1,000,000,000*|
@@ -54,7 +54,7 @@ Below are the [sale](#sale), [distribution](#distribution) and [vesting](#vestin
 | **Core Team***       | 36               | 1             |  5,555,556  |
 | **Outlier Ventures**   | 24               | 1             |  1,666,667  |
 | **Advisors**           | 24               | 1             |  1,041,667  |
-| **ThreatSlayerRewards**  |84              | 0             |  3,571,429  |
+| **ThreatSlayer Rewards**  |84              | 0             |  3,571,429  |
 | **Foundation**         | 84               | 0             |  2,578,115  |
 | **Strategic Partners**| 12                | 1             |  3,083,333  |
 
