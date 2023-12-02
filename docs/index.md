@@ -29,13 +29,13 @@ any questions or just talk to the developers about how great their day is today 
 the [Issues tab](https://github.com/interlock-network/interlock-docs/issues) and create a new issue, whether it's a typo in the white paper or you want something added/removed.
 
 ## The Team
-* [rickdeaconx](https://github.com/rickdeaconx) - Project Owner & CEO
-* [galactic-beyond](https://github.com/galactic-beyond) - Project Owner & Principal Engineer
-* [andycheech](https://github.com/andycheech) - Chief of Marketing
-* [JohnnyUtah](https://github.com/teachrdan) - Product Manager
-* [jmercouris](https://github.com/jmercouris) - Sr. Engineer
-* [blairmunroakusa](https://github.com/blairmunroakusa) - Software Engineer
-* [treevuhh](https://github.com/Treevuhh) - Chaos Operations Coordinator
+* Rick Deacon [rickdeaconx](https://github.com/rickdeaconx) - Project Owner & CEO
+* Nick Z [galactic-beyond](https://github.com/galactic-beyond) - Project Owner & Principal Engineer
+* Andy Ciacca [andycheech](https://github.com/andycheech) - Chief of Marketing
+* Dan T.S [JohnnyUtah](https://github.com/teachrdan) - Product Manager
+* John Mercouris [jmercouris](https://github.com/jmercouris) - Sr. Engineer
+* Blair Munro [blairmunroakusa](https://github.com/blairmunroakusa) - Software Engineer
+* Treva T. [treevuhh](https://github.com/Treevuhh) - Chaos Operations Coordinator
 * @Captain.Azero - Community Manager
 * @ReuX - Community Manager
 
