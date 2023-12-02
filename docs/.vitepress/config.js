@@ -63,36 +63,6 @@ export default {
           { text: 'ThreatSlayer', link: '/ecosystem/threatslayer' },
         ]
       },
-      {
-        collapsible: true,
-        collapsed: true,
-        text: "How We Work",
-        items: [
-          { text: 'Introduction', link: '/handbook/' },
-          { text: 'Our DNA', link: '/handbook/dna' },
-          { text: 'Founder', link: '/handbook/founders' },
-          // TODO these sections are WIP
-          // { text: 'Community', link: '/handbook/community' },
-          // { text: 'Customer', link: '/handbook/customers' },
-          // { text: 'Digital Experience', link: '/' },
-          // { text: 'Engineering', link: '/handbook/engineering' },
-          // { text: 'Growth', link: '/handbook/founders' },
-          // { text: 'People', link: '/handbook/people' },
-          // { text: 'Product', link: '/handbook/growth' },
-          // { text: 'Sales', link: '/handbook/sales' },
-          // { text: 'Security', link: '/handbook/security' },
-        ]
-      },
-      {
-        collapsible: true,
-        collapsed: true,
-        text: "Get Involved",
-        items: [
-          { text: 'Contribute', link: 'https://github.com/interlock-network' },
-          { text: 'Careers', link: 'https://interlock.breezy.hr/' },
-          { text: 'Discord', link: 'https://twitter.com/interlockweb3' }
-        ]
-      },
     ],
   },
   markdown: {
