@@ -57,10 +57,9 @@ A portion of the revenue generated from these enterprise offerings will be used 
 
 ## Token
 $ILOCK is a utility token launching on Aleph Zero and Arbitrum. 
-For additional info check out our [Launch & Supply](https://docs.interlock.network/token/supply.html)
 
 ### Tokenomics
-We plan to emit 1 billion tokens over 84 months. You can view our token supply, distribution, and vesting schedule here. 
+We plan to emit 1 billion tokens over 84 months. You can view our [token supply, distribution, and vesting schedule here](https://docs.interlock.network/token/supply.html). 
 
 ### Token Ecosystem & Utility 
 $ILOCK fuels the Interlock product ecosystem fostering a collaborative environment that strengthens security products for all network participants. 
