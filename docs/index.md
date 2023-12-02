@@ -1,12 +1,14 @@
 ## What is Interlock?
-Introducing Interlock, revolutionizing blockchain-based security solutions for individuals and enterprises, forging a safer internet. Our AI-driven security product, ThreatSlayer, defends against browser attacks while rewarding users with $ILOCK for sharing security data. We monetize the shared security data in the $11 billion yearly B2B threat intel market, creating a first-of-its-kind crowdsourced threat intelligence, along with a suite of enterprise security products.
+Introducing Interlock, revolutionary blockchain-based security solutions for individuals and enterprises, forging a safer internet. Our AI-driven security product, ThreatSlayer, defends against browser attacks while rewarding users with $ILOCK for sharing security data. We monetize the shared security data in the $11 billion yearly B2B threat intel market, creating a first-of-its-kind crowdsourced threat intelligence, along with a suite of enterprise security products.
 
 ### Addressing a Persistent Threat: Phishing Attacks
 For more than two decades, phishing attacks have been a significant threat to online security, causing financial harm. In Web3, the risk is even more substantial, with a single click potentially leading to the loss of digital assets. In 2022, $9.7 billion was stolen in crypto hacks and scams.
 
 ### Leveraging Web3 to Solve Legacy Web2 Threats
 
-Interlock’s AI-powered security extension ThreatSlayer, is a free, enterprise-grade security extension that protects against browser-based threats, phishing attacks, and bad downloads. You can add it to your Chrome, Brave, Edge, or Opera browser, and from there it runs quietly in the background, scanning visited websites and locking down potentially dangerous pages. With the future version of ThreatSlayer, users will earn $ILOCK tokens for sharing anonymized security data and staking tokens on misclassified pages. AI and human interaction together create smarter security products, preventing zero-day attacks and better security for all network participants. This incentivized security approach enables a stronger network, product, and safer internet for everyone.
+Interlock’s AI-powered security extension ThreatSlayer, is a free, enterprise-grade security extension that protects against browser-based threats, phishing attacks, and bad downloads. You can add it to your Chrome, Brave, Edge, or Opera browser, and from there it runs quietly in the background, scanning visited websites and locking down potentially dangerous pages. 
+
+With the future version of ThreatSlayer, users will earn $ILOCK tokens for sharing anonymized security data and staking tokens on misclassified pages. AI and human interaction together create smarter security products, preventing zero-day attacks and better security for all network participants. This incentivized security approach enables a stronger network, product, and safer internet for everyone.
 
 ### Key Achievements 
 
