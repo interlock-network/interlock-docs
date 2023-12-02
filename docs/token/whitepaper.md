@@ -48,7 +48,7 @@ In the second phase, Interlock will focus on monetizing the crowd-sourced threat
 The enterprise version of ThreatSlayer, which includes advanced reporting, analytics, and features to enhance customer contract value and attract new clients for our browser security platform. This product targets the $14 billion per year browser defense market.
 
 #### Threat Intelligence Platform: 
-Introducing Interlock Labs, a solution that leverages anonymized security data from ThreatSlayer users to help enterprises improve their cybersecurity posture. This offering addresses the $10 billion per year threat intelligence market and facilitates the licensing of Interlock threat intel solutions to Fortune 500 customers that are transitioning from centralized to decentralized security. Think of crowdsourcing cybersecurity for Web3 – with compensation. 
+Introducing Interlock Labs, a solution that leverages anonymized security data from ThreatSlayer users to help enterprises improve their cybersecurity posture. This offering addresses the $10 billion per year threat intelligence market and facilitates the licensing of Interlock threat intel solutions to Fortune 500 customers thatare transitioning from centralized to decentralized security. Think of crowdsourcing cybersecurity for Web3 – with compensation. 
 
 #### Autocrat: 
 Our AI Threat Detection in API format automatically scans links and flags the dangerous ones. Autocrat users will use tokens as a gas fee for URL scanning
