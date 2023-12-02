@@ -73,6 +73,23 @@ We plan to emit 1 billion tokens over 84 months. You can view our [token supply,
 ### Token Ecosystem & Utility 
 $ILOCK fuels the Interlock product ecosystem fostering a collaborative environment that strengthens security products for all network participants. 
 
+## Interlock Roadmap
+### Phase 1: Protect Consumers
+Scale ThreatSlayer and token launch to protect consumers and lay the foundation for our revenue-generating enterprise software business.
+
+- ThreatSlayer with Rewards: Lauch blockchain-enabled ThreatSlayer with $ILOCK rewards, upgraded functionality, and security staking.
+- $ILOCK Launch: Launch our token on Aleph Zero and Arbitrum networks and public exchanges
+- Bouncer:   Scale organic acquisition of Bouncer, our free Discord bot that scans and removes malicious links from public channels. Currently protecting over 55,000 users.
+
+### Phase 2: Protect Enterprises 
+In the second phase, we will focus on monetizing the crowdsourced threat intel from ThreatSlayer users. This phase is designed to capitalize on the increasing value of data and security provided by our growing community. Our enterprise-focused product suite will consist of three core offerings: 
+
+- NetKeeper: Enterprise Browser Security: Launch the enterprise-level version of ThreatSlayer, and build demand gen for new clients. NetKeeper targets the $14 billion yearly browser defense market.
+- Interlock Labs: Crowdsourced Threat Intel: Sell the crowdsourced threat intel to enterprises, and other security providers, addressing the $11 billion yearly threat intelligence market.
+- Autocrat: AI Threat Detection API:  Expand selling efforts of our threat detection API to browsers, wallets, and more. Web3 companies can purchase $ILOCK to use as URL scanning fees.  
+
+![Interlock Roadmap (2)](https://github.com/interlock-network/interlock-docs/assets/95258773/ebbd6c3b-6d38-4e45-af9f-994fd6c1821d)
+
 ## The Team
 The Interlock team, consisting of Y-Combinator graduates and tech marketing experts, brings extensive B2B marketing and sales experience. They have successfully sold similar technologies to large exchanges, gaming companies, and software enterprises. This expertise positions Interlock well for success in capturing a share of the $11 billion yearly threat intelligence market.
 
