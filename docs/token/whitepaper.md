@@ -56,9 +56,12 @@ Our AI Threat Detection in API format automatically scans links and flags the da
 A portion of the revenue generated from these enterprise offerings will be used for token buybacks, while the shared data from both consumer users and enterprises will create a collaborative environment for enhanced security. This collaboration will result in safer products for everyone involved.
 
 ## Token
-$ILOCK is a utility token launching on Aleph Zero and Arbitrum. We plan to emit 1 billion tokens for an 84 month period. 
+$ILOCK is a utility token launching on Aleph Zero and Arbitrum. 
+
+### Tokenomics
+We plan to emit 1 billion tokens over 84 months. You can view our token supply, distribution, and vesting schedule here. 
 
 ### Token Ecosystem & Utility 
-$ILOCK fuels the Interlock product ecosystem fostering a collaborative environment that strengthens the security products for all network participants. 
+$ILOCK fuels the Interlock product ecosystem fostering a collaborative environment that strengthens security products for all network participants. 
 
 
