@@ -73,4 +73,22 @@ We plan to emit 1 billion tokens over 84 months. You can view our [token supply,
 ### Token Ecosystem & Utility 
 $ILOCK fuels the Interlock product ecosystem fostering a collaborative environment that strengthens security products for all network participants. 
 
+## The Team
+The Interlock team, consisting of Y-Combinator graduates and tech marketing experts, brings extensive B2B marketing and sales experience. They have successfully sold similar technologies to large exchanges, gaming companies, and software enterprises. This expertise positions Interlock well for success in capturing a share of the $11 billion yearly threat intelligence market.
 
+**Our Mission**
+Our mission at Interlock is to empower everyone - businesses, individuals, and communities - with enterprise-grade security. By leveraging the blockchain technology and the strength we create a community-based approach, sharing vital threat intelligence data between consumers and enterprises. The result is enabling a safer internet for all, made possible by Web3 collaboration.
+
+* Rick Deacon - [rickdeaconx](https://github.com/rickdeaconx) - Project Owner & CEO
+* Nick Z - [galactic-beyond](https://github.com/galactic-beyond) - Project Owner & Principal Engineer
+* Andy Ciacca - [andycheech](https://github.com/andycheech) - Chief of Marketing
+* Dan T.S - [JohnnyUtah](https://github.com/teachrdan) - Product Manager
+* John Mercouris - [jmercouris](https://github.com/jmercouris) - Sr. Engineer
+* Blair Munro - [blairmunroakusa](https://github.com/blairmunroakusa) - Software Engineer
+* Treva T. - [treevuhh](https://github.com/Treevuhh) - Chaos Operations Coordinator
+* Islam Ege - @Captain.Azero - Social Media Manager
+* Reuben Wong - @ReuX - Community Manager
+
+ ## Join the team
+
+Interlock is not currently hiring. You can find future listings [here](https://interlock.breezy.hr/)
