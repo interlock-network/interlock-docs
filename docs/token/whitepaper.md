@@ -98,7 +98,7 @@ Our mission at Interlock is to empower everyone - businesses, individuals, and c
 
 * Rick Deacon - [rickdeaconx](https://github.com/rickdeaconx) - Project Owner & CEO
 * Nick Z - [galactic-beyond](https://github.com/galactic-beyond) - Project Owner & Principal Engineer
-* Andy Ciacca - [andycheech](https://github.com/andycheech) - Chief of Marketing
+* Andrew Ciaccia - [andycheech](https://github.com/andycheech) - Chief of Marketing
 * Dan T.S - [JohnnyUtah](https://github.com/teachrdan) - Product Manager
 * John Mercouris - [jmercouris](https://github.com/jmercouris) - Sr. Engineer
 * Blair Munro - [blairmunroakusa](https://github.com/blairmunroakusa) - Software Engineer
