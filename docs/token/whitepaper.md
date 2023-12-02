@@ -74,7 +74,12 @@ We plan to emit 1 billion tokens over 84 months. You can view our [token supply,
 
 ### Token Ecosystem & Utility 
 $ILOCK fuels the Interlock product ecosystem fostering a collaborative environment that strengthens security products for all network participants. 
-
+- **Threatslayer Users**: Users earn $ILOCK for sharing threat data and improving our AI when it misclassfies sites.
+- **Bounty Hunters**: Power users earn extra $ILOCK for actively seeking out online threats and reporting them to Interlock.
+- **URL Scanning Fees**: Tokens will be used for URL scanning fees,
+- **Security Staking**: ThreatSlayer users enhance network safety by staking tokens on misclassified websites and earn for accurate submissions.
+- **Enterprise Customers**: A portion of enterprise revenue will be used for token buybacks. Enterprises can stake tokens for product discounts.
+   
 ## Interlock Roadmap
 ### Phase 1: Protect Consumers
 Scale ThreatSlayer and token launch to protect consumers and lay the foundation for our revenue-generating enterprise software business.
