@@ -47,7 +47,7 @@ export default {
         collapsed: false,
         text: "ILOCK Token",
         items: [
-          { text: 'Launch & Supply', link: '/token/supply' },
+          { text: 'Tokenomics', link: '/token/supply' },
           { text: 'Models', link: 'https://github.com/interlock-network/interlock-models#interlock-models' },
           { text: 'Whitepaper', link: '/token/whitepaper' },
         ]
