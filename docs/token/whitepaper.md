@@ -85,7 +85,7 @@ Our mission at Interlock is to empower everyone - businesses, individuals, and c
 * Dan T.S - [JohnnyUtah](https://github.com/teachrdan) - Product Manager
 * John Mercouris - [jmercouris](https://github.com/jmercouris) - Sr. Engineer
 * Blair Munro - [blairmunroakusa](https://github.com/blairmunroakusa) - Software Engineer
-* Treva T. - [treevuhh](https://github.com/Treevuhh) - Chaos Operations Coordinator
+* Treva T. - [treevuhh](https://github.com/Treevuhh) - Operations Coordinator
 * Islam Ege - @Captain.Azero - Social Media Manager
 * Reuben Wong - @ReuX - Community Manager
 
