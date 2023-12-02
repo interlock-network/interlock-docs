@@ -1,40 +1,17 @@
----
-label: Home
-icon: home
----
+## What is Interlock?
+Introducing Interlock, blockchain-based security products for individuals and enterprises. By leveraging blockchain technology and Artificial Intelligence (AI), we harness the power of the crowd to share essential threat intelligence data between consumers and enterprises, enabling a safer internet for all.
 
-# What is Interlock?
+Our AI-powered security product, ThreatSlayer, protects users from browser-based attacks and will soon reward users $ILOCK for sharing anonymized security data and submitting dangerous websites our AI misclassifies.
 
-Interlock protects DeFi while rewarding the people who make it safer.
-
-Join the rebellion against cybercrime with ThreatSlayer. Our security browser extension gives instant protection from browser-based threats and rewards you for making the internet safer.
-[Join our discord](https://discord.gg/EP7Ukq6p) for the latest news.
-## Start slaying cyber attacks now by downloading ThreatSlayer [HERE](https://chrome.google.com/webstore/detail/threatslayer/mgcmocglffknmbhhfjihifeldhghihpj)
+We monetize the shared security data in the $11 billion yearly B2B threat intel market, creating a first-of-its-kind crowdsourced threat intelligence, along with a suite of enterprise security products.
 
 
-
-```mermaid
-%%{init: { 'theme': 'forest' } }%%
-graph LR
-    A[Browse the internet] --> B{Choose data to share}
-    B -->|Share security data| C[Earn ILOCK token]
-    B -->|Stay private| D[Stay protected from online scams]
-```
-
-You shouldn't have to worry about your tokens getting stolen or networks getting hacked. We are building out the world's first decentralized threat intelligence 
-platform that strengthens the world’s ability to battle online threats. We’re creating an ecosystem of community-driven security products to protect DeFi, where 
-people earn $ILOCK tokens for sharing anonymized data they control.
-
-We are calling the space DeSec, the first of its kind decentralized security and intelligence. The first application in the ecosystem, as an example, is an anti-phishing and threat sharing platform that is a browser extension you can install and use; however, it does not yet support blockchain and token earning, that is still a work-in-progress.
-
-## Roadmap
-
-![Interlock Timeline](https://user-images.githubusercontent.com/95258773/233697701-a517e453-cccb-4fc6-9468-7daf3c89faa6.jpeg)
+[//]: Roadmap.timeline.image.BELONGSHERE
 
 
 ## Tokenomics
 
-[View token launch and supply](https://docs.interlock.network/token/supply.html)
+[View here](https://docs.interlock.network/token/supply.html)
 
 
 ## Useful links
