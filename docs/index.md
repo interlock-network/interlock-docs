@@ -22,7 +22,7 @@ Recognized on Entrepreneur's "Elevator Pitch”
 
 
 ## About $ILOCK 
-The $ILOCK utility token fuels our ecosystem of seucirty products, fostering a collaborative security model by incentivizng network particpants to share seucrity data. 
+The $ILOCK utility token fuels our ecosystem of security products, fostering a collaborative security model by incentivizng network particpants to share seucrity data. 
 
 [View token supply, vesting and distribution here](https://docs.interlock.network/token/supply.html)
 
