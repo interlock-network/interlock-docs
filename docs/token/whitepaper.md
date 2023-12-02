@@ -31,6 +31,9 @@ Interlock's browser security extension, fueled by the native utility token $ILOC
 AI Threat Detection allows our products to detect novel scams and never-before-seen phishing sites, which is crucial in protecting people from scam sites, especially in the crypto and Web3 space. As new products come into the market, so do new phishing sites that try to drain wallets or steal funds. With our AI, instead of simply blocking known blacklisted sites, it will also allow for the blocking of new ones. The prevention of zero-day attacks through the AI model recognizing copied material is crucial in battling newly-introduced scams. 
 The system is trained on a dataset of known good and known bad websites and uses this training data to make predictions about new websites it encounters. It uses feature selection to identify key characteristics of a website that may indicate if it is malicious or not. Additionally, it also uses information from various sources, such as safe browsing lists, to make its predictions and protect users from new, unseen malicious websites. ThreatSlayer, our advanced browser security extension, has been trained on extensive datasets of known crypto scams, phishing links, dangerous URLs, malware, and more to ensure a robust line of defense against cyber threats. As part of our commitment to transparency and fostering community-driven improvements,  ThreatSlayer's code is open-source. You can access and contribute to our codebase on GitHub, which encourages collaboration and continuous enhancement of our cybersecurity solution. 
 
+## Ecosystem
+![Ecosystem Infographic](https://github.com/interlock-network/interlock-docs/assets/95258773/1f6611d5-af3e-440f-8dfc-87b347757698)
+
 ## Products
 ### ThreatSlayer
 #### Free Enterprise-Grade Security + $ILOCK Rewards
