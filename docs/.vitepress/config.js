@@ -39,6 +39,7 @@ export default {
         text: "Introduction",
         items: [
           { text: 'What is Interlock?', link: '/' },
+          { text: 'Whitepaper', link: '/token/whitepaper' },
           { text: 'FAQ', link: '/faq' },
         ]
       },
@@ -49,7 +50,6 @@ export default {
         items: [
           { text: 'Tokenomics', link: '/token/supply' },
           { text: 'Models', link: 'https://github.com/interlock-network/interlock-models#interlock-models' },
-          { text: 'Whitepaper', link: '/token/whitepaper' },
         ]
       },
       {
