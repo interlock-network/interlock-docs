@@ -46,7 +46,7 @@ export default {
       {
         collapsible: true,
         collapsed: false,
-        text: "ILOCK Token",
+        text: "$ILOCK Token",
         items: [
           { text: 'Tokenomics', link: '/token/supply' },
           { text: 'Models', link: 'https://github.com/interlock-network/interlock-models#interlock-models' },
