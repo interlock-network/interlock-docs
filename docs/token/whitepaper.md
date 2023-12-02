@@ -52,6 +52,13 @@ Introducing Interlock Labs, a solution that leverages anonymized security data f
 
 #### Autocrat: 
 Our AI Threat Detection in API format automatically scans links and flags the dangerous ones. Autocrat users will use tokens as a gas fee for URL scanning
-.
+
 A portion of the revenue generated from these enterprise offerings will be used for token buybacks, while the shared data from both consumer users and enterprises will create a collaborative environment for enhanced security. This collaboration will result in safer products for everyone involved.
+
+## Token
+$ILOCK is a utility token launching on Aleph Zero and Arbitrum. We plan to emit 1 billion tokens for an 84 month period. 
+
+### Token Ecosystem & Utility 
+$ILOCK fuels the Interlock product ecosystem fostering a collaborative environment that strengthens the security products for all network participants. 
+
 
