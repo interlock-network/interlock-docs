@@ -34,7 +34,7 @@ AI Threat Detection allows our products to detect novel scams and never-before-s
 The system is trained on a dataset of known good and known bad websites and uses this training data to make predictions about new websites it encounters. It uses feature selection to identify key characteristics of a website that may indicate if it is malicious or not. Additionally, it also uses information from various sources, such as safe browsing lists, to make its predictions and protect users from new, unseen malicious websites. ThreatSlayer, our advanced browser security extension, has been trained on extensive datasets of known crypto scams, phishing links, dangerous URLs, malware, and more to ensure a robust line of defense against cyber threats. As part of our commitment to transparency and fostering community-driven improvements,  ThreatSlayer's code is open-source. You can access and contribute to our codebase on GitHub, which encourages collaboration and continuous enhancement of our cybersecurity solution. 
 
 ## Ecosystem
-![Ecosystem Infographic](https://github.com/interlock-network/interlock-docs/assets/95258773/1f6611d5-af3e-440f-8dfc-87b347757698)
+![image](https://github.com/interlock-network/interlock-docs/assets/95258773/d462f932-7443-452b-9c12-f8fc56ed4d68)
 
 ## Products
 ### ThreatSlayer
