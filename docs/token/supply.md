@@ -9,7 +9,7 @@ Below are the [sale](#sale), [distribution](#distribution) and [vesting](#vestin
 | Total Supply of Tokens          | 1,000,000,000 |
 | TGE Target Date                 | Jan/2024      |
 | % Public Sale of Supply (Up to) | 5.0%          |
-| Public Sale Valuation           | 36,000,000    |
+| Public Sale Valuation           | 40,000,000    |
 
 ## Token Sale
 
@@ -18,9 +18,9 @@ Below are the [sale](#sale), [distribution](#distribution) and [vesting](#vestin
 | **Pre-sale 1**          | $2,188,200  | $28,000,000   |  $0.028         | 78,150,000  |   7.82%       |
 | **Pre-sale 2**          | $1,250,000  | $30,000,000   |  $0.030         | 41,666,667  |   4.17%       |
 | **Republic Sale** | $900,000    | $35,000,000   |  $0.035         | 25,714,286  |   2.57%       |
-| **Community Sale**      | $100,000    | $27,000,000   |  $0.027         | 7,407,407   |   0.37%       |
-| ***Investment Subtotal***|*$4,538,200*|               |                 |*152,938,360*|   *15.29%*    |
-| **CEX/DEX/Launchpad**   | $1,026,000    | $36,000,000   |  $0.036         | 28,500,000  |   2.85%       |
+| **Community Sale**      | $100,000    | $27,000,000   |  $0.027         | 3,703,704   |   0.37%       |
+| ***Investment Subtotal***|*$4,438,200*|               |                 |*149,234,656*|   *14.92%*    |
+| **CEX/DEX/Launchpad**   | $1,140,000    | $40,000,000   |  $0.040         | 28,500,000  |   2.85%       |
 | ***Total***             |*$5,435,700* |               |                 |*177,734,656*|   *17.77%*    |
 
 
@@ -28,7 +28,7 @@ Below are the [sale](#sale), [distribution](#distribution) and [vesting](#vestin
 
 |                      | % of Tokens | # of Tokens   |
 |----------------------|-------------|---------------|
-| **Community Sale**   | 0.4%        | 7,407,407     |
+| **Community Sale**   | 0.4%        | 3,703,704    |
 | **Pre-sale 1**       | 7.8%        | 78,150,000    |
 | **Pre-sale 2**       | 4.2%        | 41,666,667    |
 | **Republic Sale**| 2.6%        | 25,714,286    |
@@ -37,7 +37,7 @@ Below are the [sale](#sale), [distribution](#distribution) and [vesting](#vestin
 | **Outlier Ventures** | 4.0%        | 40,000,000    |
 | **Advisors**         | 2.5%        | 25,000,000    |
 | **ThreatSlayer Rewards**| 30.0%       | 300,000,000   |
-| **Foundation**       | 22.0%       | 216,561,640   |
+| **Foundation**       | 22.0%       | 220,265,344   |
 | **Strategic Partners**| 3.7%   | 37,000,000    |
 | ***Total***          | *100%*      |*1,000,000,000*|
 
@@ -50,7 +50,7 @@ Below are the [sale](#sale), [distribution](#distribution) and [vesting](#vestin
 | **Pre-sale 1**         | 18               | 1             |  4,341,667  |
 | **Pre-sale 2**         | 15               | 1             |  2,777,778  |
 | **Republic Sale****| 12              | 0             |  2,142,857  |
-| **CEX/DEX/Launchpad**| 3                | 0             |  9,500,000 |
+| **CEX/DEX/Launchpad**| 9                | 0             |  9,500,000 |
 | **Core Team***       | 36               | 1             |  5,555,556  |
 | **Outlier Ventures**   | 24               | 1             |  1,666,667  |
 | **Advisors**           | 24               | 1             |  1,041,667  |
