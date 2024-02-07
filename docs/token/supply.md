@@ -50,12 +50,12 @@ Below are the [sale](#sale), [distribution](#distribution) and [vesting](#vestin
 | **Community Sale****     | 6               | 1             |  617,284  |
 | **Pre-sale 1**         | 18               | 1             |  4,341,667  |
 | **Pre-sale 2**         | 15               | 1             |  2,011,111 |
-| **Pre-Sale 3**| 12              | 0             |  3,571,429  |
+| **Pre-Sale 3**| 12              | 1             |  3,571,429  |
 | **Launchpad/CEX**| 9                | 0             |  13,333,333 |
 | **Core Team***       | 36               | 1             |  5,555,556  |
 | **Outlier Ventures**   | 24               | 1             |  1,666,667  |
 | **Advisors**           | 24               | 1             |  1,041,667  |
-| **ThreatSlayer Rewards**  |84              | 0             |  3,571,429  |
+| **ThreatSlayer Rewards**  |84              | 1             |  3,571,429  |
 | **Foundation**         | 84               | 0             |  2,310,982 |
 | **Strategic Partners**| 12                | 1             |  1,833,333  |
 | **Liquidity**| 1               | 0             |  24,000,000 |
