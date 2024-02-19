@@ -9,7 +9,7 @@ export default {
     ['link', { rel: 'icon', href: '/favicon.ico' }],
   ],
   themeConfig: {
-    logo: '/img/logo.png',
+    logo: 'blob:chrome-untrusted://media-app/9ac8a768-cb66-4be8-acea-05ef013c4a4e',
     siteTitle: false,
     footer: {
       copyright: 'Copyright © 2022 Interlock'
