@@ -9,7 +9,7 @@ export default {
     ['link', { rel: 'icon', href: '/favicon.ico' }],
   ],
   themeConfig: {
-    logo: '//media-app/9ac8a768-cb66-4be8-acea-05ef013c4a4e" alt="Logo Horizon big (1).png"/',
+    logo: '<img src="blob:chrome-untrusted://media-app/9ac8a768-cb66-4be8-acea-05ef013c4a4e" alt="Logo Horizon big (1).png"/>',
     siteTitle: false,
     footer: {
       copyright: 'Copyright © 2022 Interlock'
