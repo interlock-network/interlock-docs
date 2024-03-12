@@ -42,8 +42,6 @@ the [Issues tab](https://github.com/interlock-network/interlock-docs/issues) and
 * Rick Deacon - [rickdeaconx](https://github.com/rickdeaconx) - Project Owner & CEO
 * Nick Z - [galactic-beyond](https://github.com/galactic-beyond) - Project Owner & Principal Engineer
 * Andy Ciacca - [andycheech](https://github.com/andycheech) - Chief of Marketing
-* Dan T.S - [JohnnyUtah](https://github.com/teachrdan) - Product Manager
-* John Mercouris - [jmercouris](https://github.com/jmercouris) - Sr. Engineer
 * Blair Munro - [blairmunroakusa](https://github.com/blairmunroakusa) - Software Engineer
 * Treva T. - [treevuhh](https://github.com/Treevuhh) - Chaos Operations Coordinator
 * @Captain.Azero - Community Manager
