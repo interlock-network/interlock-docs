@@ -44,6 +44,7 @@ the [Issues tab](https://github.com/interlock-network/interlock-docs/issues) and
 * Andy Ciacca - [andycheech](https://github.com/andycheech) - Chief of Marketing
 * Blair Munro - [blairmunroakusa](https://github.com/blairmunroakusa) - Software Engineer
 * Treva T. - [treevuhh](https://github.com/Treevuhh) - Chaos Operations Coordinator
+* Chris - [@AlephSuper](https://x.com/AlephSuper) - Ambassador Program Manager
 * @Levii - Community Manager
 * @ReuX - Community Manager
 
