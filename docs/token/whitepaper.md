@@ -95,7 +95,13 @@ In the second phase, we will focus on monetizing the crowdsourced threat intel f
 - Interlock Labs: Crowdsourced Threat Intel: Sell the crowdsourced threat intel to enterprises, and other security providers, addressing the $11 billion yearly threat intelligence market.
 - Autocrat: AI Threat Detection API:  Expand selling efforts of our threat detection API to browsers, wallets, and more. Web3 companies can purchase $ILOCK to use as URL scanning fees.  
 
-![Interlock Roadmap (2)](https://github.com/interlock-network/interlock-docs/assets/95258773/ebbd6c3b-6d38-4e45-af9f-994fd6c1821d)
+![Interlock Whitepaper_28](https://github.com/interlock-network/interlock-docs/assets/95258773/763dcc6f-e608-45a5-b9f8-741ce2b9e320)
+![Interlock Whitepaper_29](https://github.com/interlock-network/interlock-docs/assets/95258773/3d22e70d-5650-4684-b5b2-a8fb6faab038)
+![Interlock Whitepaper_30](https://github.com/interlock-network/interlock-docs/assets/95258773/fa40542f-3079-4c77-8d42-09dedb0ba850)
+![Interlock Whitepaper_31](https://github.com/interlock-network/interlock-docs/assets/95258773/5ee414da-a6db-4ea3-bf32-f922b2a20d5f)
+![Interlock Whitepaper_32](https://github.com/interlock-network/interlock-docs/assets/95258773/150c5039-b992-42a9-ab00-01e89db0e263)
+
+
 
 ## The Team
 The Interlock team, consisting of Y-Combinator graduates and tech marketing experts, brings extensive B2B marketing and sales experience. They have successfully sold similar technologies to large exchanges, gaming companies, and software enterprises. This expertise positions Interlock well for success in capturing a share of the $11 billion yearly threat intelligence market.
