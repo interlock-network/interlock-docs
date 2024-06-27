@@ -7,7 +7,7 @@ Below are the [sale](#sale), [distribution](#distribution) and [vesting](#vestin
 | Overview                        |               |
 |---------------------------------|---------------|
 | Total Supply of Tokens          | 1,000,000,000 |
-| TGE Target Date                 | March 2024    |
+| TGE Target Date                 |  2024    |
 | % Public Sale of Supply (Up to) | 4.0%          |
 | Public Sale FDV           | $40,000,000    |
 | **Initial Market Cap** | **$871,949** | 
