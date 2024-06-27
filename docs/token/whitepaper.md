@@ -84,7 +84,7 @@ $ILOCK fuels the Interlock product ecosystem fostering a collaborative environme
 ### Phase 1: Protect Consumers
 Scale ThreatSlayer and token launch to protect consumers and lay the foundation for our revenue-generating enterprise software business.
 
-- ThreatSlayer with Rewards: Lauch blockchain-enabled ThreatSlayer with $ILOCK rewards, upgraded functionality, and security staking.
+- ThreatSlayer with Rewards: Launch blockchain-enabled ThreatSlayer with $ILOCK rewards, upgraded functionality, and security staking.
 - $ILOCK Launch: Launch our token on Aleph Zero and Arbitrum networks and public exchanges
 - Bouncer:   Scale organic acquisition of Bouncer, our free Discord bot that scans and removes malicious links from public channels. Currently protecting over 55,000 users.
 
